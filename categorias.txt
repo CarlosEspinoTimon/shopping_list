@@ -1,0 +1,130 @@
+Getting info from specific category:  Fruta de hueso
+URL:  /supermercado/el-mercado/frutas/fruta-de-hueso/N-xguw6q/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Fruta de temporada
+URL:  /supermercado/el-mercado/frutas/fruta-de-temporada/N-8j16l4/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Frutos del Bosque
+URL:  /supermercado/el-mercado/frutas/frutos-del-bosque/N-13plzl8/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Manzanas y Peras
+URL:  /supermercado/el-mercado/frutas/manzanas-y-peras/N-i8m3zg/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Naranjas y otros cítricos
+URL:  /supermercado/el-mercado/frutas/naranjas-y-otros-citricos/N-19fumwy/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Piñas y Tropicales
+URL:  /supermercado/el-mercado/frutas/pinas-y-tropicales/N-168bgo5/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Plátanos y Bananas
+URL:  /supermercado/el-mercado/frutas/platanos-y-bananas/N-xn63k/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Sandías y Melones
+URL:  /supermercado/el-mercado/frutas/sandias-y-melones-/N-1jl0vlq/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Uvas
+URL:  /supermercado/el-mercado/frutas/uvas/N-15ehf1b/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Aceites y vinagres
+URL:  /supermercado/la-despensa/alimentacion/aceites-y-vinagres/N-1c4rm7v/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Arroz y Cous Cous
+URL:  /supermercado/la-despensa/alimentacion/arroz-y-cous-cous/N-19nv2kq/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Especias y Sazonadores
+URL:  /supermercado/la-despensa/alimentacion/especias-y-sazonadores/N-s2cxvj/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Harinas y Levaduras
+URL:  /supermercado/la-despensa/alimentacion/harinas-y-levaduras/N-1txuje5/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Legumbres
+URL:  /supermercado/la-despensa/alimentacion/legumbres/N-5i1zpv/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Nutrición deportiva
+URL:  /supermercado/la-despensa/alimentacion/nutricion-deportiva/N-1ahw41o/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Sales y Bicarbonatos
+URL:  /supermercado/la-despensa/alimentacion/sales-y-bicarbonatos/N-grxm5l/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Salsas y Tomate Frito
+URL:  /supermercado/la-despensa/alimentacion/salsas-y-tomate-frito/N-ttbell/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Semillas
+URL:  /supermercado/la-despensa/alimentacion/semillas/N-5iuhjk/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Vino de Cocinar
+URL:  /supermercado/la-despensa/alimentacion/vino-de-cocinar/N-dy0ixi/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Vitaminas y Complementos
+URL:  /supermercado/la-despensa/alimentacion/vitaminas-y-complementos/N-t9jf8c/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Pastas
+URL:  /supermercado/la-despensa/alimentacion/pastas/N-107dg9k/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Brandy y Coñac
+URL:  /supermercado/bebidas/alcoholes/brandy-y-conac/N-1t16qda/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Cóckteles y combinados
+URL:  /supermercado/bebidas/alcoholes/cockteles-y-combinados/N-3y0i4n/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Ginebra
+URL:  /supermercado/bebidas/alcoholes/ginebra/N-1o9tenh/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Ron
+URL:  /supermercado/bebidas/alcoholes/ron/N-1danrcr/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Tequila
+URL:  /supermercado/bebidas/alcoholes/tequila/N-4yimt4/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Vermouth
+URL:  /supermercado/bebidas/alcoholes/vermouth/N-11m7ys3/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Vodka
+URL:  /supermercado/bebidas/alcoholes/vodka/N-sldipa/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Whisky y Bourbon
+URL:  /supermercado/bebidas/alcoholes/whisky-y-bourbon/N-eg3tf6/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Todos los Alcoholes
+URL:  /supermercado/bebidas/alcoholes/todos-los-alcoholes/N-1uimmyt/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Complementos Alimenticios
+URL:  /supermercado/bebe/alimentacion/complementos-alimenticios/N-1tug021/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Leches Infantiles
+URL:  /supermercado/bebe/alimentacion/leches-infantiles/N-muubk7/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Papillas y Galletas
+URL:  /supermercado/bebe/alimentacion/papillas-y-galletas/N-167urk5/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Postres, Zumos, Petit y Yogures Infantiles
+URL:  /supermercado/bebe/alimentacion/postres-zumos-petit-y-yogures-infantiles/N-iwufzw/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Tarritos y Platos Preparados
+URL:  /supermercado/bebe/alimentacion/tarritos-y-platos-preparados/N-l6m6dm/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Aditivos y quitamanchas
+URL:  /supermercado/limpieza-y-hogar/cuidado-de-la-ropa/aditivos-y-quitamanchas/N-qfl75z/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Agua de Plancha y Apresto
+URL:  /supermercado/limpieza-y-hogar/cuidado-de-la-ropa/agua-de-plancha-y-apresto/N-1ew4uzi/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Detergentes
+URL:  /supermercado/limpieza-y-hogar/cuidado-de-la-ropa/detergentes/N-pi8ugy/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Lejías lavadora
+URL:  /supermercado/limpieza-y-hogar/cuidado-de-la-ropa/lejias-lavadora/N-1a7nyvw/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Limpiadores y Antical para Lavadora
+URL:  /supermercado/limpieza-y-hogar/cuidado-de-la-ropa/limpiadores-y-antical-para-lavadora/N-1n4gn8m/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Suavizantes
+URL:  /supermercado/limpieza-y-hogar/cuidado-de-la-ropa/suavizantes/N-1xdorcf/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Tendido y Planchado
+URL:  /supermercado/limpieza-y-hogar/cuidado-de-la-ropa/tendido-y-planchado/N-1svquq0/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Tinte para la ropa
+URL:  /supermercado/limpieza-y-hogar/cuidado-de-la-ropa/tinte-para-la-ropa/N-1huyyjw/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Toallitas Atrapacolores
+URL:  /supermercado/limpieza-y-hogar/cuidado-de-la-ropa/toallitas-atrapacolores/N-1lwxxjb/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Colonias
+URL:  /supermercado/perfumeria-e-higiene/bano-e-higiene-corporal/colonias/N-3z5hdp/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Desodorantes
+URL:  /supermercado/perfumeria-e-higiene/bano-e-higiene-corporal/desodorantes/N-1ebq9b6/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Esponjas, Manoplas y Cepillos de Baño
+URL:  /supermercado/perfumeria-e-higiene/bano-e-higiene-corporal/esponjas-manoplas-y-cepillos-de-bano/N-76iy24/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Geles de Baño
+URL:  /supermercado/perfumeria-e-higiene/bano-e-higiene-corporal/geles-de-bano/N-gz79gl/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Jabón de Manos
+URL:  /supermercado/perfumeria-e-higiene/bano-e-higiene-corporal/jabon-de-manos/N-2j9lfy/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Ojos y Oreja
+URL:  /supermercado/perfumeria-e-higiene/bano-e-higiene-corporal/ojos-y-oreja/N-154z58u/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Sales de Baño
+URL:  /supermercado/perfumeria-e-higiene/bano-e-higiene-corporal/sales-de-bano/N-dwwer1/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Cremas y Lociones
+URL:  /supermercado/parafarmacia/cuidado-corporal/cremas-y-lociones/N-1n1mr9h/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Cuidado Íntimo
+URL:  /supermercado/parafarmacia/cuidado-corporal/cuidado-intimo/N-1qd4nlz/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Desodorantes
+URL:  /supermercado/parafarmacia/cuidado-corporal/desodorantes/N-z5yjtk/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Jabones y Geles
+URL:  /supermercado/parafarmacia/cuidado-corporal/jabones-y-geles/N-1tzwcuj/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Protectores Solares
+URL:  /supermercado/parafarmacia/cuidado-corporal/protectores-solares/N-oeul8b/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Alimentación
+URL:  /supermercado/mascotas/perros/alimentacion/N-1wrc9d0/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Cepillos
+URL:  /supermercado/mascotas/perros/cepillos/N-1d9hfst/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Champús
+URL:  /supermercado/mascotas/perros/champus/N-jttnbw/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Collares y Correas
+URL:  /supermercado/mascotas/perros/collares-y-correas/N-1rtfqto/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Comederos
+URL:  /supermercado/mascotas/perros/comederos/N-1q9ifzo/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Confort
+URL:  /supermercado/mascotas/perros/confort/N-etfuf3/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Higiene
+URL:  /supermercado/mascotas/perros/higiene/N-cdnbfk/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Juguetes
+URL:  /supermercado/mascotas/perros/juguetes/N-1em4gv9/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5
+Getting info from specific category:  Premios, Snacks y Huesos
+URL:  /supermercado/mascotas/perros/premios-snacks-y-huesos/N-ijqn7q/c;jsessionid=PIUxdNb4Zm5nZb9GRSjYvlAm.sf2_5

@@ -1,0 +1,6122 @@
+[
+  {
+    "category": "Frutas",
+    "name": "Cerezas bio",
+    "format": " Bandeja de 500 g",
+    "specific_category": "Fruta de hueso",
+    "section": "El Mercado",
+    "item": "\nCerezas bio",
+    "price": "3,49"
+  },
+  {
+    "category": "Frutas",
+    "name": "Cerezas",
+    "format": " Tarrina de 1 kg. ",
+    "specific_category": "Fruta de hueso",
+    "section": "El Mercado",
+    "item": "\nCerezas",
+    "price": "4,50"
+  },
+  {
+    "category": "Frutas",
+    "name": "Paraguayo",
+    "format": " Bolsa de 1000.0 g. aprox",
+    "specific_category": "Fruta de hueso",
+    "section": "El Mercado",
+    "item": "\nParaguayo",
+    "price": "1,35"
+  },
+  {
+    "category": "Frutas",
+    "name": "Albaricoque",
+    "format": " Bolsa de 1000.0 g. aprox",
+    "specific_category": "Fruta de hueso",
+    "section": "El Mercado",
+    "item": "\nAlbaricoque",
+    "price": "2,80"
+  },
+  {
+    "category": "Frutas",
+    "name": "Nectarina amarilla",
+    "format": " Granel 1000.0 g. aprox",
+    "specific_category": "Fruta de hueso",
+    "section": "El Mercado",
+    "item": "\nNectarina amarilla",
+    "price": "1,29"
+  },
+  {
+    "category": "Frutas",
+    "name": "Melocoton rojo",
+    "format": " Granel 1000.0 g. aprox",
+    "specific_category": "Fruta de hueso",
+    "section": "El Mercado",
+    "item": "\nMelocoton rojo",
+    "price": "4,99"
+  },
+  {
+    "category": "Frutas",
+    "name": "Ciruela roja",
+    "format": " a granel 500.0 g. aprox",
+    "specific_category": "Fruta de hueso",
+    "section": "El Mercado",
+    "item": "\nCiruela roja",
+    "price": "0,99"
+  },
+  {
+    "category": "Frutas",
+    "name": "Paraguayos",
+    "format": " Tarrina de 1 kg.",
+    "specific_category": "Fruta de hueso",
+    "section": "El Mercado",
+    "item": "\nParaguayos",
+    "price": "1,39"
+  },
+  {
+    "category": "Frutas",
+    "name": "Melocot\u00f3n rojo",
+    "format": " Bolsa de 1 kg.",
+    "specific_category": "Fruta de hueso",
+    "section": "El Mercado",
+    "item": "\nMelocot\u00f3n rojo",
+    "price": "1,95"
+  },
+  {
+    "category": "Frutas",
+    "name": "Cerezas",
+    "format": " Tarrina de 500 g.",
+    "specific_category": "Fruta de hueso",
+    "section": "El Mercado",
+    "item": "\nCerezas",
+    "price": "4,99"
+  },
+  {
+    "category": "Frutas",
+    "name": "Ciruela roja",
+    "format": " Bandeja de 1 kg.",
+    "specific_category": "Fruta de hueso",
+    "section": "El Mercado",
+    "item": "\nCiruela roja",
+    "price": "1,39"
+  },
+  {
+    "category": "Frutas",
+    "name": "Picota",
+    "format": " Tarrina de 1 kg.",
+    "specific_category": "Fruta de hueso",
+    "section": "El Mercado",
+    "item": "\nPicota",
+    "price": "2,99"
+  },
+  {
+    "category": "Frutas",
+    "name": "Nuez cascara Bio",
+    "format": " 500 gr.",
+    "specific_category": "Fruta de temporada",
+    "section": "El Mercado",
+    "item": "\nNuez cascara Bio",
+    "price": "4,59"
+  },
+  {
+    "category": "Frutas",
+    "name": "Granada ",
+    "format": " Bandeja de  500.0 g. aprox",
+    "specific_category": "Fruta de temporada",
+    "section": "El Mercado",
+    "item": "\nGranada ",
+    "price": "2,99"
+  },
+  {
+    "category": "Frutas",
+    "name": "Granada arilos",
+    "format": " 100 gr.",
+    "specific_category": "Fruta de temporada",
+    "section": "El Mercado",
+    "item": "\nGranada arilos",
+    "price": "2,99"
+  },
+  {
+    "category": "Frutas",
+    "name": "Granada Premium granel",
+    "format": " Bolsa de  1000.0 g. aprox",
+    "specific_category": "Fruta de temporada",
+    "section": "El Mercado",
+    "item": "\nGranada Premium granel",
+    "price": "3,29"
+  },
+  {
+    "category": "Frutas",
+    "name": "Frambuesa bio",
+    "format": " Tarrina de 125 gr.",
+    "specific_category": "Frutos del Bosque",
+    "section": "El Mercado",
+    "item": "\nFrambuesa bio",
+    "price": "2,29"
+  },
+  {
+    "category": "Frutas",
+    "name": "Ar\u00e1ndanos ",
+    "format": " Tarrina de 250 gr.",
+    "specific_category": "Frutos del Bosque",
+    "section": "El Mercado",
+    "item": "\nAr\u00e1ndanos ",
+    "price": "3,98"
+  },
+  {
+    "category": "Frutas",
+    "name": "Frambuesa ",
+    "format": " Tarrina 250 gr.",
+    "specific_category": "Frutos del Bosque",
+    "section": "El Mercado",
+    "item": "\nFrambuesa ",
+    "price": "2,69"
+  },
+  {
+    "category": "Frutas",
+    "name": "Moras",
+    "format": " Tarrina de 125 g.",
+    "specific_category": "Frutos del Bosque",
+    "section": "El Mercado",
+    "item": "\nMoras",
+    "price": "2,29"
+  },
+  {
+    "category": "Frutas",
+    "name": "Frambuesas congeladas",
+    "format": " 350 g.",
+    "specific_category": "Frutos del Bosque",
+    "section": "El Mercado",
+    "item": "\nFrambuesas congeladas",
+    "price": "5,00"
+  },
+  {
+    "category": "Frutas",
+    "name": "Surtido frutos rojos",
+    "format": " 300 gr.",
+    "specific_category": "Frutos del Bosque",
+    "section": "El Mercado",
+    "item": "\nSurtido frutos rojos",
+    "price": "7,49"
+  },
+  {
+    "category": "Frutas",
+    "name": "Surtido fresa y frutos rojos",
+    "format": " 1 ud.",
+    "specific_category": "Frutos del Bosque",
+    "section": "El Mercado",
+    "item": "\nSurtido fresa y frutos rojos",
+    "price": "9,50"
+  },
+  {
+    "category": "Frutas",
+    "name": "Grosellas ",
+    "format": " Tarrina de 125 g ",
+    "specific_category": "Frutos del Bosque",
+    "section": "El Mercado",
+    "item": "\nGrosellas ",
+    "price": "7,60"
+  },
+  {
+    "category": "Frutas",
+    "name": "Manzana golden ",
+    "format": " Bolsa de  1000.0 g. aprox",
+    "specific_category": "Manzanas y Peras",
+    "section": "El Mercado",
+    "item": "\nManzana golden ",
+    "price": "1,59"
+  },
+  {
+    "category": "Frutas",
+    "name": "Manzana Royal Gala ",
+    "format": " Bolsa de  1000.0 g. aprox",
+    "specific_category": "Manzanas y Peras",
+    "section": "El Mercado",
+    "item": "\nManzana Royal Gala ",
+    "price": "2,79"
+  },
+  {
+    "category": "Frutas",
+    "name": "Pera conferencia",
+    "format": " Bolsa de 1000.0 g. aprox",
+    "specific_category": "Manzanas y Peras",
+    "section": "El Mercado",
+    "item": "\nPera conferencia",
+    "price": "1,59"
+  },
+  {
+    "category": "Frutas",
+    "name": "Pera conferencia ",
+    "format": " Tarrina de  1500.0 g. aprox",
+    "specific_category": "Manzanas y Peras",
+    "section": "El Mercado",
+    "item": "\nPera conferencia ",
+    "price": "2,08"
+  },
+  {
+    "category": "Frutas",
+    "name": "Manzana Granny Smith a granel",
+    "format": " 1000.0 g. aprox",
+    "specific_category": "Manzanas y Peras",
+    "section": "El Mercado",
+    "item": "\nManzana Granny Smith a granel",
+    "price": "2,29"
+  },
+  {
+    "category": "Frutas",
+    "name": "Pera ercolina ",
+    "format": " Bolsa de  1000.0 g. aprox",
+    "specific_category": "Manzanas y Peras",
+    "section": "El Mercado",
+    "item": "\nPera ercolina ",
+    "price": "1,89"
+  },
+  {
+    "category": "Frutas",
+    "name": "Manzana golden",
+    "format": " Bandeja de  1500.0 g. aprox",
+    "specific_category": "Manzanas y Peras",
+    "section": "El Mercado",
+    "item": "\nManzana golden",
+    "price": "2,23"
+  },
+  {
+    "category": "Frutas",
+    "name": "Pera Conferencia Rinc\u00f3n de Soto Selecta",
+    "format": " Bandeja de 4 ud.",
+    "specific_category": "Manzanas y Peras",
+    "section": "El Mercado",
+    "item": "\nPera Conferencia Rinc\u00f3n de Soto Selecta",
+    "price": "2,39"
+  },
+  {
+    "category": "Frutas",
+    "name": "Manzana Royal",
+    "format": " 1000.0 g. aprox",
+    "specific_category": "Manzanas y Peras",
+    "section": "El Mercado",
+    "item": "\nManzana Royal",
+    "price": "2,49"
+  },
+  {
+    "category": "Frutas",
+    "name": "Manzana Golden",
+    "format": " 4 uds. 1000.0 g. aprox",
+    "specific_category": "Manzanas y Peras",
+    "section": "El Mercado",
+    "item": "\nManzana Golden",
+    "price": "2,69"
+  },
+  {
+    "category": "Frutas",
+    "name": "Manzana golden ",
+    "format": " Bolsa de  500.0 g. aprox",
+    "specific_category": "Manzanas y Peras",
+    "section": "El Mercado",
+    "item": "\nManzana golden ",
+    "price": "1,46"
+  },
+  {
+    "category": "Frutas",
+    "name": "Lim\u00f3n Bio",
+    "format": " Malla de 500 g",
+    "specific_category": "Naranjas y otros c\u00edtricos",
+    "section": "El Mercado",
+    "item": "\nLim\u00f3n Bio",
+    "price": "1,79"
+  },
+  {
+    "category": "Frutas",
+    "name": "Naranja Bio",
+    "format": " Malla de 1 kg.",
+    "specific_category": "Naranjas y otros c\u00edtricos",
+    "section": "El Mercado",
+    "item": "\nNaranja Bio",
+    "price": "2,19"
+  },
+  {
+    "category": "Frutas",
+    "name": "Naranja para zumo",
+    "format": " Malla de 4 kg.",
+    "specific_category": "Naranjas y otros c\u00edtricos",
+    "section": "El Mercado",
+    "item": "\nNaranja para zumo",
+    "price": "3,96"
+  },
+  {
+    "category": "Frutas",
+    "name": "Lim\u00f3n",
+    "format": " 750 g.",
+    "specific_category": "Naranjas y otros c\u00edtricos",
+    "section": "El Mercado",
+    "item": "\nLim\u00f3n",
+    "price": "1,49"
+  },
+  {
+    "category": "Frutas",
+    "name": "Lim\u00f3n a granel",
+    "format": " 1000.0 g. aprox",
+    "specific_category": "Naranjas y otros c\u00edtricos",
+    "section": "El Mercado",
+    "item": "\nLim\u00f3n a granel",
+    "price": "1,69"
+  },
+  {
+    "category": "Frutas",
+    "name": "Mandarina a granel",
+    "format": " Bolsa de  1000.0 g. aprox",
+    "specific_category": "Naranjas y otros c\u00edtricos",
+    "section": "El Mercado",
+    "item": "\nMandarina a granel",
+    "price": "2,45"
+  },
+  {
+    "category": "Frutas",
+    "name": "Naranja de mesa saco",
+    "format": " Saco de 6 kg.",
+    "specific_category": "Naranjas y otros c\u00edtricos",
+    "section": "El Mercado",
+    "item": "\nNaranja de mesa saco",
+    "price": "4,99"
+  },
+  {
+    "category": "Frutas",
+    "name": "Pomelo rojo a granel",
+    "format": " 500.0 g. aprox",
+    "specific_category": "Naranjas y otros c\u00edtricos",
+    "section": "El Mercado",
+    "item": "\nPomelo rojo a granel",
+    "price": "0,79"
+  },
+  {
+    "category": "Frutas",
+    "name": "Naranja de mesa ",
+    "format": " Bolsa de  1000.0 g. aprox",
+    "specific_category": "Naranjas y otros c\u00edtricos",
+    "section": "El Mercado",
+    "item": "\nNaranja de mesa ",
+    "price": "2,25"
+  },
+  {
+    "category": "Frutas",
+    "name": "Naranja",
+    "format": " Malla de 4 kg.",
+    "specific_category": "Naranjas y otros c\u00edtricos",
+    "section": "El Mercado",
+    "item": "\nNaranja",
+    "price": "4,39"
+  },
+  {
+    "category": "Frutas",
+    "name": "Lima ",
+    "format": " 3 ud.",
+    "specific_category": "Naranjas y otros c\u00edtricos",
+    "section": "El Mercado",
+    "item": "\nLima ",
+    "price": "1,00"
+  },
+  {
+    "category": "Frutas",
+    "name": "Lima a granel",
+    "format": " 1000.0 g. aprox",
+    "specific_category": "Naranjas y otros c\u00edtricos",
+    "section": "El Mercado",
+    "item": "\nLima a granel",
+    "price": "3,99"
+  },
+  {
+    "category": "Frutas",
+    "name": "Aguacate ",
+    "format": " Bandeja de 500 g ",
+    "specific_category": "Pi\u00f1as y Tropicales",
+    "section": "El Mercado",
+    "item": "\nAguacate ",
+    "price": "2,39"
+  },
+  {
+    "category": "Frutas",
+    "name": "Kiwi bio",
+    "format": " Bolsa de 500 g",
+    "specific_category": "Pi\u00f1as y Tropicales",
+    "section": "El Mercado",
+    "item": "\nKiwi bio",
+    "price": "2,29"
+  },
+  {
+    "category": "Frutas",
+    "name": "Aguacate Hass a granel",
+    "format": " 1000.0 g. aprox",
+    "specific_category": "Pi\u00f1as y Tropicales",
+    "section": "El Mercado",
+    "item": "\nAguacate Hass a granel",
+    "price": "3,99"
+  },
+  {
+    "category": "Frutas",
+    "name": "Kiwi Zespri a granel",
+    "format": " 500.0 g. aprox",
+    "specific_category": "Pi\u00f1as y Tropicales",
+    "section": "El Mercado",
+    "item": "\nKiwi Zespri a granel",
+    "price": "2,29"
+  },
+  {
+    "category": "Frutas",
+    "name": "Pi\u00f1a ",
+    "format": " Pieza de  1500.0 g. aprox",
+    "specific_category": "Pi\u00f1as y Tropicales",
+    "section": "El Mercado",
+    "item": "\nPi\u00f1a ",
+    "price": "1,48"
+  },
+  {
+    "category": "Frutas",
+    "name": "Mango Maduro",
+    "format": " 500 gr. aprox. 500.0 g. aprox",
+    "specific_category": "Pi\u00f1as y Tropicales",
+    "section": "El Mercado",
+    "item": "\nMango Maduro",
+    "price": "1,99"
+  },
+  {
+    "category": "Frutas",
+    "name": "Pi\u00f1a golden ripe",
+    "format": " Pieza de 2000.0 g. aprox",
+    "specific_category": "Pi\u00f1as y Tropicales",
+    "section": "El Mercado",
+    "item": "\nPi\u00f1a golden ripe",
+    "price": "2,38"
+  },
+  {
+    "category": "Frutas",
+    "name": "Aguacate selecta bandeja 2 piezas",
+    "format": " 2 piezas",
+    "specific_category": "Pi\u00f1as y Tropicales",
+    "section": "El Mercado",
+    "item": "\nAguacate selecta bandeja 2 piezas",
+    "price": "4,25"
+  },
+  {
+    "category": "Frutas",
+    "name": "Kiwi zespri",
+    "format": " Bandeja de 4 unidades",
+    "specific_category": "Pi\u00f1as y Tropicales",
+    "section": "El Mercado",
+    "item": "\nKiwi zespri",
+    "price": "2,89"
+  },
+  {
+    "category": "Frutas",
+    "name": "Papaya ",
+    "format": " Malla de  500.0 g. aprox",
+    "specific_category": "Pi\u00f1as y Tropicales",
+    "section": "El Mercado",
+    "item": "\nPapaya ",
+    "price": "1,94"
+  },
+  {
+    "category": "Frutas",
+    "name": "Mango en dados",
+    "format": " 450 g.",
+    "specific_category": "Pi\u00f1as y Tropicales",
+    "section": "El Mercado",
+    "item": "\nMango en dados",
+    "price": "2,64"
+  },
+  {
+    "category": "Frutas",
+    "name": "Pi\u00f1a Cilindro en Vaso",
+    "format": " Tarrina de 420 g.",
+    "specific_category": "Pi\u00f1as y Tropicales",
+    "section": "El Mercado",
+    "item": "\nPi\u00f1a Cilindro en Vaso",
+    "price": "2,59"
+  },
+  {
+    "category": "Frutas",
+    "name": "Pl\u00e1tano de Canarias Bio",
+    "format": " 1000.0 g. aprox",
+    "specific_category": "Pl\u00e1tanos y Bananas",
+    "section": "El Mercado",
+    "item": "\nPl\u00e1tano de Canarias Bio",
+    "price": "3,25"
+  },
+  {
+    "category": "Frutas",
+    "name": "Pl\u00e1tano ",
+    "format": " Bolsa de  1000.0 g. aprox",
+    "specific_category": "Pl\u00e1tanos y Bananas",
+    "section": "El Mercado",
+    "item": "\nPl\u00e1tano ",
+    "price": "1,89"
+  },
+  {
+    "category": "Frutas",
+    "name": "Banana a granel",
+    "format": " 1000.0 g. aprox",
+    "specific_category": "Pl\u00e1tanos y Bananas",
+    "section": "El Mercado",
+    "item": "\nBanana a granel",
+    "price": "0,99"
+  },
+  {
+    "category": "Frutas",
+    "name": "Pl\u00e1tano de Canarias Extra",
+    "format": " 1000.0 g. aprox",
+    "specific_category": "Pl\u00e1tanos y Bananas",
+    "section": "El Mercado",
+    "item": "\nPl\u00e1tano de Canarias Extra",
+    "price": "1,69"
+  },
+  {
+    "category": "Frutas",
+    "name": "Pl\u00e1tano ",
+    "format": " Bandeja de  1200.0 g. aprox",
+    "specific_category": "Pl\u00e1tanos y Bananas",
+    "section": "El Mercado",
+    "item": "\nPl\u00e1tano ",
+    "price": "2,52"
+  },
+  {
+    "category": "Frutas",
+    "name": "Pl\u00e1tano granel Premium",
+    "format": " Bolsa de  1000.0 g. aprox",
+    "specific_category": "Pl\u00e1tanos y Bananas",
+    "section": "El Mercado",
+    "item": "\nPl\u00e1tano granel Premium",
+    "price": "3,25"
+  },
+  {
+    "category": "Frutas",
+    "name": "Pl\u00e1tano de freir ",
+    "format": " Bolsa de  1000.0 g. aprox",
+    "specific_category": "Pl\u00e1tanos y Bananas",
+    "section": "El Mercado",
+    "item": "\nPl\u00e1tano de freir ",
+    "price": "1,95"
+  },
+  {
+    "category": "Frutas",
+    "name": "Mel\u00f3n piel de sapo ",
+    "format": " Pieza de 2500.0 g. aprox",
+    "specific_category": "Sand\u00edas y Melones ",
+    "section": "El Mercado",
+    "item": "\nMel\u00f3n piel de sapo ",
+    "price": "1,62"
+  },
+  {
+    "category": "Frutas",
+    "name": "Sand\u00cda negra",
+    "format": " Pieza de 5500.0 g. aprox",
+    "specific_category": "Sand\u00edas y Melones ",
+    "section": "El Mercado",
+    "item": "\nSand\u00cda negra",
+    "price": "9,84"
+  },
+  {
+    "category": "Frutas",
+    "name": "Sand\u00eda mini microsemilla Bio",
+    "format": " 1000.0 g. aprox",
+    "specific_category": "Sand\u00edas y Melones ",
+    "section": "El Mercado",
+    "item": "\nSand\u00eda mini microsemilla Bio",
+    "price": "1,69"
+  },
+  {
+    "category": "Frutas",
+    "name": "Sand\u00eda rayada ",
+    "format": " Pieza de 5500.0 g. aprox",
+    "specific_category": "Sand\u00edas y Melones ",
+    "section": "El Mercado",
+    "item": "\nSand\u00eda rayada ",
+    "price": "7,43"
+  },
+  {
+    "category": "Frutas",
+    "name": "Sand\u00eda Carrefour",
+    "format": " Pieza de 5000.0 g. aprox",
+    "specific_category": "Sand\u00edas y Melones ",
+    "section": "El Mercado",
+    "item": "\nSand\u00eda Carrefour",
+    "price": "5,45"
+  },
+  {
+    "category": "Frutas",
+    "name": "Mel\u00f3n Galia ",
+    "format": " Pieza de 1000.0 g. aprox",
+    "specific_category": "Sand\u00edas y Melones ",
+    "section": "El Mercado",
+    "item": "\nMel\u00f3n Galia ",
+    "price": "2,35"
+  },
+  {
+    "category": "Frutas",
+    "name": "Mel\u00f3n Cantaloup",
+    "format": " 1 pieza de  1250.0 g. aprox",
+    "specific_category": "Sand\u00edas y Melones ",
+    "section": "El Mercado",
+    "item": "\nMel\u00f3n Cantaloup",
+    "price": "2,49"
+  },
+  {
+    "category": "Frutas",
+    "name": "Sandia rayada mini",
+    "format": " 1 pieza",
+    "specific_category": "Sand\u00edas y Melones ",
+    "section": "El Mercado",
+    "item": "\nSandia rayada mini",
+    "price": "3,00"
+  },
+  {
+    "category": "Frutas",
+    "name": "Mel\u00f3n Galia bio",
+    "format": " 5000.0 g. aprox",
+    "specific_category": "Sand\u00edas y Melones ",
+    "section": "El Mercado",
+    "item": "\nMel\u00f3n Galia bio",
+    "price": "8,25"
+  },
+  {
+    "category": "Frutas",
+    "name": "Mel\u00f3n Piel Sapo Premium",
+    "format": " Pieza de 3000.0 g. aprox",
+    "specific_category": "Sand\u00edas y Melones ",
+    "section": "El Mercado",
+    "item": "\nMel\u00f3n Piel Sapo Premium",
+    "price": "14,79"
+  },
+  {
+    "category": "Frutas",
+    "name": "Sand\u00eda Negra Premium ",
+    "format": " Pieza de 5500.0 g. aprox",
+    "specific_category": "Sand\u00edas y Melones ",
+    "section": "El Mercado",
+    "item": "\nSand\u00eda Negra Premium ",
+    "price": "17,87"
+  },
+  {
+    "category": "Frutas",
+    "name": "Mel\u00f3n troceado",
+    "format": " 400 g.",
+    "specific_category": "Sand\u00edas y Melones ",
+    "section": "El Mercado",
+    "item": "\nMel\u00f3n troceado",
+    "price": "3,50"
+  },
+  {
+    "category": "Frutas",
+    "name": "Uva blanca sin pepitas",
+    "format": " Tarrina de 500 g.",
+    "specific_category": "Uvas",
+    "section": "El Mercado",
+    "item": "\nUva blanca sin pepitas",
+    "price": "2,99"
+  },
+  {
+    "category": "Frutas",
+    "name": "Uva roja sin pepitas",
+    "format": " Tarrina de 500 g.",
+    "specific_category": "Uvas",
+    "section": "El Mercado",
+    "item": "\nUva roja sin pepitas",
+    "price": "2,99"
+  },
+  {
+    "category": "Frutas",
+    "name": "Uva rosada ",
+    "format": " Bolsa de  1000.0 g. aprox",
+    "specific_category": "Uvas",
+    "section": "El Mercado",
+    "item": "\nUva rosada ",
+    "price": "3,99"
+  },
+  {
+    "category": "Frutas",
+    "name": "Uva sin pepitas Premium",
+    "format": " 1000.0 g. aprox",
+    "specific_category": "Uvas",
+    "section": "El Mercado",
+    "item": "\nUva sin pepitas Premium",
+    "price": "6,25"
+  },
+  {
+    "category": "Frutas",
+    "name": "Uva rosada Premium granel",
+    "format": " Bolsa de  1000.0 g. aprox",
+    "specific_category": "Uvas",
+    "section": "El Mercado",
+    "item": "\nUva rosada Premium granel",
+    "price": "4,25"
+  },
+  {
+    "category": "Frutas",
+    "name": "Uva moscatel sin pepitas",
+    "format": " bolsa de 1000.0 g. aprox",
+    "specific_category": "Uvas",
+    "section": "El Mercado",
+    "item": "\nUva moscatel sin pepitas",
+    "price": "5,95"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Aceite de oliva virgen extra",
+    "format": " 500 ml.",
+    "specific_category": "Aceites y vinagres",
+    "section": "La Despensa",
+    "item": "\nAceite de oliva virgen extra",
+    "price": "3,85"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Vinagre de manzana",
+    "format": " 500 ml.",
+    "specific_category": "Aceites y vinagres",
+    "section": "La Despensa",
+    "item": "\nVinagre de manzana",
+    "price": "1,44"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Aceite de oliva 0,4\u00ba sabor suave",
+    "format": " 1 l.",
+    "specific_category": "Aceites y vinagres",
+    "section": "La Despensa",
+    "item": "\nAceite de oliva 0,4\u00ba sabor suave",
+    "price": "3,49"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Aceite de girasol",
+    "format": " 1 l.",
+    "specific_category": "Aceites y vinagres",
+    "section": "La Despensa",
+    "item": "\nAceite de girasol",
+    "price": "0,99"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Aceite de oliva virgen extra sabor suave",
+    "format": " 1 l.",
+    "specific_category": "Aceites y vinagres",
+    "section": "La Despensa",
+    "item": "\nAceite de oliva virgen extra sabor suave",
+    "price": "3,85"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Vinagre de vino blanco",
+    "format": " 1 l.",
+    "specific_category": "Aceites y vinagres",
+    "section": "La Despensa",
+    "item": "\nVinagre de vino blanco",
+    "price": "0,49"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Aceite de girasol",
+    "format": " 5 l.",
+    "specific_category": "Aceites y vinagres",
+    "section": "La Despensa",
+    "item": "\nAceite de girasol",
+    "price": "4,75"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Aceite de oliva virgen extra variedad Hojiblanca",
+    "format": " 1 l.",
+    "specific_category": "Aceites y vinagres",
+    "section": "La Despensa",
+    "item": "\nAceite de oliva virgen extra variedad Hojiblanca",
+    "price": "5,99"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Aceite de oliva 0,4\u00ba sabor suave",
+    "format": " 5 l.",
+    "specific_category": "Aceites y vinagres",
+    "section": "La Despensa",
+    "item": "\nAceite de oliva 0,4\u00ba sabor suave",
+    "price": "17,25"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Aceite refinado de girasol",
+    "format": " 1 l.",
+    "specific_category": "Aceites y vinagres",
+    "section": "La Despensa",
+    "item": "\nAceite refinado de girasol",
+    "price": "1,49"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Aceite de oliva 0,4\u00ba sabor suave",
+    "format": " 1 l.",
+    "specific_category": "Aceites y vinagres",
+    "section": "La Despensa",
+    "item": "\nAceite de oliva 0,4\u00ba sabor suave",
+    "price": "5,29"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Couscous grano mediano bio",
+    "format": " 500 g.",
+    "specific_category": "Arroz y Cous Cous",
+    "section": "La Despensa",
+    "item": "\nCouscous grano mediano bio",
+    "price": "1,89"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Arroz ecol\u00f3gico",
+    "format": " 1 kg.",
+    "specific_category": "Arroz y Cous Cous",
+    "section": "La Despensa",
+    "item": "\nArroz ecol\u00f3gico",
+    "price": "2,65"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Arroz redondo",
+    "format": " 1 kg.",
+    "specific_category": "Arroz y Cous Cous",
+    "section": "La Despensa",
+    "item": "\nArroz redondo",
+    "price": "0,75"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Arroz redondo",
+    "format": " 1 kg.",
+    "specific_category": "Arroz y Cous Cous",
+    "section": "La Despensa",
+    "item": "\nArroz redondo",
+    "price": "1,52"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Arroz largo",
+    "format": " 1 kg.",
+    "specific_category": "Arroz y Cous Cous",
+    "section": "La Despensa",
+    "item": "\nArroz largo",
+    "price": "0,79"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Arroz basmati microondas",
+    "format": " pack de 2x125 g.",
+    "specific_category": "Arroz y Cous Cous",
+    "section": "La Despensa",
+    "item": "\nArroz basmati microondas",
+    "price": "1,15"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Couscous mediano",
+    "format": " 500 g.",
+    "specific_category": "Arroz y Cous Cous",
+    "section": "La Despensa",
+    "item": "\nCouscous mediano",
+    "price": "1,34"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Arroz vaporizado",
+    "format": " 1 kg.",
+    "specific_category": "Arroz y Cous Cous",
+    "section": "La Despensa",
+    "item": "\nArroz vaporizado",
+    "price": "1,59"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Arroz basmati",
+    "format": " 1 kg.",
+    "specific_category": "Arroz y Cous Cous",
+    "section": "La Despensa",
+    "item": "\nArroz basmati",
+    "price": "1,97"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Arroz redondo",
+    "format": " 1 kg.",
+    "specific_category": "Arroz y Cous Cous",
+    "section": "La Despensa",
+    "item": "\nArroz redondo",
+    "price": "1,15"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Arroz redondo",
+    "format": " 2 kg.",
+    "specific_category": "Arroz y Cous Cous",
+    "section": "La Despensa",
+    "item": "\nArroz redondo",
+    "price": "2,96"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Arroz redondo brillante",
+    "format": " 1 kg.",
+    "specific_category": "Arroz y Cous Cous",
+    "section": "La Despensa",
+    "item": "\nArroz redondo brillante",
+    "price": "1,62"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Or\u00e9gano",
+    "format": " 5 g.",
+    "specific_category": "Especias y Sazonadores",
+    "section": "La Despensa",
+    "item": "\nOr\u00e9gano",
+    "price": "0,85"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Canela molida",
+    "format": " 25 g.",
+    "specific_category": "Especias y Sazonadores",
+    "section": "La Despensa",
+    "item": "\nCanela molida",
+    "price": "1,12"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Ajo granulado",
+    "format": " 55 g.",
+    "specific_category": "Especias y Sazonadores",
+    "section": "La Despensa",
+    "item": "\nAjo granulado",
+    "price": "0,48"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Or\u00e9gano",
+    "format": " 11 g.",
+    "specific_category": "Especias y Sazonadores",
+    "section": "La Despensa",
+    "item": "\nOr\u00e9gano",
+    "price": "0,48"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Perejil",
+    "format": " 10 g.",
+    "specific_category": "Especias y Sazonadores",
+    "section": "La Despensa",
+    "item": "\nPerejil",
+    "price": "0,48"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Fajita Sazonador Mix",
+    "format": " 35 g.",
+    "specific_category": "Especias y Sazonadores",
+    "section": "La Despensa",
+    "item": "\nFajita Sazonador Mix",
+    "price": "1,11"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Pimienta negra molida",
+    "format": " 45 g.",
+    "specific_category": "Especias y Sazonadores",
+    "section": "La Despensa",
+    "item": "\nPimienta negra molida",
+    "price": "0,54"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Laurel hoja",
+    "format": " 10 g.",
+    "specific_category": "Especias y Sazonadores",
+    "section": "La Despensa",
+    "item": "\nLaurel hoja",
+    "price": "0,70"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Ajo molido",
+    "format": " 35 g.",
+    "specific_category": "Especias y Sazonadores",
+    "section": "La Despensa",
+    "item": "\nAjo molido",
+    "price": "1,34"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Or\u00e9gano",
+    "format": " 8 g.",
+    "specific_category": "Especias y Sazonadores",
+    "section": "La Despensa",
+    "item": "\nOr\u00e9gano",
+    "price": "1,40"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Ajo en polvo",
+    "format": " 60 g.",
+    "specific_category": "Especias y Sazonadores",
+    "section": "La Despensa",
+    "item": "\nAjo en polvo",
+    "price": "1,87"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Molinillo 5 pimientas",
+    "format": " 40 g.",
+    "specific_category": "Especias y Sazonadores",
+    "section": "La Despensa",
+    "item": "\nMolinillo 5 pimientas",
+    "price": "1,28"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Harina de trigo bio",
+    "format": " 1 kg.",
+    "specific_category": "Harinas y Levaduras",
+    "section": "La Despensa",
+    "item": "\nHarina de trigo bio",
+    "price": "2,15"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Harina de espelta integral bio",
+    "format": " 500 g.",
+    "specific_category": "Harinas y Levaduras",
+    "section": "La Despensa",
+    "item": "\nHarina de espelta integral bio",
+    "price": "3,30"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Harina de trigo",
+    "format": " 1 kg.",
+    "specific_category": "Harinas y Levaduras",
+    "section": "La Despensa",
+    "item": "\nHarina de trigo",
+    "price": "0,39"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Levadura en polvo",
+    "format": " pack 6x16 g.",
+    "specific_category": "Harinas y Levaduras",
+    "section": "La Despensa",
+    "item": "\nLevadura en polvo",
+    "price": "2,10"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Harina de trigo extra",
+    "format": " 1 kg.",
+    "specific_category": "Harinas y Levaduras",
+    "section": "La Despensa",
+    "item": "\nHarina de trigo extra",
+    "price": "0,90"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Levadura fresca sin gluten",
+    "format": " Pack 2x25 g.",
+    "specific_category": "Harinas y Levaduras",
+    "section": "La Despensa",
+    "item": "\nLevadura fresca sin gluten",
+    "price": "0,35"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Harina para bizcochos",
+    "format": " 1 kg.",
+    "specific_category": "Harinas y Levaduras",
+    "section": "La Despensa",
+    "item": "\nHarina para bizcochos",
+    "price": "1,09"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Harina de trigo de Fuerza",
+    "format": " 1 kg.",
+    "specific_category": "Harinas y Levaduras",
+    "section": "La Despensa",
+    "item": "\nHarina de trigo de Fuerza",
+    "price": "0,74"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Harina de fuerza de Trigo",
+    "format": " 1 kg.",
+    "specific_category": "Harinas y Levaduras",
+    "section": "La Despensa",
+    "item": "\nHarina de fuerza de Trigo",
+    "price": "1,21"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Harina de ma\u00edz",
+    "format": " 400 g.",
+    "specific_category": "Harinas y Levaduras",
+    "section": "La Despensa",
+    "item": "\nHarina de ma\u00edz",
+    "price": "1,62"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Harina de trigo",
+    "format": " 5 kg.",
+    "specific_category": "Harinas y Levaduras",
+    "section": "La Despensa",
+    "item": "\nHarina de trigo",
+    "price": "1,75"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Harina integral de espelta",
+    "format": " 1 kg.",
+    "specific_category": "Harinas y Levaduras",
+    "section": "La Despensa",
+    "item": "\nHarina integral de espelta",
+    "price": "1,45"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Garbanzo de agricultura ecol\u00f3gica",
+    "format": " 345 g.",
+    "specific_category": "Legumbres",
+    "section": "La Despensa",
+    "item": "\nGarbanzo de agricultura ecol\u00f3gica",
+    "price": "2,34"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Lenteja ecol\u00f3gica",
+    "format": " 500 g.",
+    "specific_category": "Legumbres",
+    "section": "La Despensa",
+    "item": "\nLenteja ecol\u00f3gica",
+    "price": "3,15"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Garbanzos cocidos",
+    "format": " 400 g.",
+    "specific_category": "Legumbres",
+    "section": "La Despensa",
+    "item": "\nGarbanzos cocidos",
+    "price": "0,68"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Garbanzo cocido",
+    "format": " 400 g.",
+    "specific_category": "Legumbres",
+    "section": "La Despensa",
+    "item": "\nGarbanzo cocido",
+    "price": "0,96"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Alubias cocidas Extra",
+    "format": " 400 g.",
+    "specific_category": "Legumbres",
+    "section": "La Despensa",
+    "item": "\nAlubias cocidas Extra",
+    "price": "0,68"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Lenteja pardina",
+    "format": " 1 kg.",
+    "specific_category": "Legumbres",
+    "section": "La Despensa",
+    "item": "\nLenteja pardina",
+    "price": "1,49"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Lentejas cocidas extra",
+    "format": " 400 g.",
+    "specific_category": "Legumbres",
+    "section": "La Despensa",
+    "item": "\nLentejas cocidas extra",
+    "price": "0,68"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Lenteja Cocida",
+    "format": " 400 g.",
+    "specific_category": "Legumbres",
+    "section": "La Despensa",
+    "item": "\nLenteja Cocida",
+    "price": "0,96"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Garbanzos bajos en sal",
+    "format": " 400 g.",
+    "specific_category": "Legumbres",
+    "section": "La Despensa",
+    "item": "\nGarbanzos bajos en sal",
+    "price": "0,77"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Lenteja pardina",
+    "format": " 1 kg.",
+    "specific_category": "Legumbres",
+    "section": "La Despensa",
+    "item": "\nLenteja pardina",
+    "price": "3,10"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Alubia Cocida",
+    "format": " 400 g.",
+    "specific_category": "Legumbres",
+    "section": "La Despensa",
+    "item": "\nAlubia Cocida",
+    "price": "0,96"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Garbanzo castellano cocido de La Ba\u00f1eza - De Nuestra Tierra",
+    "format": " 570 g.",
+    "specific_category": "Legumbres",
+    "section": "La Despensa",
+    "item": "\nGarbanzo castellano cocido de La Ba\u00f1eza - De Nuestra Tierra",
+    "price": "1,42"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Isot\u00f3nico Storm",
+    "format": " pack 4x50 cl.",
+    "specific_category": "Nutrici\u00f3n deportiva",
+    "section": "La Despensa",
+    "item": "\nIsot\u00f3nico Storm",
+    "price": "3,99"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Bebida isot\u00f3nica Iced Storm botella",
+    "format": " 50 cl.",
+    "specific_category": "Nutrici\u00f3n deportiva",
+    "section": "La Despensa",
+    "item": "\nBebida isot\u00f3nica Iced Storm botella",
+    "price": "1,04"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Bebida isot\u00f3nica de naranja",
+    "format": " 50 cl.",
+    "specific_category": "Nutrici\u00f3n deportiva",
+    "section": "La Despensa",
+    "item": "\nBebida isot\u00f3nica de naranja",
+    "price": "0,90"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Refresco isot\u00f3nico de naranja",
+    "format": " 50 cl.",
+    "specific_category": "Nutrici\u00f3n deportiva",
+    "section": "La Despensa",
+    "item": "\nRefresco isot\u00f3nico de naranja",
+    "price": "1,04"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Barritas de prote\u00ednas sabor chocolate blanco",
+    "format": " pack 3x35 g.",
+    "specific_category": "Nutrici\u00f3n deportiva",
+    "section": "La Despensa",
+    "item": "\nBarritas de prote\u00ednas sabor chocolate blanco",
+    "price": "2,95"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Bebida Reload",
+    "format": " 50 cl.",
+    "specific_category": "Nutrici\u00f3n deportiva",
+    "section": "La Despensa",
+    "item": "\nBebida Reload",
+    "price": "1,95"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Bebida isot\u00f3nica Citrus Charge botella",
+    "format": " 50 cl.",
+    "specific_category": "Nutrici\u00f3n deportiva",
+    "section": "La Despensa",
+    "item": "\nBebida isot\u00f3nica Citrus Charge botella",
+    "price": "1,04"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Refresco isot\u00f3nico Cool Blue",
+    "format": " pack 4x50 cl.",
+    "specific_category": "Nutrici\u00f3n deportiva",
+    "section": "La Despensa",
+    "item": "\nRefresco isot\u00f3nico Cool Blue",
+    "price": "3,05"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Barritas Proteinbars sabor chocolate intenso",
+    "format": " pack 3x35 g.",
+    "specific_category": "Nutrici\u00f3n deportiva",
+    "section": "La Despensa",
+    "item": "\nBarritas Proteinbars sabor chocolate intenso",
+    "price": "2,95"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Barritas Proteinbars sabor chocolate blanco - stracciatella",
+    "format": " pack 3x35 g.",
+    "specific_category": "Nutrici\u00f3n deportiva",
+    "section": "La Despensa",
+    "item": "\nBarritas Proteinbars sabor chocolate blanco - stracciatella",
+    "price": "2,95"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Refresco isot\u00f3nico de lim\u00f3n",
+    "format": " 50 cl.",
+    "specific_category": "Nutrici\u00f3n deportiva",
+    "section": "La Despensa",
+    "item": "\nRefresco isot\u00f3nico de lim\u00f3n",
+    "price": "0,90"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Bebida Care con vitamina B12",
+    "format": " 50 cl.",
+    "specific_category": "Nutrici\u00f3n deportiva",
+    "section": "La Despensa",
+    "item": "\nBebida Care con vitamina B12",
+    "price": "1,95"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Sal marina fina ecol\u00f3gica",
+    "format": " 1 kg.",
+    "specific_category": "Sales y Bicarbonatos",
+    "section": "La Despensa",
+    "item": "\nSal marina fina ecol\u00f3gica",
+    "price": "1,68"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Sal marina  gruesa  Ecol\u00f3gica",
+    "format": " 1 kg.",
+    "specific_category": "Sales y Bicarbonatos",
+    "section": "La Despensa",
+    "item": "\nSal marina  gruesa  Ecol\u00f3gica",
+    "price": "1,44"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Sal marina fina",
+    "format": " 1 kg.",
+    "specific_category": "Sales y Bicarbonatos",
+    "section": "La Despensa",
+    "item": "\nSal marina fina",
+    "price": "0,21"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Sal marina yodada",
+    "format": " 1 kg.",
+    "specific_category": "Sales y Bicarbonatos",
+    "section": "La Despensa",
+    "item": "\nSal marina yodada",
+    "price": "0,18"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Sal marina gruesa",
+    "format": " 1 kg.",
+    "specific_category": "Sales y Bicarbonatos",
+    "section": "La Despensa",
+    "item": "\nSal marina gruesa",
+    "price": "0,19"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Sal yodofluor ",
+    "format": " 1 kg.",
+    "specific_category": "Sales y Bicarbonatos",
+    "section": "La Despensa",
+    "item": "\nSal yodofluor ",
+    "price": "0,68"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Bicarbonato s\u00f3dico",
+    "format": " 200 g.",
+    "specific_category": "Sales y Bicarbonatos",
+    "section": "La Despensa",
+    "item": "\nBicarbonato s\u00f3dico",
+    "price": "0,91"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Sal marina fina salero",
+    "format": " 250 g.",
+    "specific_category": "Sales y Bicarbonatos",
+    "section": "La Despensa",
+    "item": "\nSal marina fina salero",
+    "price": "0,38"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Sal completa ",
+    "format": " 1 kg.",
+    "specific_category": "Sales y Bicarbonatos",
+    "section": "La Despensa",
+    "item": "\nSal completa ",
+    "price": "1,01"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Escamas de sal marina",
+    "format": " 125 g.",
+    "specific_category": "Sales y Bicarbonatos",
+    "section": "La Despensa",
+    "item": "\nEscamas de sal marina",
+    "price": "2,35"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Bicarbonato s\u00f3dico",
+    "format": " 200 g.",
+    "specific_category": "Sales y Bicarbonatos",
+    "section": "La Despensa",
+    "item": "\nBicarbonato s\u00f3dico",
+    "price": "1,08"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Sal",
+    "format": " 1 Kg.",
+    "specific_category": "Sales y Bicarbonatos",
+    "section": "La Despensa",
+    "item": "\nSal",
+    "price": "0,47"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tomate frito",
+    "format": " 325 g.",
+    "specific_category": "Salsas y Tomate Frito",
+    "section": "La Despensa",
+    "item": "\nTomate frito",
+    "price": "1,37"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tomate frito con pimientos piquillo",
+    "format": " 325 g.",
+    "specific_category": "Salsas y Tomate Frito",
+    "section": "La Despensa",
+    "item": "\nTomate frito con pimientos piquillo",
+    "price": "2,10"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tomate frito suave",
+    "format": " pack 3x390 g.",
+    "specific_category": "Salsas y Tomate Frito",
+    "section": "La Despensa",
+    "item": "\nTomate frito suave",
+    "price": "1,00"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tomate frito",
+    "format": " 3x350 g.",
+    "specific_category": "Salsas y Tomate Frito",
+    "section": "La Despensa",
+    "item": "\nTomate frito",
+    "price": "1,91"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tomate frito frasco ",
+    "format": " 920 g.",
+    "specific_category": "Salsas y Tomate Frito",
+    "section": "La Despensa",
+    "item": "\nTomate frito frasco ",
+    "price": "1,67"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tomate frito suave",
+    "format": " pack 3x215 g.",
+    "specific_category": "Salsas y Tomate Frito",
+    "section": "La Despensa",
+    "item": "\nTomate frito suave",
+    "price": "0,80"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Salsa hummus",
+    "format": " 220 g.",
+    "specific_category": "Salsas y Tomate Frito",
+    "section": "La Despensa",
+    "item": "\nSalsa hummus",
+    "price": "1,70"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Ketchup",
+    "format": " 570 g.",
+    "specific_category": "Salsas y Tomate Frito",
+    "section": "La Despensa",
+    "item": "\nKetchup",
+    "price": "2,65"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tomate Frito Orlando",
+    "format": " pack de 3x210 g.",
+    "specific_category": "Salsas y Tomate Frito",
+    "section": "La Despensa",
+    "item": "\nTomate Frito Orlando",
+    "price": "1,39"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Salsa mayonesa",
+    "format": " 650 ml.",
+    "specific_category": "Salsas y Tomate Frito",
+    "section": "La Despensa",
+    "item": "\nSalsa mayonesa",
+    "price": "2,55"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tomate frito con aceite de oliva virgen extra",
+    "format": " pack de 3x210 g.",
+    "specific_category": "Salsas y Tomate Frito",
+    "section": "La Despensa",
+    "item": "\nTomate frito con aceite de oliva virgen extra",
+    "price": "2,05"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tomate frito frasco",
+    "format": " 550 g.",
+    "specific_category": "Salsas y Tomate Frito",
+    "section": "La Despensa",
+    "item": "\nTomate frito frasco",
+    "price": "0,65"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Quinoa",
+    "format": " 400 g. ",
+    "specific_category": "Semillas",
+    "section": "La Despensa",
+    "item": "\nQuinoa",
+    "price": "3,25"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Quinoa blanca y roja",
+    "format": " 2x125 g.",
+    "specific_category": "Semillas",
+    "section": "La Despensa",
+    "item": "\nQuinoa blanca y roja",
+    "price": "1,36"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Quinoa",
+    "format": " 400 g.",
+    "specific_category": "Semillas",
+    "section": "La Despensa",
+    "item": "\nQuinoa",
+    "price": "2,23"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Ch\u00eda",
+    "format": " 200 g.",
+    "specific_category": "Semillas",
+    "section": "La Despensa",
+    "item": "\nCh\u00eda",
+    "price": "1,74"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Quinoa integral",
+    "format": " Pack 2x125 g.",
+    "specific_category": "Semillas",
+    "section": "La Despensa",
+    "item": "\nQuinoa integral",
+    "price": "1,77"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Semillas de lino",
+    "format": " 400 g.",
+    "specific_category": "Semillas",
+    "section": "La Despensa",
+    "item": "\nSemillas de lino",
+    "price": "2,00"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Semillas de Ch\u00eda Ecol\u00f3gica",
+    "format": " 250 g.",
+    "specific_category": "Semillas",
+    "section": "La Despensa",
+    "item": "\nSemillas de Ch\u00eda Ecol\u00f3gica",
+    "price": "3,45"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Quinoa biol\u00f3gica",
+    "format": " 500 g.",
+    "specific_category": "Semillas",
+    "section": "La Despensa",
+    "item": "\nQuinoa biol\u00f3gica",
+    "price": "4,99"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Quinoa 3 colores",
+    "format": " 400 g.",
+    "specific_category": "Semillas",
+    "section": "La Despensa",
+    "item": "\nQuinoa 3 colores",
+    "price": "2,60"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Espelta hinchada bio",
+    "format": " 125 g.",
+    "specific_category": "Semillas",
+    "section": "La Despensa",
+    "item": "\nEspelta hinchada bio",
+    "price": "1,77"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Semillas de lino dorado bio",
+    "format": " 250 g.",
+    "specific_category": "Semillas",
+    "section": "La Despensa",
+    "item": "\nSemillas de lino dorado bio",
+    "price": "2,10"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Vino de mesa para cocinar",
+    "format": " 75 cl.",
+    "specific_category": "Vino de Cocinar",
+    "section": "La Despensa",
+    "item": "\nVino de mesa para cocinar",
+    "price": "1,99"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Vino para cocinar ",
+    "format": " 75 cl.",
+    "specific_category": "Vino de Cocinar",
+    "section": "La Despensa",
+    "item": "\nVino para cocinar ",
+    "price": "2,95"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Vino de cocina",
+    "format": " 750 ml.",
+    "specific_category": "Vino de Cocinar",
+    "section": "La Despensa",
+    "item": "\nVino de cocina",
+    "price": "3,65"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Vino para cocinar blanco seco",
+    "format": " 75 cl.",
+    "specific_category": "Vino de Cocinar",
+    "section": "La Despensa",
+    "item": "\nVino para cocinar blanco seco",
+    "price": "3,05"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Vino para cocinar",
+    "format": " 750 ml.",
+    "specific_category": "Vino de Cocinar",
+    "section": "La Despensa",
+    "item": "\nVino para cocinar",
+    "price": "2,70"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Soja Texturizada Fina Bio",
+    "format": " 250 g.",
+    "specific_category": "Vitaminas y Complementos",
+    "section": "La Despensa",
+    "item": "\nSoja Texturizada Fina Bio",
+    "price": "2,80"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Salvado de avena",
+    "format": " 500 g.",
+    "specific_category": "Vitaminas y Complementos",
+    "section": "La Despensa",
+    "item": "\nSalvado de avena",
+    "price": "1,23"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Copos de avena bolsa ",
+    "format": " 500 g.",
+    "specific_category": "Vitaminas y Complementos",
+    "section": "La Despensa",
+    "item": "\nCopos de avena bolsa ",
+    "price": "2,10"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Salvado de trigo",
+    "format": " 200 g.",
+    "specific_category": "Vitaminas y Complementos",
+    "section": "La Despensa",
+    "item": "\nSalvado de trigo",
+    "price": "0,71"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Soja texturizada fina",
+    "format": " 350 g.",
+    "specific_category": "Vitaminas y Complementos",
+    "section": "La Despensa",
+    "item": "\nSoja texturizada fina",
+    "price": "1,87"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Salvado de avena",
+    "format": " 500 g.",
+    "specific_category": "Vitaminas y Complementos",
+    "section": "La Despensa",
+    "item": "\nSalvado de avena",
+    "price": "2,10"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Levadura de cerveza",
+    "format": " 150 g.",
+    "specific_category": "Vitaminas y Complementos",
+    "section": "La Despensa",
+    "item": "\nLevadura de cerveza",
+    "price": "2,60"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Salvado avena bio ",
+    "format": " 250 g.",
+    "specific_category": "Vitaminas y Complementos",
+    "section": "La Despensa",
+    "item": "\nSalvado avena bio ",
+    "price": "1,67"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Germen de trigo ",
+    "format": " 300 g.",
+    "specific_category": "Vitaminas y Complementos",
+    "section": "La Despensa",
+    "item": "\nGermen de trigo ",
+    "price": "1,71"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Infusi\u00f3n quema grasas CelliSlim sabor a mango y maracuy\u00e1",
+    "format": " 20 ud.",
+    "specific_category": "Vitaminas y Complementos",
+    "section": "La Despensa",
+    "item": "\nInfusi\u00f3n quema grasas CelliSlim sabor a mango y maracuy\u00e1",
+    "price": "3,39"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Complemento alimenticio Jalea real",
+    "format": " 12 ud.",
+    "specific_category": "Vitaminas y Complementos",
+    "section": "La Despensa",
+    "item": "\nComplemento alimenticio Jalea real",
+    "price": "5,65"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Magnesio + vitamina B6 comprimidos",
+    "format": " 45 ud.",
+    "specific_category": "Vitaminas y Complementos",
+    "section": "La Despensa",
+    "item": "\nMagnesio + vitamina B6 comprimidos",
+    "price": "7,15"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Macarrones",
+    "format": " 500 g.",
+    "specific_category": "Pastas",
+    "section": "La Despensa",
+    "item": "\nMacarrones",
+    "price": "1,31"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Spaghetti",
+    "format": " 500 g.",
+    "specific_category": "Pastas",
+    "section": "La Despensa",
+    "item": "\nSpaghetti",
+    "price": "1,31"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Espirales tricolores",
+    "format": " 500 g.",
+    "specific_category": "Pastas",
+    "section": "La Despensa",
+    "item": "\nEspirales tricolores",
+    "price": "0,86"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Macarrones",
+    "format": " 1 kg.",
+    "specific_category": "Pastas",
+    "section": "La Despensa",
+    "item": "\nMacarrones",
+    "price": "0,75"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Espaguetis",
+    "format": " 1 kg.",
+    "specific_category": "Pastas",
+    "section": "La Despensa",
+    "item": "\nEspaguetis",
+    "price": "0,75"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Spaghetti n\u00ba 3",
+    "format": " 750 g.",
+    "specific_category": "Pastas",
+    "section": "La Despensa",
+    "item": "\nSpaghetti n\u00ba 3",
+    "price": "1,43"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Plumas n\u00ba 6",
+    "format": " 750 g.",
+    "specific_category": "Pastas",
+    "section": "La Despensa",
+    "item": "\nPlumas n\u00ba 6",
+    "price": "1,43"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Macarrones tricolores",
+    "format": " 500 g.",
+    "specific_category": "Pastas",
+    "section": "La Despensa",
+    "item": "\nMacarrones tricolores",
+    "price": "0,86"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Fideo cabell\u00edn",
+    "format": " 1 kg.",
+    "specific_category": "Pastas",
+    "section": "La Despensa",
+    "item": "\nFideo cabell\u00edn",
+    "price": "0,84"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tibur\u00f3n Tricolor",
+    "format": " 500 g.",
+    "specific_category": "Pastas",
+    "section": "La Despensa",
+    "item": "\nTibur\u00f3n Tricolor",
+    "price": "0,86"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tallarines",
+    "format": " 500 g.",
+    "specific_category": "Pastas",
+    "section": "La Despensa",
+    "item": "\nTallarines",
+    "price": "0,49"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Pajaritas con tomate y espinacas",
+    "format": " 500 g.",
+    "specific_category": "Pastas",
+    "section": "La Despensa",
+    "item": "\nPajaritas con tomate y espinacas",
+    "price": "1,29"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Brandy solera Imperial Selecta Reserva 5 a\u00f1os",
+    "format": " 70 cl.",
+    "specific_category": "Brandy y Co\u00f1ac",
+    "section": "Bebidas",
+    "item": "\nBrandy solera Imperial Selecta Reserva 5 a\u00f1os",
+    "price": "8,99"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Brandy",
+    "format": " 1 l.",
+    "specific_category": "Brandy y Co\u00f1ac",
+    "section": "Bebidas",
+    "item": "\nBrandy",
+    "price": "8,70"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Brandy de Jerez",
+    "format": " 1 l.",
+    "specific_category": "Brandy y Co\u00f1ac",
+    "section": "Bebidas",
+    "item": "\nBrandy de Jerez",
+    "price": "8,65"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Brandy",
+    "format": " 70 cl.",
+    "specific_category": "Brandy y Co\u00f1ac",
+    "section": "Bebidas",
+    "item": "\nBrandy",
+    "price": "6,75"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Brandy Imperial Gran Reserva 10 a\u00f1os",
+    "format": " 70 cl.",
+    "specific_category": "Brandy y Co\u00f1ac",
+    "section": "Bebidas",
+    "item": "\nBrandy Imperial Gran Reserva 10 a\u00f1os",
+    "price": "11,25"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Brandy solera Reserva",
+    "format": " 1 l.",
+    "specific_category": "Brandy y Co\u00f1ac",
+    "section": "Bebidas",
+    "item": "\nBrandy solera Reserva",
+    "price": "8,00"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Bebida espirituosa",
+    "format": " 1 l.",
+    "specific_category": "Brandy y Co\u00f1ac",
+    "section": "Bebidas",
+    "item": "\nBebida espirituosa",
+    "price": "8,10"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Brandy de Jerez solera Reserva",
+    "format": " 70 cl.",
+    "specific_category": "Brandy y Co\u00f1ac",
+    "section": "Bebidas",
+    "item": "\nBrandy de Jerez solera Reserva",
+    "price": "10,65"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Brandy solera etiqueta blanca",
+    "format": " 70 cl.",
+    "specific_category": "Brandy y Co\u00f1ac",
+    "section": "Bebidas",
+    "item": "\nBrandy solera etiqueta blanca",
+    "price": "7,45"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Mojito",
+    "format": " 70 cl.",
+    "specific_category": "C\u00f3ckteles y combinados",
+    "section": "Bebidas",
+    "item": "\nMojito",
+    "price": "7,70"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Concentrado de lim\u00f3n sin az\u00facar",
+    "format": " 70 cl.",
+    "specific_category": "C\u00f3ckteles y combinados",
+    "section": "Bebidas",
+    "item": "\nConcentrado de lim\u00f3n sin az\u00facar",
+    "price": "3,39"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "S\u00faper mojito",
+    "format": " 1,5 l.",
+    "specific_category": "C\u00f3ckteles y combinados",
+    "section": "Bebidas",
+    "item": "\nS\u00faper mojito",
+    "price": "3,29"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Mojito Classic",
+    "format": " 70 cl.",
+    "specific_category": "C\u00f3ckteles y combinados",
+    "section": "Bebidas",
+    "item": "\nMojito Classic",
+    "price": "7,75"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Mojito",
+    "format": " 70 cl.",
+    "specific_category": "C\u00f3ckteles y combinados",
+    "section": "Bebidas",
+    "item": "\nMojito",
+    "price": "5,05"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ron Breezer de sand\u00eda",
+    "format": " 27,5 cl.",
+    "specific_category": "C\u00f3ckteles y combinados",
+    "section": "Bebidas",
+    "item": "\nRon Breezer de sand\u00eda",
+    "price": "2,05"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Pi\u00f1a colada",
+    "format": " 70 cl.",
+    "specific_category": "C\u00f3ckteles y combinados",
+    "section": "Bebidas",
+    "item": "\nPi\u00f1a colada",
+    "price": "11,75"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Licor batida de coco",
+    "format": " 70 cl.",
+    "specific_category": "C\u00f3ckteles y combinados",
+    "section": "Bebidas",
+    "item": "\nLicor batida de coco",
+    "price": "9,70"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Gin Tonic sin alcohol con toque de lima",
+    "format": " pack 4x250 ml.",
+    "specific_category": "C\u00f3ckteles y combinados",
+    "section": "Bebidas",
+    "item": "\nGin Tonic sin alcohol con toque de lima",
+    "price": "6,35"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Sorbete de mel\u00f3n con cava",
+    "format": " 50 cl.",
+    "specific_category": "C\u00f3ckteles y combinados",
+    "section": "Bebidas",
+    "item": "\nSorbete de mel\u00f3n con cava",
+    "price": "4,15"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ron Breezer de lim\u00f3n",
+    "format": " 27,5 cl.",
+    "specific_category": "C\u00f3ckteles y combinados",
+    "section": "Bebidas",
+    "item": "\nRon Breezer de lim\u00f3n",
+    "price": "2,05"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Sorbete de t\u00e9 con cava",
+    "format": " 50 cl.",
+    "specific_category": "C\u00f3ckteles y combinados",
+    "section": "Bebidas",
+    "item": "\nSorbete de t\u00e9 con cava",
+    "price": "4,15"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ginebra ecol\u00f3gica",
+    "format": " 70 cl.",
+    "specific_category": "Ginebra",
+    "section": "Bebidas",
+    "item": "\nGinebra ecol\u00f3gica",
+    "price": "15,55"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ginebra",
+    "format": " 70 cl.",
+    "specific_category": "Ginebra",
+    "section": "Bebidas",
+    "item": "\nGinebra",
+    "price": "19,95"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ginebra Pink ",
+    "format": " 70 cl.",
+    "specific_category": "Ginebra",
+    "section": "Bebidas",
+    "item": "\nGinebra Pink ",
+    "price": "14,95"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ginebra flor de Sevilla",
+    "format": " 70 cl.",
+    "specific_category": "Ginebra",
+    "section": "Bebidas",
+    "item": "\nGinebra flor de Sevilla",
+    "price": "18,95"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ginebra",
+    "format": " 70 cl.",
+    "specific_category": "Ginebra",
+    "section": "Bebidas",
+    "item": "\nGinebra",
+    "price": "15,95"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ginebra",
+    "format": " 70 cl.",
+    "specific_category": "Ginebra",
+    "section": "Bebidas",
+    "item": "\nGinebra",
+    "price": "13,25"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ginebra Strawberry",
+    "format": " 70 cl.",
+    "specific_category": "Ginebra",
+    "section": "Bebidas",
+    "item": "\nGinebra Strawberry",
+    "price": "14,95"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ginebra",
+    "format": " 70 cl.",
+    "specific_category": "Ginebra",
+    "section": "Bebidas",
+    "item": "\nGinebra",
+    "price": "13,35"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ginebra London Dry",
+    "format": " 1 l.",
+    "specific_category": "Ginebra",
+    "section": "Bebidas",
+    "item": "\nGinebra London Dry",
+    "price": "10,75"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ginebra 12",
+    "format": " 70 cl.",
+    "specific_category": "Ginebra",
+    "section": "Bebidas",
+    "item": "\nGinebra 12",
+    "price": "12,75"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ginebra",
+    "format": " 1,5 l.",
+    "specific_category": "Ginebra",
+    "section": "Bebidas",
+    "item": "\nGinebra",
+    "price": "15,35"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ginebra",
+    "format": " 70 cl.",
+    "specific_category": "Ginebra",
+    "section": "Bebidas",
+    "item": "\nGinebra",
+    "price": "7,95"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ron A\u00f1ejo Gran Reserva",
+    "format": " 70 cl.",
+    "specific_category": "Ron",
+    "section": "Bebidas",
+    "item": "\nRon A\u00f1ejo Gran Reserva",
+    "price": "13,75"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ron A\u00f1ejo",
+    "format": " 70 cl.",
+    "specific_category": "Ron",
+    "section": "Bebidas",
+    "item": "\nRon A\u00f1ejo",
+    "price": "11,65"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ron A\u00f1ejo",
+    "format": " 1 l.",
+    "specific_category": "Ron",
+    "section": "Bebidas",
+    "item": "\nRon A\u00f1ejo",
+    "price": "16,75"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ron A\u00f1ejo",
+    "format": " 70 cl.",
+    "specific_category": "Ron",
+    "section": "Bebidas",
+    "item": "\nRon A\u00f1ejo",
+    "price": "13,45"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ron A\u00f1ejo",
+    "format": " 1,75 l.",
+    "specific_category": "Ron",
+    "section": "Bebidas",
+    "item": "\nRon A\u00f1ejo",
+    "price": "23,75"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ron a\u00f1ejo",
+    "format": " 1 l.",
+    "specific_category": "Ron",
+    "section": "Bebidas",
+    "item": "\nRon a\u00f1ejo",
+    "price": "17,90"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ron Carta Blanca",
+    "format": " 70 cl.",
+    "specific_category": "Ron",
+    "section": "Bebidas",
+    "item": "\nRon Carta Blanca",
+    "price": "10,99"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ron",
+    "format": " 1 l.",
+    "specific_category": "Ron",
+    "section": "Bebidas",
+    "item": "\nRon",
+    "price": "10,70"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ron Superior A\u00f1ejo",
+    "format": " 70 cl.",
+    "specific_category": "Ron",
+    "section": "Bebidas",
+    "item": "\nRon Superior A\u00f1ejo",
+    "price": "13,99"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ron A\u00f1ejo",
+    "format": " 1 l.",
+    "specific_category": "Ron",
+    "section": "Bebidas",
+    "item": "\nRon A\u00f1ejo",
+    "price": "16,19"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ron oscuro",
+    "format": " 70 cl.",
+    "specific_category": "Ron",
+    "section": "Bebidas",
+    "item": "\nRon oscuro",
+    "price": "14,30"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ron Dorado",
+    "format": " 70 cl.",
+    "specific_category": "Ron",
+    "section": "Bebidas",
+    "item": "\nRon Dorado",
+    "price": "7,90"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Tequila Reposado Especial",
+    "format": " 70 cl.",
+    "specific_category": "Tequila",
+    "section": "Bebidas",
+    "item": "\nTequila Reposado Especial",
+    "price": "13,70"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Tequila gold",
+    "format": " 70 cl.",
+    "specific_category": "Tequila",
+    "section": "Bebidas",
+    "item": "\nTequila gold",
+    "price": "14,50"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Tequila especial silver",
+    "format": " 70 cl.",
+    "specific_category": "Tequila",
+    "section": "Bebidas",
+    "item": "\nTequila especial silver",
+    "price": "14,45"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Tequila 100% de Agave reposado",
+    "format": " 70 cl.",
+    "specific_category": "Tequila",
+    "section": "Bebidas",
+    "item": "\nTequila 100% de Agave reposado",
+    "price": "25,95"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vermouth rosso",
+    "format": " 1 l.",
+    "specific_category": "Vermouth",
+    "section": "Bebidas",
+    "item": "\nVermouth rosso",
+    "price": "7,99"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vermouth blanco",
+    "format": " 1 l.",
+    "specific_category": "Vermouth",
+    "section": "Bebidas",
+    "item": "\nVermouth blanco",
+    "price": "7,99"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vermouth Rojo",
+    "format": " 1 l.",
+    "specific_category": "Vermouth",
+    "section": "Bebidas",
+    "item": "\nVermouth Rojo",
+    "price": "6,85"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vermouth rojo",
+    "format": " 1,5 l.",
+    "specific_category": "Vermouth",
+    "section": "Bebidas",
+    "item": "\nVermouth rojo",
+    "price": "12,75"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vermouth rosso di Torino",
+    "format": " 1 l.",
+    "specific_category": "Vermouth",
+    "section": "Bebidas",
+    "item": "\nVermouth rosso di Torino",
+    "price": "2,09"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vermouth bianco di Torino",
+    "format": " 1 l.",
+    "specific_category": "Vermouth",
+    "section": "Bebidas",
+    "item": "\nVermouth bianco di Torino",
+    "price": "2,09"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vermouth Reserva",
+    "format": " 1 l.",
+    "specific_category": "Vermouth",
+    "section": "Bebidas",
+    "item": "\nVermouth Reserva",
+    "price": "9,95"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vermouth",
+    "format": " 1 l.",
+    "specific_category": "Vermouth",
+    "section": "Bebidas",
+    "item": "\nVermouth",
+    "price": "4,60"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vermut rojo de grifo",
+    "format": " 1,5 l.",
+    "specific_category": "Vermouth",
+    "section": "Bebidas",
+    "item": "\nVermut rojo de grifo",
+    "price": "5,10"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vermut rojo aperitivo",
+    "format": " 1 l.",
+    "specific_category": "Vermouth",
+    "section": "Bebidas",
+    "item": "\nVermut rojo aperitivo",
+    "price": "18,45"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vermouth blanco",
+    "format": " 1,5 l.",
+    "specific_category": "Vermouth",
+    "section": "Bebidas",
+    "item": "\nVermouth blanco",
+    "price": "12,75"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Royale bianco",
+    "format": " 75 cl.",
+    "specific_category": "Vermouth",
+    "section": "Bebidas",
+    "item": "\nRoyale bianco",
+    "price": "8,00"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vodka",
+    "format": " 70 cl.",
+    "specific_category": "Vodka",
+    "section": "Bebidas",
+    "item": "\nVodka",
+    "price": "38,80"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vodka",
+    "format": " 70 cl.",
+    "specific_category": "Vodka",
+    "section": "Bebidas",
+    "item": "\nVodka",
+    "price": "12,65"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vodka",
+    "format": " 1 l.",
+    "specific_category": "Vodka",
+    "section": "Bebidas",
+    "item": "\nVodka",
+    "price": "11,95"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vodka",
+    "format": " 1 l.",
+    "specific_category": "Vodka",
+    "section": "Bebidas",
+    "item": "\nVodka",
+    "price": "17,36"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vodka ",
+    "format": " 1 l.",
+    "specific_category": "Vodka",
+    "section": "Bebidas",
+    "item": "\nVodka ",
+    "price": "6,10"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vodka",
+    "format": " 700 ml.",
+    "specific_category": "Vodka",
+    "section": "Bebidas",
+    "item": "\nVodka",
+    "price": "12,95"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vodka",
+    "format": " 70 cl.",
+    "specific_category": "Vodka",
+    "section": "Bebidas",
+    "item": "\nVodka",
+    "price": "7,79"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vodka",
+    "format": " 1 l.",
+    "specific_category": "Vodka",
+    "section": "Bebidas",
+    "item": "\nVodka",
+    "price": "10,50"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vodka",
+    "format": " 70 cl.",
+    "specific_category": "Vodka",
+    "section": "Bebidas",
+    "item": "\nVodka",
+    "price": "9,75"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vodka Ice",
+    "format": " 250 ml.",
+    "specific_category": "Vodka",
+    "section": "Bebidas",
+    "item": "\nVodka Ice",
+    "price": "1,71"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Whisky escoc\u00e9s White Label",
+    "format": " 70 cl.",
+    "specific_category": "Whisky y Bourbon",
+    "section": "Bebidas",
+    "item": "\nWhisky escoc\u00e9s White Label",
+    "price": "11,79"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Whisky escoc\u00e9s",
+    "format": " 70 cl.",
+    "specific_category": "Whisky y Bourbon",
+    "section": "Bebidas",
+    "item": "\nWhisky escoc\u00e9s",
+    "price": "11,59"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Whisky irland\u00e9s",
+    "format": " 70 cl.",
+    "specific_category": "Whisky y Bourbon",
+    "section": "Bebidas",
+    "item": "\nWhisky irland\u00e9s",
+    "price": "16,75"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Whisky escoc\u00e9s",
+    "format": " 1 l.",
+    "specific_category": "Whisky y Bourbon",
+    "section": "Bebidas",
+    "item": "\nWhisky escoc\u00e9s",
+    "price": "14,69"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Whisky escoc\u00e9s",
+    "format": " 1 l.",
+    "specific_category": "Whisky y Bourbon",
+    "section": "Bebidas",
+    "item": "\nWhisky escoc\u00e9s",
+    "price": "14,75"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Whisky escoc\u00e9s",
+    "format": " 1 l.",
+    "specific_category": "Whisky y Bourbon",
+    "section": "Bebidas",
+    "item": "\nWhisky escoc\u00e9s",
+    "price": "15,45"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Whisky escoc\u00e9s",
+    "format": " 1,5 l.",
+    "specific_category": "Whisky y Bourbon",
+    "section": "Bebidas",
+    "item": "\nWhisky escoc\u00e9s",
+    "price": "23,18"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Whisky escoc\u00e9s",
+    "format": " 70 cl.",
+    "specific_category": "Whisky y Bourbon",
+    "section": "Bebidas",
+    "item": "\nWhisky escoc\u00e9s",
+    "price": "12,25"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Whisky escoc\u00e9s Red Label",
+    "format": " 70 cl.",
+    "specific_category": "Whisky y Bourbon",
+    "section": "Bebidas",
+    "item": "\nWhisky escoc\u00e9s Red Label",
+    "price": "12,85"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Whisky Tennessee",
+    "format": " 70 cl.",
+    "specific_category": "Whisky y Bourbon",
+    "section": "Bebidas",
+    "item": "\nWhisky Tennessee",
+    "price": "19,95"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Whisky",
+    "format": " 1 l.",
+    "specific_category": "Whisky y Bourbon",
+    "section": "Bebidas",
+    "item": "\nWhisky",
+    "price": "10,95"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Whisky Black Label",
+    "format": " 70 cl.",
+    "specific_category": "Whisky y Bourbon",
+    "section": "Bebidas",
+    "item": "\nWhisky Black Label",
+    "price": "23,60"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ginebra Premium pink",
+    "format": " 70 cl.",
+    "specific_category": "Todos los Alcoholes",
+    "section": "Bebidas",
+    "item": "\nGinebra Premium pink",
+    "price": "11,50"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ginebra",
+    "format": " 70 cl.",
+    "specific_category": "Todos los Alcoholes",
+    "section": "Bebidas",
+    "item": "\nGinebra",
+    "price": "19,95"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Whisky escoc\u00e9s White Label",
+    "format": " 70 cl.",
+    "specific_category": "Todos los Alcoholes",
+    "section": "Bebidas",
+    "item": "\nWhisky escoc\u00e9s White Label",
+    "price": "11,79"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Whisky escoc\u00e9s",
+    "format": " 70 cl.",
+    "specific_category": "Todos los Alcoholes",
+    "section": "Bebidas",
+    "item": "\nWhisky escoc\u00e9s",
+    "price": "11,59"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ron A\u00f1ejo Gran Reserva",
+    "format": " 70 cl.",
+    "specific_category": "Todos los Alcoholes",
+    "section": "Bebidas",
+    "item": "\nRon A\u00f1ejo Gran Reserva",
+    "price": "13,75"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ron A\u00f1ejo",
+    "format": " 70 cl.",
+    "specific_category": "Todos los Alcoholes",
+    "section": "Bebidas",
+    "item": "\nRon A\u00f1ejo",
+    "price": "11,65"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vermouth rosso",
+    "format": " 1 l.",
+    "specific_category": "Todos los Alcoholes",
+    "section": "Bebidas",
+    "item": "\nVermouth rosso",
+    "price": "7,99"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Vodka",
+    "format": " 70 cl.",
+    "specific_category": "Todos los Alcoholes",
+    "section": "Bebidas",
+    "item": "\nVodka",
+    "price": "38,80"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Mojito",
+    "format": " 70 cl.",
+    "specific_category": "Todos los Alcoholes",
+    "section": "Bebidas",
+    "item": "\nMojito",
+    "price": "7,70"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Whisky irland\u00e9s",
+    "format": " 70 cl.",
+    "specific_category": "Todos los Alcoholes",
+    "section": "Bebidas",
+    "item": "\nWhisky irland\u00e9s",
+    "price": "16,75"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ginebra Pink ",
+    "format": " 70 cl.",
+    "specific_category": "Todos los Alcoholes",
+    "section": "Bebidas",
+    "item": "\nGinebra Pink ",
+    "price": "14,95"
+  },
+  {
+    "category": "Alcoholes",
+    "name": "Ginebra",
+    "format": " 70 cl.",
+    "specific_category": "Todos los Alcoholes",
+    "section": "Bebidas",
+    "item": "\nGinebra",
+    "price": "15,95"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Infusi\u00f3n de tila, melisa y manzanilla",
+    "format": " 150 g.",
+    "specific_category": "Complementos Alimenticios",
+    "section": "Beb\u00e9",
+    "item": "\nInfusi\u00f3n de tila, melisa y manzanilla",
+    "price": "8,50"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Complemento alimenticio de vainilla en polvo",
+    "format": " 900 g.",
+    "specific_category": "Complementos Alimenticios",
+    "section": "Beb\u00e9",
+    "item": "\nComplemento alimenticio de vainilla en polvo",
+    "price": "23,60"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Complemento alimenticio de chocolate en polvo",
+    "format": " 900 g.",
+    "specific_category": "Complementos Alimenticios",
+    "section": "Beb\u00e9",
+    "item": "\nComplemento alimenticio de chocolate en polvo",
+    "price": "23,60"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Infusi\u00f3n instant\u00e1nea para aliviar gases Digest",
+    "format": " 200 g.",
+    "specific_category": "Complementos Alimenticios",
+    "section": "Beb\u00e9",
+    "item": "\nInfusi\u00f3n instant\u00e1nea para aliviar gases Digest",
+    "price": "6,75"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Infusi\u00f3n de manzanilla e hinojo",
+    "format": " 150 g.",
+    "specific_category": "Complementos Alimenticios",
+    "section": "Beb\u00e9",
+    "item": "\nInfusi\u00f3n de manzanilla e hinojo",
+    "price": "8,50"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Preparado laxante con ciruela, tamarindo y kiwi",
+    "format": " 150 g.",
+    "specific_category": "Complementos Alimenticios",
+    "section": "Beb\u00e9",
+    "item": "\nPreparado laxante con ciruela, tamarindo y kiwi",
+    "price": "8,50"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Complemento alimenticio de chocolate en polvo",
+    "format": " 400 g.",
+    "specific_category": "Complementos Alimenticios",
+    "section": "Beb\u00e9",
+    "item": "\nComplemento alimenticio de chocolate en polvo",
+    "price": "13,50"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Infusi\u00f3n instant\u00e1nea ayuda al descanso Digest",
+    "format": " 200 g.",
+    "specific_category": "Complementos Alimenticios",
+    "section": "Beb\u00e9",
+    "item": "\nInfusi\u00f3n instant\u00e1nea ayuda al descanso Digest",
+    "price": "6,75"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Complemento alimenticio de vainilla en polvo",
+    "format": " 400 g.",
+    "specific_category": "Complementos Alimenticios",
+    "section": "Beb\u00e9",
+    "item": "\nComplemento alimenticio de vainilla en polvo",
+    "price": "13,50"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Complemento alimenticio de fresa en polvo",
+    "format": " 900 g.",
+    "specific_category": "Complementos Alimenticios",
+    "section": "Beb\u00e9",
+    "item": "\nComplemento alimenticio de fresa en polvo",
+    "price": "23,60"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Leche 3 de crecimiento l\u00edquida Peques 3",
+    "format": " pack 8x1 l.",
+    "specific_category": "Leches Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nLeche 3 de crecimiento l\u00edquida Peques 3",
+    "price": "11,05"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Leche 3 de crecimiento l\u00edquida Peques 3",
+    "format": " 1 l.",
+    "specific_category": "Leches Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nLeche 3 de crecimiento l\u00edquida Peques 3",
+    "price": "1,45"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Leche de crecimiento Vitalidad para +2 a\u00f1os l\u00edquida",
+    "format": " 1 l.",
+    "specific_category": "Leches Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nLeche de crecimiento Vitalidad para +2 a\u00f1os l\u00edquida",
+    "price": "1,55"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Leche de crecimiento con cereales l\u00edquida",
+    "format": " 1 l.",
+    "specific_category": "Leches Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nLeche de crecimiento con cereales l\u00edquida",
+    "price": "1,50"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Leche de crecimiento l\u00edquida",
+    "format": " 1 l.",
+    "specific_category": "Leches Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nLeche de crecimiento l\u00edquida",
+    "price": "1,50"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Leche 3 de crecimiento con cereales con fruta l\u00edquida Peques 3",
+    "format": " pack 3x200 ml.",
+    "specific_category": "Leches Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nLeche 3 de crecimiento con cereales con fruta l\u00edquida Peques 3",
+    "price": "1,53"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Leche 3 de crecimiento con cereales l\u00edquida Peques 3",
+    "format": " pack 8x1 l.",
+    "specific_category": "Leches Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nLeche 3 de crecimiento con cereales l\u00edquida Peques 3",
+    "price": "11,05"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Leche de crecimiento con galleta para +2 a\u00f1os l\u00edquida",
+    "format": " 1 l.",
+    "specific_category": "Leches Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nLeche de crecimiento con galleta para +2 a\u00f1os l\u00edquida",
+    "price": "1,55"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Leche 3 de crecimiento con cereales al cacao l\u00edquida Peques 3",
+    "format": " pack 3x200 ml.",
+    "specific_category": "Leches Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nLeche 3 de crecimiento con cereales al cacao l\u00edquida Peques 3",
+    "price": "1,41"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Leche 2 de continuaci\u00f3n en polvo",
+    "format": " pack 2x500 g.",
+    "specific_category": "Leches Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nLeche 2 de continuaci\u00f3n en polvo",
+    "price": "13,40"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Leche 3 de crecimiento con cereales l\u00edquida Peques 3",
+    "format": " 1 l.",
+    "specific_category": "Leches Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nLeche 3 de crecimiento con cereales l\u00edquida Peques 3",
+    "price": "1,42"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Leche Nan 2",
+    "format": " 800 g.",
+    "specific_category": "Leches Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nLeche Nan 2",
+    "price": "14,05"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Papilla multicereales 100% Eco",
+    "format": " 300 g.",
+    "specific_category": "Papillas y Galletas",
+    "section": "Beb\u00e9",
+    "item": "\nPapilla multicereales 100% Eco",
+    "price": "2,50"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Papilla 8 cereales con galleta Mar\u00eda",
+    "format": " 1200 g.",
+    "specific_category": "Papillas y Galletas",
+    "section": "Beb\u00e9",
+    "item": "\nPapilla 8 cereales con galleta Mar\u00eda",
+    "price": "5,30"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Papilla en polvo de 8 cereales con B\u00edfidus BL",
+    "format": " 1200 g.",
+    "specific_category": "Papillas y Galletas",
+    "section": "Beb\u00e9",
+    "item": "\nPapilla en polvo de 8 cereales con B\u00edfidus BL",
+    "price": "5,55"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Papilla en polvo de 8 cereales con miel",
+    "format": " 1200 g.",
+    "specific_category": "Papillas y Galletas",
+    "section": "Beb\u00e9",
+    "item": "\nPapilla en polvo de 8 cereales con miel",
+    "price": "5,55"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Papilla 8 cereales",
+    "format": " 600 g.",
+    "specific_category": "Papillas y Galletas",
+    "section": "Beb\u00e9",
+    "item": "\nPapilla 8 cereales",
+    "price": "7,65"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Papilla 8 cereales",
+    "format": " 1000 g.",
+    "specific_category": "Papillas y Galletas",
+    "section": "Beb\u00e9",
+    "item": "\nPapilla 8 cereales",
+    "price": "11,85"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Papilla en polvo de 5 cereales",
+    "format": " 1200 g.",
+    "specific_category": "Papillas y Galletas",
+    "section": "Beb\u00e9",
+    "item": "\nPapilla en polvo de 5 cereales",
+    "price": "5,30"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Papilla en polvo de cereales al cacao",
+    "format": " 600 g.",
+    "specific_category": "Papillas y Galletas",
+    "section": "Beb\u00e9",
+    "item": "\nPapilla en polvo de cereales al cacao",
+    "price": "2,70"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Galletitas de espelta y fruta ecol\u00f3gica",
+    "format": " 220 g.",
+    "specific_category": "Papillas y Galletas",
+    "section": "Beb\u00e9",
+    "item": "\nGalletitas de espelta y fruta ecol\u00f3gica",
+    "price": "3,49"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Papilla 8 cereales y galletas Mar\u00eda",
+    "format": " 600 g.",
+    "specific_category": "Papillas y Galletas",
+    "section": "Beb\u00e9",
+    "item": "\nPapilla 8 cereales y galletas Mar\u00eda",
+    "price": "8,55"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Papilla instant\u00e1nea multicereales",
+    "format": " 1200 g.",
+    "specific_category": "Papillas y Galletas",
+    "section": "Beb\u00e9",
+    "item": "\nPapilla instant\u00e1nea multicereales",
+    "price": "5,80"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Galletitas 6 cereales",
+    "format": " 125 g.",
+    "specific_category": "Papillas y Galletas",
+    "section": "Beb\u00e9",
+    "item": "\nGalletitas 6 cereales",
+    "price": "1,64"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Bolsita de pera, pl\u00e1tano y naranja 100% Eco",
+    "format": " 100 g.",
+    "specific_category": "Postres, Zumos, Petit y Yogures Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nBolsita de pera, pl\u00e1tano y naranja 100% Eco",
+    "price": "1,00"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Bolsita de pl\u00e1tano, manzana y zanahoria 100% Eco",
+    "format": " 100 g.",
+    "specific_category": "Postres, Zumos, Petit y Yogures Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nBolsita de pl\u00e1tano, manzana y zanahoria 100% Eco",
+    "price": "0,95"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Yogur tres frutas con leche adaptada",
+    "format": " 4x100 g.",
+    "specific_category": "Postres, Zumos, Petit y Yogures Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nYogur tres frutas con leche adaptada",
+    "price": "2,80"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "4 frutas en bolsita",
+    "format": " 90 g.",
+    "specific_category": "Postres, Zumos, Petit y Yogures Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\n4 frutas en bolsita",
+    "price": "0,87"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Yogur natural azucarado con leche adaptada",
+    "format": " 4x100 g.",
+    "specific_category": "Postres, Zumos, Petit y Yogures Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nYogur natural azucarado con leche adaptada",
+    "price": "2,80"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Petit Natural",
+    "format": " pack 4x100 g.",
+    "specific_category": "Postres, Zumos, Petit y Yogures Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nPetit Natural",
+    "price": "2,15"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Multifrutas en bolsita",
+    "format": " 90 g.",
+    "specific_category": "Postres, Zumos, Petit y Yogures Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nMultifrutas en bolsita",
+    "price": "0,87"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Compota de fresa, pl\u00e1tano y manzana",
+    "format": " 90 g.",
+    "specific_category": "Postres, Zumos, Petit y Yogures Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nCompota de fresa, pl\u00e1tano y manzana",
+    "price": "0,60"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Gusanitos de ma\u00edz ecol\u00f3gico",
+    "format": " 38 g.",
+    "specific_category": "Postres, Zumos, Petit y Yogures Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nGusanitos de ma\u00edz ecol\u00f3gico",
+    "price": "1,73"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Manzana, zanahoria y mango en bolsita",
+    "format": " 90 g.",
+    "specific_category": "Postres, Zumos, Petit y Yogures Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nManzana, zanahoria y mango en bolsita",
+    "price": "0,90"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Yogur con pl\u00e1tano y fresa en bolsita",
+    "format": " 100 g.",
+    "specific_category": "Postres, Zumos, Petit y Yogures Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nYogur con pl\u00e1tano y fresa en bolsita",
+    "price": "0,80"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Postre l\u00e1cteo de pl\u00e1tano",
+    "format": " pack 4x100 g.",
+    "specific_category": "Postres, Zumos, Petit y Yogures Infantiles",
+    "section": "Beb\u00e9",
+    "item": "\nPostre l\u00e1cteo de pl\u00e1tano",
+    "price": "2,15"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tarrito de pera, melocot\u00f3n y pl\u00e1tano",
+    "format": " 200 g.",
+    "specific_category": "Tarritos y Platos Preparados",
+    "section": "Beb\u00e9",
+    "item": "\nTarrito de pera, melocot\u00f3n y pl\u00e1tano",
+    "price": "1,35"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tarrito multifrutas",
+    "format": " 200 g.",
+    "specific_category": "Tarritos y Platos Preparados",
+    "section": "Beb\u00e9",
+    "item": "\nTarrito multifrutas",
+    "price": "1,35"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tarrito de verduritas con pollo y ternera",
+    "format": " pack 4x235 g.",
+    "specific_category": "Tarritos y Platos Preparados",
+    "section": "Beb\u00e9",
+    "item": "\nTarrito de verduritas con pollo y ternera",
+    "price": "3,71"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tarrito de pera y manzana",
+    "format": " 120 g.",
+    "specific_category": "Tarritos y Platos Preparados",
+    "section": "Beb\u00e9",
+    "item": "\nTarrito de pera y manzana",
+    "price": "0,95"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tarrito de frutas variadas",
+    "format": " pack 4x235 g.",
+    "specific_category": "Tarritos y Platos Preparados",
+    "section": "Beb\u00e9",
+    "item": "\nTarrito de frutas variadas",
+    "price": "3,71"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tarrito de verduritas con pavo",
+    "format": " pack 4x190 g.",
+    "specific_category": "Tarritos y Platos Preparados",
+    "section": "Beb\u00e9",
+    "item": "\nTarrito de verduritas con pavo",
+    "price": "3,71"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tarrito de judias verdes y patatas con ternera",
+    "format": " pack 2x200 g.",
+    "specific_category": "Tarritos y Platos Preparados",
+    "section": "Beb\u00e9",
+    "item": "\nTarrito de judias verdes y patatas con ternera",
+    "price": "2,15"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tarrito de pera, pl\u00e1tano y zanahoria",
+    "format": " 120 g.",
+    "specific_category": "Tarritos y Platos Preparados",
+    "section": "Beb\u00e9",
+    "item": "\nTarrito de pera, pl\u00e1tano y zanahoria",
+    "price": "0,95"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tarrito de verduras con pescadilla a la crema",
+    "format": " pack 4x190 g.",
+    "specific_category": "Tarritos y Platos Preparados",
+    "section": "Beb\u00e9",
+    "item": "\nTarrito de verduras con pescadilla a la crema",
+    "price": "3,71"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tarrito de lenguado con bechamel",
+    "format": " 235 g.",
+    "specific_category": "Tarritos y Platos Preparados",
+    "section": "Beb\u00e9",
+    "item": "\nTarrito de lenguado con bechamel",
+    "price": "0,95"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tarrito de pur\u00e9 de verduritas con pollo",
+    "format": " pack 2x200 g.",
+    "specific_category": "Tarritos y Platos Preparados",
+    "section": "Beb\u00e9",
+    "item": "\nTarrito de pur\u00e9 de verduritas con pollo",
+    "price": "2,15"
+  },
+  {
+    "category": "Alimentaci\u00f3n",
+    "name": "Tarrito de verduritas de la huerta con cordero",
+    "format": " pack 2x200 g.",
+    "specific_category": "Tarritos y Platos Preparados",
+    "section": "Beb\u00e9",
+    "item": "\nTarrito de verduritas de la huerta con cordero",
+    "price": "2,15"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Blanqueador y quitamanchas Eco",
+    "format": " 500 g.",
+    "specific_category": "Aditivos y quitamanchas",
+    "section": "Limpieza y Hogar",
+    "item": "\nBlanqueador y quitamanchas Eco",
+    "price": "4,95"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Gel quitamanchas Ecol\u00f3gico",
+    "format": " 200 ml.",
+    "specific_category": "Aditivos y quitamanchas",
+    "section": "Limpieza y Hogar",
+    "item": "\nGel quitamanchas Ecol\u00f3gico",
+    "price": "3,95"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Desinfectante ropa",
+    "format": " 500 ml.",
+    "specific_category": "Aditivos y quitamanchas",
+    "section": "Limpieza y Hogar",
+    "item": "\nDesinfectante ropa",
+    "price": "2,55"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Quitamanchas prelavado",
+    "format": " 750 ml.",
+    "specific_category": "Aditivos y quitamanchas",
+    "section": "Limpieza y Hogar",
+    "item": "\nQuitamanchas prelavado",
+    "price": "3,80"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Quitamanchas spray",
+    "format": " 500 ml.",
+    "specific_category": "Aditivos y quitamanchas",
+    "section": "Limpieza y Hogar",
+    "item": "\nQuitamanchas spray",
+    "price": "3,95"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Desinfectante textil",
+    "format": " 1,2 l.",
+    "specific_category": "Aditivos y quitamanchas",
+    "section": "Limpieza y Hogar",
+    "item": "\nDesinfectante textil",
+    "price": "4,99"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Quitamanchas en gel ropa de color",
+    "format": " 2 l.",
+    "specific_category": "Aditivos y quitamanchas",
+    "section": "Limpieza y Hogar",
+    "item": "\nQuitamanchas en gel ropa de color",
+    "price": "1,60"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Quitamanchas prelavado",
+    "format": " 750 ml.",
+    "specific_category": "Aditivos y quitamanchas",
+    "section": "Limpieza y Hogar",
+    "item": "\nQuitamanchas prelavado",
+    "price": "3,49"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Quitamanchas + blanqueador Gold",
+    "format": " 940 g.",
+    "specific_category": "Aditivos y quitamanchas",
+    "section": "Limpieza y Hogar",
+    "item": "\nQuitamanchas + blanqueador Gold",
+    "price": "9,95"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Blanqueador Blanco Nuclear",
+    "format": " pack 6x20 g.",
+    "specific_category": "Aditivos y quitamanchas",
+    "section": "Limpieza y Hogar",
+    "item": "\nBlanqueador Blanco Nuclear",
+    "price": "2,25"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Quitamanchas Polvo",
+    "format": " 500 g.",
+    "specific_category": "Aditivos y quitamanchas",
+    "section": "Limpieza y Hogar",
+    "item": "\nQuitamanchas Polvo",
+    "price": "4,30"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Quitamanchas oxy blanco puro",
+    "format": " 1,6 l.",
+    "specific_category": "Aditivos y quitamanchas",
+    "section": "Limpieza y Hogar",
+    "item": "\nQuitamanchas oxy blanco puro",
+    "price": "3,70"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Agua de plancha destilada",
+    "format": " 5 l.",
+    "specific_category": "Agua de Plancha y Apresto",
+    "section": "Limpieza y Hogar",
+    "item": "\nAgua de plancha destilada",
+    "price": "1,68"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Agua de plancha destilada",
+    "format": " 2 l.",
+    "specific_category": "Agua de Plancha y Apresto",
+    "section": "Limpieza y Hogar",
+    "item": "\nAgua de plancha destilada",
+    "price": "0,78"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Agua de plancha perfumada",
+    "format": " 1 l.",
+    "specific_category": "Agua de Plancha y Apresto",
+    "section": "Limpieza y Hogar",
+    "item": "\nAgua de plancha perfumada",
+    "price": "0,68"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Agua de plancha perfumada",
+    "format": " 1 l.",
+    "specific_category": "Agua de Plancha y Apresto",
+    "section": "Limpieza y Hogar",
+    "item": "\nAgua de plancha perfumada",
+    "price": "1,80"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Apresto instant\u00e1neo para planchado",
+    "format": " 500 ml.",
+    "specific_category": "Agua de Plancha y Apresto",
+    "section": "Limpieza y Hogar",
+    "item": "\nApresto instant\u00e1neo para planchado",
+    "price": "4,35"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Apresto para planchado ",
+    "format": " 400 ml.",
+    "specific_category": "Agua de Plancha y Apresto",
+    "section": "Limpieza y Hogar",
+    "item": "\nApresto para planchado ",
+    "price": "1,25"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Detergente lavadora",
+    "format": " 40 lavados.",
+    "specific_category": "Detergentes",
+    "section": "Limpieza y Hogar",
+    "item": "\nDetergente lavadora",
+    "price": "5,80"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Detergente L\u00edquido Jab\u00f3n de Marsella y Flor de naranjo",
+    "format": " 66 lavados.",
+    "specific_category": "Detergentes",
+    "section": "Limpieza y Hogar",
+    "item": "\nDetergente L\u00edquido Jab\u00f3n de Marsella y Flor de naranjo",
+    "price": "4,45"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Detergente L\u00edquido Jab\u00f3n de Marsella y Flor de naranjo",
+    "format": " 40 lavados.",
+    "specific_category": "Detergentes",
+    "section": "Limpieza y Hogar",
+    "item": "\nDetergente L\u00edquido Jab\u00f3n de Marsella y Flor de naranjo",
+    "price": "2,75"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Detergente liquido actilift",
+    "format": " 50 lavados.",
+    "specific_category": "Detergentes",
+    "section": "Limpieza y Hogar",
+    "item": "\nDetergente liquido actilift",
+    "price": "10,90"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Detergente l\u00edquido beb\u00e9 sin al\u00e9rgenos",
+    "format": " 1125 ml.",
+    "specific_category": "Detergentes",
+    "section": "Limpieza y Hogar",
+    "item": "\nDetergente l\u00edquido beb\u00e9 sin al\u00e9rgenos",
+    "price": "4,09"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Detergente l\u00edquido Alpine",
+    "format": " 50 lavados.",
+    "specific_category": "Detergentes",
+    "section": "Limpieza y Hogar",
+    "item": "\nDetergente l\u00edquido Alpine",
+    "price": "12,15"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Detergente gel l\u00edquido",
+    "format": " 60 lavados.",
+    "specific_category": "Detergentes",
+    "section": "Limpieza y Hogar",
+    "item": "\nDetergente gel l\u00edquido",
+    "price": "9,90"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Detergente l\u00edquido ",
+    "format": " 64 lavados.",
+    "specific_category": "Detergentes",
+    "section": "Limpieza y Hogar",
+    "item": "\nDetergente l\u00edquido ",
+    "price": "14,25"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Detergente l\u00edquido ",
+    "format": " 66 lavados",
+    "specific_category": "Detergentes",
+    "section": "Limpieza y Hogar",
+    "item": "\nDetergente l\u00edquido ",
+    "price": "15,85"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Detergente liquido marsella",
+    "format": " 50 lavados.",
+    "specific_category": "Detergentes",
+    "section": "Limpieza y Hogar",
+    "item": "\nDetergente liquido marsella",
+    "price": "8,57"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Detergente l\u00edquido Diario",
+    "format": " 50 lavados.",
+    "specific_category": "Detergentes",
+    "section": "Limpieza y Hogar",
+    "item": "\nDetergente l\u00edquido Diario",
+    "price": "7,16"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Detergente gel l\u00edquido",
+    "format": " 40 lavados.",
+    "specific_category": "Detergentes",
+    "section": "Limpieza y Hogar",
+    "item": "\nDetergente gel l\u00edquido",
+    "price": "6,30"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Lej\u00eda densoactiva con fibro protectores",
+    "format": " 2 l.",
+    "specific_category": "Lej\u00edas lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nLej\u00eda densoactiva con fibro protectores",
+    "price": "1,84"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Lej\u00eda lavadora con efecto antirrotura",
+    "format": " 2 l.",
+    "specific_category": "Lej\u00edas lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nLej\u00eda lavadora con efecto antirrotura",
+    "price": "0,80"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Lej\u00eda blanca",
+    "format": " 2 l.",
+    "specific_category": "Lej\u00edas lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nLej\u00eda blanca",
+    "price": "1,74"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Lej\u00eda perfumada Frescor Verde",
+    "format": " 2 l.",
+    "specific_category": "Lej\u00edas lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nLej\u00eda perfumada Frescor Verde",
+    "price": "1,74"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Lejia lavadora  al jab\u00f3n natural ",
+    "format": " 2 l.",
+    "specific_category": "Lej\u00edas lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nLejia lavadora  al jab\u00f3n natural ",
+    "price": "1,84"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Lej\u00eda densoactiva perfume menta con fibroprotectores",
+    "format": " 2 l.",
+    "specific_category": "Lej\u00edas lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nLej\u00eda densoactiva perfume menta con fibroprotectores",
+    "price": "1,00"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Lej\u00eda blanca",
+    "format": " 4 l.",
+    "specific_category": "Lej\u00edas lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nLej\u00eda blanca",
+    "price": "3,00"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Lejia ropa perfumada",
+    "format": " 2 l.",
+    "specific_category": "Lej\u00edas lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nLejia ropa perfumada",
+    "price": "1,56"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Lej\u00eda lavadora",
+    "format": " 5 l.",
+    "specific_category": "Lej\u00edas lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nLej\u00eda lavadora",
+    "price": "1,83"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Lej\u00eda perfumada Frescor Verde",
+    "format": " 4 l.",
+    "specific_category": "Lej\u00edas lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nLej\u00eda perfumada Frescor Verde",
+    "price": "3,00"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Lej\u00eda Densa Lavadora",
+    "format": " 2 l.",
+    "specific_category": "Lej\u00edas lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nLej\u00eda Densa Lavadora",
+    "price": "1,03"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Lejia ropa proteccion",
+    "format": " 2 l.",
+    "specific_category": "Lej\u00edas lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nLejia ropa proteccion",
+    "price": "1,56"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Limpia lavadoras",
+    "format": " 250 ml.",
+    "specific_category": "Limpiadores y Antical para Lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nLimpia lavadoras",
+    "price": "3,90"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Antical para lavadora en pastillas",
+    "format": " 45 ud.",
+    "specific_category": "Limpiadores y Antical para Lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nAntical para lavadora en pastillas",
+    "price": "3,80"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Antical Lavadora Gel 2 en 1 ",
+    "format": " 750 ml.",
+    "specific_category": "Limpiadores y Antical para Lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nAntical Lavadora Gel 2 en 1 ",
+    "price": "6,45"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Gel antical",
+    "format": " 750 ml.",
+    "specific_category": "Limpiadores y Antical para Lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nGel antical",
+    "price": "2,10"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Limpia lavadoras elimina la suciedad y los malos olores",
+    "format": " 3x120 g.",
+    "specific_category": "Limpiadores y Antical para Lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nLimpia lavadoras elimina la suciedad y los malos olores",
+    "price": "4,00"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Antical Lavadora Pastillas 2 en 1 ",
+    "format": " 45 ud.",
+    "specific_category": "Limpiadores y Antical para Lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nAntical Lavadora Pastillas 2 en 1 ",
+    "price": "18,50"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Antical Lavadora Pastillas 2 en 1 ",
+    "format": " 15 ud.",
+    "specific_category": "Limpiadores y Antical para Lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nAntical Lavadora Pastillas 2 en 1 ",
+    "price": "6,55"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Limpia lavadoras Frescor lim\u00f3n",
+    "format": " 1 ud.",
+    "specific_category": "Limpiadores y Antical para Lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nLimpia lavadoras Frescor lim\u00f3n",
+    "price": "3,90"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Limpia lavadoras power action",
+    "format": " 2 ud.",
+    "specific_category": "Limpiadores y Antical para Lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nLimpia lavadoras power action",
+    "price": "6,50"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Antical Lavadora Gel",
+    "format": " 2,25 l.",
+    "specific_category": "Limpiadores y Antical para Lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nAntical Lavadora Gel",
+    "price": "18,65"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Antical para lavadoras",
+    "format": " 30 pastillas.",
+    "specific_category": "Limpiadores y Antical para Lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nAntical para lavadoras",
+    "price": "12,95"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Antical para lavadora en pastillas",
+    "format": " 15 ud.",
+    "specific_category": "Limpiadores y Antical para Lavadora",
+    "section": "Limpieza y Hogar",
+    "item": "\nAntical para lavadora en pastillas",
+    "price": "1,50"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Suavizante Eco",
+    "format": " 750 ml.",
+    "specific_category": "Suavizantes",
+    "section": "Limpieza y Hogar",
+    "item": "\nSuavizante Eco",
+    "price": "4,65"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Suavizante concentrado para ropa beb\u00e9",
+    "format": " 30 lavados.",
+    "specific_category": "Suavizantes",
+    "section": "Limpieza y Hogar",
+    "item": "\nSuavizante concentrado para ropa beb\u00e9",
+    "price": "2,15"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Suavizante concentrado azul vital",
+    "format": " 78 lavados.",
+    "specific_category": "Suavizantes",
+    "section": "Limpieza y Hogar",
+    "item": "\nSuavizante concentrado azul vital",
+    "price": "3,90"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Suavizante Concentrado Cielo Azul con Perlas Perfumandas",
+    "format": " 76 lavados.",
+    "specific_category": "Suavizantes",
+    "section": "Limpieza y Hogar",
+    "item": "\nSuavizante Concentrado Cielo Azul con Perlas Perfumandas",
+    "price": "3,30"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Suavizante concentrado caricias",
+    "format": " 78 lavados.",
+    "specific_category": "Suavizantes",
+    "section": "Limpieza y Hogar",
+    "item": "\nSuavizante concentrado caricias",
+    "price": "3,90"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Suavizante concentrado Azul",
+    "format": " 156 lavados.",
+    "specific_category": "Suavizantes",
+    "section": "Limpieza y Hogar",
+    "item": "\nSuavizante concentrado Azul",
+    "price": "7,05"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Suavizante concentrado azul",
+    "format": " 80 lavados.",
+    "specific_category": "Suavizantes",
+    "section": "Limpieza y Hogar",
+    "item": "\nSuavizante concentrado azul",
+    "price": "1,46"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Suavizante Concentrado Azul Classic",
+    "format": " 72 lavados.",
+    "specific_category": "Suavizantes",
+    "section": "Limpieza y Hogar",
+    "item": "\nSuavizante Concentrado Azul Classic",
+    "price": "2,90"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Suavizante concentrado talco",
+    "format": " 80 lavados.",
+    "specific_category": "Suavizantes",
+    "section": "Limpieza y Hogar",
+    "item": "\nSuavizante concentrado talco",
+    "price": "1,46"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Suavizante concentrado Colonia",
+    "format": " 80 lavados.",
+    "specific_category": "Suavizantes",
+    "section": "Limpieza y Hogar",
+    "item": "\nSuavizante concentrado Colonia",
+    "price": "1,79"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Suavizante concentrado Azul",
+    "format": " 64 lavados.",
+    "specific_category": "Suavizantes",
+    "section": "Limpieza y Hogar",
+    "item": "\nSuavizante concentrado Azul",
+    "price": "3,50"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Suavizante concentrado Spa",
+    "format": " 80 lavados.",
+    "specific_category": "Suavizantes",
+    "section": "Limpieza y Hogar",
+    "item": "\nSuavizante concentrado Spa",
+    "price": "1,79"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Set de Pinzas de ropa de pl\u00e1stico MONDEX bi-inyecci\u00f3n 8cm x 17cm x 3cm",
+    "format": " 12 ud",
+    "specific_category": "Tendido y Planchado",
+    "section": "Limpieza y Hogar",
+    "item": "\nSet de Pinzas de ropa de pl\u00e1stico MONDEX bi-inyecci\u00f3n 8cm x 17cm x 3cm",
+    "price": "1,60"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Pinzas de ropa  de Madera 24 unidades  Haya",
+    "format": " 1 ud",
+    "specific_category": "Tendido y Planchado",
+    "section": "Limpieza y Hogar",
+    "item": "\nPinzas de ropa  de Madera 24 unidades  Haya",
+    "price": "0,99"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Tendedero con alas metal 18 metros",
+    "format": " 1 ud.",
+    "specific_category": "Tendido y Planchado",
+    "section": "Limpieza y Hogar",
+    "item": "\nTendedero con alas metal 18 metros",
+    "price": "7,99"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Tabla de planchar B2 114x36cm para planchas de vapor",
+    "format": " 1 ud.",
+    "specific_category": "Tendido y Planchado",
+    "section": "Limpieza y Hogar",
+    "item": "\nTabla de planchar B2 114x36cm para planchas de vapor",
+    "price": "18,00"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Funda para Plancha 2 en 1",
+    "format": " 1 Ud.",
+    "specific_category": "Tendido y Planchado",
+    "section": "Limpieza y Hogar",
+    "item": "\nFunda para Plancha 2 en 1",
+    "price": "12,00"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Tendedero con alas de Acero modelo Jolly 18 m. - Blanco",
+    "format": " 1 ud",
+    "specific_category": "Tendido y Planchado",
+    "section": "Limpieza y Hogar",
+    "item": "\nTendedero con alas de Acero modelo Jolly 18 m. - Blanco",
+    "price": "15,00"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Tendedero con Alas de Resina Stark 53 x 172 x 110 cm  Blanco",
+    "format": " 1 ud",
+    "specific_category": "Tendido y Planchado",
+    "section": "Limpieza y Hogar",
+    "item": "\nTendedero con Alas de Resina Stark 53 x 172 x 110 cm  Blanco",
+    "price": "22,00"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Tabla de plancha Premier 147cm  Estampado",
+    "format": " 1 ud",
+    "specific_category": "Tendido y Planchado",
+    "section": "Limpieza y Hogar",
+    "item": "\nTabla de plancha Premier 147cm  Estampado",
+    "price": "13,00"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Pa\u00f1o limpia planchas de  10 x 15 cm  Negro",
+    "format": " 1 ud",
+    "specific_category": "Tendido y Planchado",
+    "section": "Limpieza y Hogar",
+    "item": "\nPa\u00f1o limpia planchas de  10 x 15 cm  Negro",
+    "price": "5,50"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Funda Confort Plus",
+    "format": " 1 ud",
+    "specific_category": "Tendido y Planchado",
+    "section": "Limpieza y Hogar",
+    "item": "\nFunda Confort Plus",
+    "price": "12,00"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Funda de plancha el\u00e1stica  127 x 51 cm Estampado",
+    "format": " 1 ud",
+    "specific_category": "Tendido y Planchado",
+    "section": "Limpieza y Hogar",
+    "item": "\nFunda de plancha el\u00e1stica  127 x 51 cm Estampado",
+    "price": "14,00"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Funda de plancha de Muleton 130 x 47 cm Estampado",
+    "format": " 1 ud",
+    "specific_category": "Tendido y Planchado",
+    "section": "Limpieza y Hogar",
+    "item": "\nFunda de plancha de Muleton 130 x 47 cm Estampado",
+    "price": "14,00"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Tinte para la ropa negro 40\u00baC 2 sobres + fijador",
+    "format": " 1 ud.",
+    "specific_category": "Tinte para la ropa",
+    "section": "Limpieza y Hogar",
+    "item": "\nTinte para la ropa negro 40\u00baC 2 sobres + fijador",
+    "price": "2,59"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Tinte para la ropa azul marino 40\u00baC 2 sobres + fijador",
+    "format": " 1 ud.",
+    "specific_category": "Tinte para la ropa",
+    "section": "Limpieza y Hogar",
+    "item": "\nTinte para la ropa azul marino 40\u00baC 2 sobres + fijador",
+    "price": "2,59"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Tinte para la ropa amarillo 40\u00baC",
+    "format": " 1 ud.",
+    "specific_category": "Tinte para la ropa",
+    "section": "Limpieza y Hogar",
+    "item": "\nTinte para la ropa amarillo 40\u00baC",
+    "price": "2,59"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Tinte para la ropa violeta 40\u00baC 2 sobres + fijador",
+    "format": " 1 ud.",
+    "specific_category": "Tinte para la ropa",
+    "section": "Limpieza y Hogar",
+    "item": "\nTinte para la ropa violeta 40\u00baC 2 sobres + fijador",
+    "price": "2,59"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Tinte para la ropa azul vaquero 40\u00baC ",
+    "format": " 70 g.",
+    "specific_category": "Tinte para la ropa",
+    "section": "Limpieza y Hogar",
+    "item": "\nTinte para la ropa azul vaquero 40\u00baC ",
+    "price": "2,59"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Tinte para la ropa rojo 40\u00baC 2 sobres + fijador",
+    "format": " 1 ud.",
+    "specific_category": "Tinte para la ropa",
+    "section": "Limpieza y Hogar",
+    "item": "\nTinte para la ropa rojo 40\u00baC 2 sobres + fijador",
+    "price": "2,59"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Sal fijadora tinte",
+    "format": " 500 g.",
+    "specific_category": "Tinte para la ropa",
+    "section": "Limpieza y Hogar",
+    "item": "\nSal fijadora tinte",
+    "price": "2,09"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Tinte para la ropa azul el\u00e9ctrico 40\u00baC",
+    "format": " 1 ud.",
+    "specific_category": "Tinte para la ropa",
+    "section": "Limpieza y Hogar",
+    "item": "\nTinte para la ropa azul el\u00e9ctrico 40\u00baC",
+    "price": "2,59"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Tinte para la ropa rosa 40\u00baC",
+    "format": " 1 ud.",
+    "specific_category": "Tinte para la ropa",
+    "section": "Limpieza y Hogar",
+    "item": "\nTinte para la ropa rosa 40\u00baC",
+    "price": "2,59"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Tinte para la ropa gris 40\u00baC 2 sobres + fijador",
+    "format": " 1 ud.",
+    "specific_category": "Tinte para la ropa",
+    "section": "Limpieza y Hogar",
+    "item": "\nTinte para la ropa gris 40\u00baC 2 sobres + fijador",
+    "price": "2,59"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Tinte para la ropa verde oscuro 40\u00baC sobres + fijador",
+    "format": " 1 ud.",
+    "specific_category": "Tinte para la ropa",
+    "section": "Limpieza y Hogar",
+    "item": "\nTinte para la ropa verde oscuro 40\u00baC sobres + fijador",
+    "price": "2,59"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Tinte para la ropa caqui 40\u00baC 2 sobres + fijador",
+    "format": " 1 ud.",
+    "specific_category": "Tinte para la ropa",
+    "section": "Limpieza y Hogar",
+    "item": "\nTinte para la ropa caqui 40\u00baC 2 sobres + fijador",
+    "price": "2,59"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Toallitas desechables anti-transferencia color",
+    "format": " 40 ud.",
+    "specific_category": "Toallitas Atrapacolores",
+    "section": "Limpieza y Hogar",
+    "item": "\nToallitas desechables anti-transferencia color",
+    "price": "3,55"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Toallitas captura colores Protect",
+    "format": " 25 ud.",
+    "specific_category": "Toallitas Atrapacolores",
+    "section": "Limpieza y Hogar",
+    "item": "\nToallitas captura colores Protect",
+    "price": "4,89"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Toallitas anti-transferencia de color",
+    "format": " 32 ud.",
+    "specific_category": "Toallitas Atrapacolores",
+    "section": "Limpieza y Hogar",
+    "item": "\nToallitas anti-transferencia de color",
+    "price": "5,05"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Toallitas captura colores Protect",
+    "format": " 15 ud.",
+    "specific_category": "Toallitas Atrapacolores",
+    "section": "Limpieza y Hogar",
+    "item": "\nToallitas captura colores Protect",
+    "price": "3,10"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Toallitas blanqueadoras ",
+    "format": " 10 ud.",
+    "specific_category": "Toallitas Atrapacolores",
+    "section": "Limpieza y Hogar",
+    "item": "\nToallitas blanqueadoras ",
+    "price": "2,95"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Toallitas Atrapacolor Adi\u00f3s al Separar",
+    "format": " 20 ud.",
+    "specific_category": "Toallitas Atrapacolores",
+    "section": "Limpieza y Hogar",
+    "item": "\nToallitas Atrapacolor Adi\u00f3s al Separar",
+    "price": "4,75"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Toallitas Atrapacolor Adi\u00f3s al Separar",
+    "format": " 10 ud.",
+    "specific_category": "Toallitas Atrapacolores",
+    "section": "Limpieza y Hogar",
+    "item": "\nToallitas Atrapacolor Adi\u00f3s al Separar",
+    "price": "2,95"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Toallita anti-transferencia de color ultra",
+    "format": " 10 ud.",
+    "specific_category": "Toallitas Atrapacolores",
+    "section": "Limpieza y Hogar",
+    "item": "\nToallita anti-transferencia de color ultra",
+    "price": "3,50"
+  },
+  {
+    "category": "Cuidado de la Ropa",
+    "name": "Limpialavadoras",
+    "format": " 250 ml.",
+    "specific_category": "Toallitas Atrapacolores",
+    "section": "Limpieza y Hogar",
+    "item": "\nLimpialavadoras",
+    "price": "3,70"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Colonia familiar fresca",
+    "format": " 750 ml.",
+    "specific_category": "Colonias",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nColonia familiar fresca",
+    "price": "1,45"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Colonia Siempre fresca",
+    "format": " 600 ml.",
+    "specific_category": "Colonias",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nColonia Siempre fresca",
+    "price": "3,39"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Colonia Classic Fresh",
+    "format": " 750 ml.",
+    "specific_category": "Colonias",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nColonia Classic Fresh",
+    "price": "3,45"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Colonia original ",
+    "format": " 650 ml.",
+    "specific_category": "Colonias",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nColonia original ",
+    "price": "2,40"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Colonia para Adultos",
+    "format": " 750 ml.",
+    "specific_category": "Colonias",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nColonia para Adultos",
+    "price": "3,85"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Agua de colonia cl\u00e1sica",
+    "format": " 750 ml.",
+    "specific_category": "Colonias",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nAgua de colonia cl\u00e1sica",
+    "price": "1,09"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Colonia familiar glicerina y t\u00e9 blanco",
+    "format": " 650 ml.",
+    "specific_category": "Colonias",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nColonia familiar glicerina y t\u00e9 blanco",
+    "price": "2,85"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Agua de colonia familiar lavanda ",
+    "format": " 750 ml.",
+    "specific_category": "Colonias",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nAgua de colonia familiar lavanda ",
+    "price": "1,93"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Agua de colonia flor de naranjo",
+    "format": " 750 ml.",
+    "specific_category": "Colonias",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nAgua de colonia flor de naranjo",
+    "price": "3,76"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Colonia familiar",
+    "format": " 750 ml.",
+    "specific_category": "Colonias",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nColonia familiar",
+    "price": "3,65"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Colonia",
+    "format": " 750 ml.",
+    "specific_category": "Colonias",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nColonia",
+    "price": "7,10"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Colonia concentrada Gotas Frescas vaporizador",
+    "format": " 250 ml.",
+    "specific_category": "Colonias",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nColonia concentrada Gotas Frescas vaporizador",
+    "price": "4,70"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Desodorante Piedra de Alumbre",
+    "format": " 120 g.",
+    "specific_category": "Desodorantes",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nDesodorante Piedra de Alumbre",
+    "price": "3,35"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Desodorante roll-on extra sensitive",
+    "format": " 50 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nDesodorante roll-on extra sensitive",
+    "price": "5,25"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Desodorante Dermo Extra Control Roll-on",
+    "format": " pack 2x45 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nDesodorante Dermo Extra Control Roll-on",
+    "price": "3,40"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Desodorante Dermo Sensitive Roll-on",
+    "format": " pack 2x45 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nDesodorante Dermo Sensitive Roll-on",
+    "price": "3,40"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Desodorante for men crystal",
+    "format": " pack 2x200 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nDesodorante for men crystal",
+    "price": "4,35"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Desodorante Natur Protect Piel normal Roll-on",
+    "format": " 45 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nDesodorante Natur Protect Piel normal Roll-on",
+    "price": "1,80"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Desodorante roll-on original anti-transpirante 0% alcohol",
+    "format": " 50 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nDesodorante roll-on original anti-transpirante 0% alcohol",
+    "price": "1,80"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Desodorante Men Dermo Active Control Roll-on",
+    "format": " pack 2x45 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nDesodorante Men Dermo Active Control Roll-on",
+    "price": "3,40"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Desodorante Dermo Extra Control Spray",
+    "format": " pack 2x200 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nDesodorante Dermo Extra Control Spray",
+    "price": "4,95"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Desodorante anti-transpirante y anti-manchas blancas",
+    "format": " 200 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nDesodorante anti-transpirante y anti-manchas blancas",
+    "price": "2,29"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Desodorante anti-transpirante para hombre",
+    "format": " 50 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nDesodorante anti-transpirante para hombre",
+    "price": "1,85"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Desodorante para hombre",
+    "format": " 75 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nDesodorante para hombre",
+    "price": "2,00"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Esponja ba\u00f1o",
+    "format": " 3 ud.",
+    "specific_category": "Esponjas, Manoplas y Cepillos de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nEsponja ba\u00f1o",
+    "price": "1,09"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Esponja Flor",
+    "format": " 1 ud.",
+    "specific_category": "Esponjas, Manoplas y Cepillos de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nEsponja Flor",
+    "price": "0,85"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Esponja masaje doble acci\u00f3n",
+    "format": " 1 ud.",
+    "specific_category": "Esponjas, Manoplas y Cepillos de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nEsponja masaje doble acci\u00f3n",
+    "price": "0,99"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Esponja de ba\u00f1o con fibras naturales",
+    "format": " 1 ud.",
+    "specific_category": "Esponjas, Manoplas y Cepillos de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nEsponja de ba\u00f1o con fibras naturales",
+    "price": "1,69"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Esponja de ba\u00f1o suave",
+    "format": " 2 ud.",
+    "specific_category": "Esponjas, Manoplas y Cepillos de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nEsponja de ba\u00f1o suave",
+    "price": "0,96"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Esponja vegetal",
+    "format": " 1 ud.",
+    "specific_category": "Esponjas, Manoplas y Cepillos de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nEsponja vegetal",
+    "price": "0,99"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Esponja ba\u00f1o sensaci\u00f3n relajante",
+    "format": " 1 ud.",
+    "specific_category": "Esponjas, Manoplas y Cepillos de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nEsponja ba\u00f1o sensaci\u00f3n relajante",
+    "price": "1,72"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Guante exfoliante",
+    "format": " 1 ud.",
+    "specific_category": "Esponjas, Manoplas y Cepillos de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nGuante exfoliante",
+    "price": "2,15"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Esponja Natural marina",
+    "format": " 1 ud.",
+    "specific_category": "Esponjas, Manoplas y Cepillos de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nEsponja Natural marina",
+    "price": "4,15"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Esponja suave oval",
+    "format": " 1 ud.",
+    "specific_category": "Esponjas, Manoplas y Cepillos de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nEsponja suave oval",
+    "price": "1,28"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Esponja de ba\u00f1o tonificante doble acci\u00f3n",
+    "format": " 1 ud.",
+    "specific_category": "Esponjas, Manoplas y Cepillos de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nEsponja de ba\u00f1o tonificante doble acci\u00f3n",
+    "price": "2,10"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Esponjas",
+    "format": " 3 ud.",
+    "specific_category": "Esponjas, Manoplas y Cepillos de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nEsponjas",
+    "price": "2,65"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Gel de ba\u00f1o con oliva y citrus 100% ec\u00f3logicos",
+    "format": " 600 ml.",
+    "specific_category": "Geles de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nGel de ba\u00f1o con oliva y citrus 100% ec\u00f3logicos",
+    "price": "4,19"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Gel de ducha Clasico",
+    "format": " 1 l.",
+    "specific_category": "Geles de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nGel de ducha Clasico",
+    "price": "0,81"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Gel de ducha dermo protector para piel normal",
+    "format": " 900 ml.",
+    "specific_category": "Geles de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nGel de ducha dermo protector para piel normal",
+    "price": "3,49"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Gel de ducha",
+    "format": " 600 ml.",
+    "specific_category": "Geles de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nGel de ducha",
+    "price": "2,80"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Gel de ducha zero 0% para piel normal",
+    "format": " 900 ml.",
+    "specific_category": "Geles de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nGel de ducha zero 0% para piel normal",
+    "price": "3,49"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Gel classic",
+    "format": " 550 ml.",
+    "specific_category": "Geles de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nGel classic",
+    "price": "2,75"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Gel de ducha dermo pro-hydrate para piel muy seca",
+    "format": " 900 ml.",
+    "specific_category": "Geles de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nGel de ducha dermo pro-hydrate para piel muy seca",
+    "price": "3,49"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Gel ba\u00f1o ducha hidratante",
+    "format": " 750 ml.",
+    "specific_category": "Geles de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nGel ba\u00f1o ducha hidratante",
+    "price": "2,19"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Gel de ducha nutritivo hidrataci\u00f3n profunda",
+    "format": " 600 ml.",
+    "specific_category": "Geles de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nGel de ducha nutritivo hidrataci\u00f3n profunda",
+    "price": "3,55"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Gel de ducha con Aloe Vera",
+    "format": " 750 ml.",
+    "specific_category": "Geles de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nGel de ducha con Aloe Vera",
+    "price": "1,33"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Gel de ducha Zero% Ecopack",
+    "format": " 1000 ml.",
+    "specific_category": "Geles de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nGel de ducha Zero% Ecopack",
+    "price": "2,86"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Gel de ducha dermo protector para piel normal",
+    "format": " 600 ml.",
+    "specific_category": "Geles de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nGel de ducha dermo protector para piel normal",
+    "price": "2,97"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Jab\u00f3n l\u00edquido Bio-Aloe & Lemon",
+    "format": " 200 ml.",
+    "specific_category": "Jab\u00f3n de Manos",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nJab\u00f3n l\u00edquido Bio-Aloe & Lemon",
+    "price": "4,75"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Jab\u00f3n l\u00edquido mano aloe vera",
+    "format": " 500 ml.",
+    "specific_category": "Jab\u00f3n de Manos",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nJab\u00f3n l\u00edquido mano aloe vera",
+    "price": "1,25"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Jab\u00f3n en crema dermo con dosificador",
+    "format": " 500 ml.",
+    "specific_category": "Jab\u00f3n de Manos",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nJab\u00f3n en crema dermo con dosificador",
+    "price": "0,86"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Jab\u00f3n l\u00edquido de manos perfume lavanda",
+    "format": " 500 ml.",
+    "specific_category": "Jab\u00f3n de Manos",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nJab\u00f3n l\u00edquido de manos perfume lavanda",
+    "price": "1,25"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Jab\u00f3n de manos Rosa Mosqueta",
+    "format": " 500 ml.",
+    "specific_category": "Jab\u00f3n de Manos",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nJab\u00f3n de manos Rosa Mosqueta",
+    "price": "1,77"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Jab\u00f3n l\u00edquido de manos perfume melocot\u00f3n",
+    "format": " 500 ml.",
+    "specific_category": "Jab\u00f3n de Manos",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nJab\u00f3n l\u00edquido de manos perfume melocot\u00f3n",
+    "price": "1,25"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Jab\u00f3n de manos l\u00edquido con aloe vera",
+    "format": " 300 ml.",
+    "specific_category": "Jab\u00f3n de Manos",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nJab\u00f3n de manos l\u00edquido con aloe vera",
+    "price": "2,20"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Jab\u00f3n crema hidratante",
+    "format": " 250 ml.",
+    "specific_category": "Jab\u00f3n de Manos",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nJab\u00f3n crema hidratante",
+    "price": "2,30"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Jab\u00f3n de manos l\u00edquido Leche y Miel/Almendras",
+    "format": " 300 ml.",
+    "specific_category": "Jab\u00f3n de Manos",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nJab\u00f3n de manos l\u00edquido Leche y Miel/Almendras",
+    "price": "2,20"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Jab\u00f3n tocador Cream Bar",
+    "format": " pack 2x100 g.",
+    "specific_category": "Jab\u00f3n de Manos",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nJab\u00f3n tocador Cream Bar",
+    "price": "2,10"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Jab\u00f3n de manos l\u00edquido Neutralizador olores cocina",
+    "format": " 300 ml.",
+    "specific_category": "Jab\u00f3n de Manos",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nJab\u00f3n de manos l\u00edquido Neutralizador olores cocina",
+    "price": "2,20"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Jab\u00f3n de manos perfume manzana",
+    "format": " 500 ml.",
+    "specific_category": "Jab\u00f3n de Manos",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nJab\u00f3n de manos perfume manzana",
+    "price": "1,25"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Bastoncillos de algod\u00f3n",
+    "format": " 200 ud.",
+    "specific_category": "Ojos y Oreja",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nBastoncillos de algod\u00f3n",
+    "price": "0,50"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Bastoncillos",
+    "format": " 160 ud.",
+    "specific_category": "Ojos y Oreja",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nBastoncillos",
+    "price": "0,44"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Tapones para o\u00eddos",
+    "format": " 8 ud.",
+    "specific_category": "Ojos y Oreja",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nTapones para o\u00eddos",
+    "price": "1,06"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Tap\u00f3n para o\u00eddo espuma",
+    "format": " 4 ud.",
+    "specific_category": "Ojos y Oreja",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nTap\u00f3n para o\u00eddo espuma",
+    "price": "3,59"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Sal de ba\u00f1o ultra hidratante arg\u00e1n",
+    "format": " 700 g.",
+    "specific_category": "Sales de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nSal de ba\u00f1o ultra hidratante arg\u00e1n",
+    "price": "3,29"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Bombas de sal Rosas",
+    "format": " 250 ml.",
+    "specific_category": "Sales de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nBombas de sal Rosas",
+    "price": "2,10"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Sal de ba\u00f1o rosa mosqueta",
+    "format": " 700 ml.",
+    "specific_category": "Sales de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nSal de ba\u00f1o rosa mosqueta",
+    "price": "3,50"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Bombas de sal Mora",
+    "format": " 250 ml.",
+    "specific_category": "Sales de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nBombas de sal Mora",
+    "price": "2,10"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Bombas de sal Chocolate",
+    "format": " 250 ml.",
+    "specific_category": "Sales de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nBombas de sal Chocolate",
+    "price": "2,10"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Bombas de sal Vainilla",
+    "format": " 250 ml.",
+    "specific_category": "Sales de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nBombas de sal Vainilla",
+    "price": "2,10"
+  },
+  {
+    "category": "Ba\u00f1o e Higiene Corporal",
+    "name": "Bombas de sal Verbena",
+    "format": " 250 ml.",
+    "specific_category": "Sales de Ba\u00f1o",
+    "section": "Perfumer\u00eda e Higiene",
+    "item": "\nBombas de sal Verbena",
+    "price": "2,10"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel vientre plano",
+    "format": " 200 ml.",
+    "specific_category": "Cremas y Lociones",
+    "section": "Parafarmacia",
+    "item": "\nGel vientre plano",
+    "price": "9,20"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Aceite de almendras + rosa mosqueta",
+    "format": " 250  ml.",
+    "specific_category": "Cremas y Lociones",
+    "section": "Parafarmacia",
+    "item": "\nAceite de almendras + rosa mosqueta",
+    "price": "7,45"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Aceite de almendras ",
+    "format": " 500 ml.",
+    "specific_category": "Cremas y Lociones",
+    "section": "Parafarmacia",
+    "item": "\nAceite de almendras ",
+    "price": "8,10"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel de ducha Lipikar ",
+    "format": " 1 ud.",
+    "specific_category": "Cremas y Lociones",
+    "section": "Parafarmacia",
+    "item": "\nGel de ducha Lipikar ",
+    "price": "13,10"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Locion corporal hidratante piel seca",
+    "format": " 750 ml.",
+    "specific_category": "Cremas y Lociones",
+    "section": "Parafarmacia",
+    "item": "\nLocion corporal hidratante piel seca",
+    "price": "18,70"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel anticelulitico",
+    "format": " 200 ml.",
+    "specific_category": "Cremas y Lociones",
+    "section": "Parafarmacia",
+    "item": "\nGel anticelulitico",
+    "price": "9,20"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Aceite de rosa mosqueta",
+    "format": " 30 ml.",
+    "specific_category": "Cremas y Lociones",
+    "section": "Parafarmacia",
+    "item": "\nAceite de rosa mosqueta",
+    "price": "11,55"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Loci\u00f3n hidratante corporal pH5 para piel sensible",
+    "format": " 1000 ml.",
+    "specific_category": "Cremas y Lociones",
+    "section": "Parafarmacia",
+    "item": "\nLoci\u00f3n hidratante corporal pH5 para piel sensible",
+    "price": "23,60"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Loci\u00f3n corporal essentials aceite de arg\u00e1n",
+    "format": " 400 ml.",
+    "specific_category": "Cremas y Lociones",
+    "section": "Parafarmacia",
+    "item": "\nLoci\u00f3n corporal essentials aceite de arg\u00e1n",
+    "price": "4,90"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Locion corporal reparaci\u00f3n",
+    "format": " 400 ml.",
+    "specific_category": "Cremas y Lociones",
+    "section": "Parafarmacia",
+    "item": "\nLocion corporal reparaci\u00f3n",
+    "price": "15,90"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Loci\u00f3n hidratante ultraligera Piel seca y sensible",
+    "format": " 400 ml.",
+    "specific_category": "Cremas y Lociones",
+    "section": "Parafarmacia",
+    "item": "\nLoci\u00f3n hidratante ultraligera Piel seca y sensible",
+    "price": "17,50"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Crema Bepanthol",
+    "format": " 100 g.",
+    "specific_category": "Cremas y Lociones",
+    "section": "Parafarmacia",
+    "item": "\nCrema Bepanthol",
+    "price": "13,75"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Higiene \u00edntima calmante",
+    "format": " pack 2x250 ml.",
+    "specific_category": "Cuidado \u00cdntimo",
+    "section": "Parafarmacia",
+    "item": "\nHigiene \u00edntima calmante",
+    "price": "9,90"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel suave fisiol\u00f3gico para la higiene \u00edntima diaria",
+    "format": " 500 ml.",
+    "specific_category": "Cuidado \u00cdntimo",
+    "section": "Parafarmacia",
+    "item": "\nGel suave fisiol\u00f3gico para la higiene \u00edntima diaria",
+    "price": "12,80"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Higiene \u00edntima calmante",
+    "format": " 250 ml.",
+    "specific_category": "Cuidado \u00cdntimo",
+    "section": "Parafarmacia",
+    "item": "\nHigiene \u00edntima calmante",
+    "price": "7,00"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel higiene \u00edntima",
+    "format": " 250 ml.",
+    "specific_category": "Cuidado \u00cdntimo",
+    "section": "Parafarmacia",
+    "item": "\nGel higiene \u00edntima",
+    "price": "7,85"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel Intimo",
+    "format": " 200 ml.",
+    "specific_category": "Cuidado \u00cdntimo",
+    "section": "Parafarmacia",
+    "item": "\nGel Intimo",
+    "price": "7,15"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel lubricante vaginal",
+    "format": " 30 g.",
+    "specific_category": "Cuidado \u00cdntimo",
+    "section": "Parafarmacia",
+    "item": "\nGel lubricante vaginal",
+    "price": "7,95"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel \u00edntimo pH5 para piel sensible ",
+    "format": " 400 ml.",
+    "specific_category": "Cuidado \u00cdntimo",
+    "section": "Parafarmacia",
+    "item": "\nGel \u00edntimo pH5 para piel sensible ",
+    "price": "9,30"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel Intimo+toallitas regalo",
+    "format": " 400 ml.",
+    "specific_category": "Cuidado \u00cdntimo",
+    "section": "Parafarmacia",
+    "item": "\nGel Intimo+toallitas regalo",
+    "price": "9,95"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Toallitas para la higiene en caso de hemorroides",
+    "format": " 60 ud.",
+    "specific_category": "Cuidado \u00cdntimo",
+    "section": "Parafarmacia",
+    "item": "\nToallitas para la higiene en caso de hemorroides",
+    "price": "5,30"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel Ginecanesgel Higiene Intima Diaria",
+    "format": " 200 ml.",
+    "specific_category": "Cuidado \u00cdntimo",
+    "section": "Parafarmacia",
+    "item": "\nGel Ginecanesgel Higiene Intima Diaria",
+    "price": "10,90"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel hidratante vaginal",
+    "format": " 50 g.",
+    "specific_category": "Cuidado \u00cdntimo",
+    "section": "Parafarmacia",
+    "item": "\nGel hidratante vaginal",
+    "price": "12,80"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Toallitas \u00edntimas",
+    "format": " 10 ud.",
+    "specific_category": "Cuidado \u00cdntimo",
+    "section": "Parafarmacia",
+    "item": "\nToallitas \u00edntimas",
+    "price": "3,45"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Desodorante roll on antitranspirante 48h",
+    "format": " pack 2x50 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Parafarmacia",
+    "item": "\nDesodorante roll on antitranspirante 48h",
+    "price": "7,75"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Desodoranten en stick",
+    "format": " 50 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Parafarmacia",
+    "item": "\nDesodoranten en stick",
+    "price": "2,50"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Desodorante roll on pH5 para pieles sensibles",
+    "format": " pack 2x50 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Parafarmacia",
+    "item": "\nDesodorante roll on pH5 para pieles sensibles",
+    "price": "7,75"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Desodorante Triple Difusi\u00f3n 72h para hombre",
+    "format": " 50 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Parafarmacia",
+    "item": "\nDesodorante Triple Difusi\u00f3n 72h para hombre",
+    "price": "9,25"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Desodorante anti-transpirante para hombre 72h",
+    "format": " 50 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Parafarmacia",
+    "item": "\nDesodorante anti-transpirante para hombre 72h",
+    "price": "9,00"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Desodorante anti-transpirante para hombre 48h",
+    "format": " 50 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Parafarmacia",
+    "item": "\nDesodorante anti-transpirante para hombre 48h",
+    "price": "9,00"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Desodorante anti-manchas y anti-transpirante ",
+    "format": " 50 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Parafarmacia",
+    "item": "\nDesodorante anti-manchas y anti-transpirante ",
+    "price": "11,05"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Duplo desodorante en Stick Keops",
+    "format": " 80 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Parafarmacia",
+    "item": "\nDuplo desodorante en Stick Keops",
+    "price": "10,05"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Desodorante antitranspirante",
+    "format": " 20 ml.",
+    "specific_category": "Desodorantes",
+    "section": "Parafarmacia",
+    "item": "\nDesodorante antitranspirante",
+    "price": "13,00"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel dermatol\u00f3gico ph 5.5 con col\u00e1geno y lipo-proteinas",
+    "format": " pack 2x1 l.",
+    "specific_category": "Jabones y Geles",
+    "section": "Parafarmacia",
+    "item": "\nGel dermatol\u00f3gico ph 5.5 con col\u00e1geno y lipo-proteinas",
+    "price": "6,95"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel de ba\u00f1o de aceite de coco Essentials Hipoalerg\u00e9nico",
+    "format": " pack 3x750 ml.",
+    "specific_category": "Jabones y Geles",
+    "section": "Parafarmacia",
+    "item": "\nGel de ba\u00f1o de aceite de coco Essentials Hipoalerg\u00e9nico",
+    "price": "8,80"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel de ba\u00f1o de aceite de coco Essentials Hipoalerg\u00e9nico",
+    "format": " 750 ml.",
+    "specific_category": "Jabones y Geles",
+    "section": "Parafarmacia",
+    "item": "\nGel de ba\u00f1o de aceite de coco Essentials Hipoalerg\u00e9nico",
+    "price": "3,30"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Jab\u00f3n l\u00edquido",
+    "format": " 1000 ml.",
+    "specific_category": "Jabones y Geles",
+    "section": "Parafarmacia",
+    "item": "\nJab\u00f3n l\u00edquido",
+    "price": "12,15"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel de ba\u00f1o dermograso piel at\u00f3pica AT4",
+    "format": " 750 ml.",
+    "specific_category": "Jabones y Geles",
+    "section": "Parafarmacia",
+    "item": "\nGel de ba\u00f1o dermograso piel at\u00f3pica AT4",
+    "price": "19,10"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Oleogel de ducha pH5 para piel sensible y seca",
+    "format": " 1000 ml.",
+    "specific_category": "Jabones y Geles",
+    "section": "Parafarmacia",
+    "item": "\nOleogel de ducha pH5 para piel sensible y seca",
+    "price": "24,00"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel de ba\u00f1o de aceite de almendras Essentials Hipoalerg\u00e9nico",
+    "format": " 750 ml.",
+    "specific_category": "Jabones y Geles",
+    "section": "Parafarmacia",
+    "item": "\nGel de ba\u00f1o de aceite de almendras Essentials Hipoalerg\u00e9nico",
+    "price": "3,00"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel de ba\u00f1o avena Essentials Hipoalerg\u00e9nico",
+    "format": " 750 ml.",
+    "specific_category": "Jabones y Geles",
+    "section": "Parafarmacia",
+    "item": "\nGel de ba\u00f1o avena Essentials Hipoalerg\u00e9nico",
+    "price": "3,10"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel de ba\u00f1o dosificador de avena Essentials Hipoalerg\u00e9nico",
+    "format": " pack 3x750 ml.",
+    "specific_category": "Jabones y Geles",
+    "section": "Parafarmacia",
+    "item": "\nGel de ba\u00f1o dosificador de avena Essentials Hipoalerg\u00e9nico",
+    "price": "10,00"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Oleogel de ducha pH5 para pieles sensibles y secas",
+    "format": " 400 ml.",
+    "specific_category": "Jabones y Geles",
+    "section": "Parafarmacia",
+    "item": "\nOleogel de ducha pH5 para pieles sensibles y secas",
+    "price": "13,35"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel de ba\u00f1o de aceite de arg\u00e1n Essentials Hipoalerg\u00e9nico",
+    "format": " 750 ml.",
+    "specific_category": "Jabones y Geles",
+    "section": "Parafarmacia",
+    "item": "\nGel de ba\u00f1o de aceite de arg\u00e1n Essentials Hipoalerg\u00e9nico",
+    "price": "2,95"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Gel de ba\u00f1o de aloe vera Essentials Hipoalerg\u00e9nico",
+    "format": " 750 ml.",
+    "specific_category": "Jabones y Geles",
+    "section": "Parafarmacia",
+    "item": "\nGel de ba\u00f1o de aloe vera Essentials Hipoalerg\u00e9nico",
+    "price": "3,25"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Loci\u00f3n spray solar FP 50+ Pediatrics",
+    "format": " 200 ml.",
+    "specific_category": "Protectores Solares",
+    "section": "Parafarmacia",
+    "item": "\nLoci\u00f3n spray solar FP 50+ Pediatrics",
+    "price": "16,90"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Leche solar FP 50+ para ni\u00f1os Anthelios",
+    "format": " 250 ml.",
+    "specific_category": "Protectores Solares",
+    "section": "Parafarmacia",
+    "item": "\nLeche solar FP 50+ para ni\u00f1os Anthelios",
+    "price": "25,90"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Spray solar transparente Dry Touch FP 50 para piel sensible",
+    "format": " 200 ml.",
+    "specific_category": "Protectores Solares",
+    "section": "Parafarmacia",
+    "item": "\nSpray solar transparente Dry Touch FP 50 para piel sensible",
+    "price": "25,90"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Fotoprotector Pediatrics transparente spray FP 50+ para piel mojada ",
+    "format": " 200 ml.",
+    "specific_category": "Protectores Solares",
+    "section": "Parafarmacia",
+    "item": "\nFotoprotector Pediatrics transparente spray FP 50+ para piel mojada ",
+    "price": "26,30"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Aerosol solar infantil FP 50+ Anthelios",
+    "format": " 200 ml.",
+    "specific_category": "Protectores Solares",
+    "section": "Parafarmacia",
+    "item": "\nAerosol solar infantil FP 50+ Anthelios",
+    "price": "26,90"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Spray solar Ultra light SPF 30",
+    "format": " 200 ml.",
+    "specific_category": "Protectores Solares",
+    "section": "Parafarmacia",
+    "item": "\nSpray solar Ultra light SPF 30",
+    "price": "19,50"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Spray solar Allergy FP 30",
+    "format": " 200 ml.",
+    "specific_category": "Protectores Solares",
+    "section": "Parafarmacia",
+    "item": "\nSpray solar Allergy FP 30",
+    "price": "19,50"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Duplo spray solar transparente Sensitive Protect FPS50",
+    "format": " 400 ml.",
+    "specific_category": "Protectores Solares",
+    "section": "Parafarmacia",
+    "item": "\nDuplo spray solar transparente Sensitive Protect FPS50",
+    "price": "38,90"
+  },
+  {
+    "category": "Cuidado corporal",
+    "name": "Loci\u00f3n fluida solar FP 50+ Pediatrics",
+    "format": " 300 ml.",
+    "specific_category": "Protectores Solares",
+    "section": "Parafarmacia",
+    "item": "\nLoci\u00f3n fluida solar FP 50+ Pediatrics",
+    "price": "17,90"
+  },
+  {
+    "category": "Perros",
+    "name": "Alb\u00f3ndigas para perro",
+    "format": " 1250 gr.",
+    "specific_category": "Alimentaci\u00f3n",
+    "section": "Mascotas",
+    "item": "\nAlb\u00f3ndigas para perro",
+    "price": "1,01"
+  },
+  {
+    "category": "Perros",
+    "name": "Comida para perro",
+    "format": " 1250 gr.",
+    "specific_category": "Alimentaci\u00f3n",
+    "section": "Mascotas",
+    "item": "\nComida para perro",
+    "price": "1,01"
+  },
+  {
+    "category": "Perros",
+    "name": "Delicias de buey para perro",
+    "format": " 300 gr.",
+    "specific_category": "Alimentaci\u00f3n",
+    "section": "Mascotas",
+    "item": "\nDelicias de buey para perro",
+    "price": "0,55"
+  },
+  {
+    "category": "Perros",
+    "name": "Alb\u00f3ndigas para perro",
+    "format": " 1250 gr.",
+    "specific_category": "Alimentaci\u00f3n",
+    "section": "Mascotas",
+    "item": "\nAlb\u00f3ndigas para perro",
+    "price": "1,01"
+  },
+  {
+    "category": "Perros",
+    "name": "Comida para perro 5 tipos de carne",
+    "format": " 300 gr.",
+    "specific_category": "Alimentaci\u00f3n",
+    "section": "Mascotas",
+    "item": "\nComida para perro 5 tipos de carne",
+    "price": "0,55"
+  },
+  {
+    "category": "Perros",
+    "name": "Delicias de pollo para perro",
+    "format": " 300 gr.",
+    "specific_category": "Alimentaci\u00f3n",
+    "section": "Mascotas",
+    "item": "\nDelicias de pollo para perro",
+    "price": "0,55"
+  },
+  {
+    "category": "Perros",
+    "name": "Alimento Perro Seco Delicious Buey",
+    "format": " 3 kg.",
+    "specific_category": "Alimentaci\u00f3n",
+    "section": "Mascotas",
+    "item": "\nAlimento Perro Seco Delicious Buey",
+    "price": "6,20"
+  },
+  {
+    "category": "Perros",
+    "name": "Alimento Perro Seco Mini Adulto Pollo",
+    "format": " 1,5 kg.",
+    "specific_category": "Alimentaci\u00f3n",
+    "section": "Mascotas",
+    "item": "\nAlimento Perro Seco Mini Adulto Pollo",
+    "price": "5,20"
+  },
+  {
+    "category": "Perros",
+    "name": "Alimento Perro Seco Mediterranea",
+    "format": " 4 kg.",
+    "specific_category": "Alimentaci\u00f3n",
+    "section": "Mascotas",
+    "item": "\nAlimento Perro Seco Mediterranea",
+    "price": "5,59"
+  },
+  {
+    "category": "Perros",
+    "name": "Comida para perros Active con Carnes",
+    "format": " 15 kg.",
+    "specific_category": "Alimentaci\u00f3n",
+    "section": "Mascotas",
+    "item": "\nComida para perros Active con Carnes",
+    "price": "21,60"
+  },
+  {
+    "category": "Perros",
+    "name": "Comida para perros Complete con Pollo",
+    "format": " 15 kg.",
+    "specific_category": "Alimentaci\u00f3n",
+    "section": "Mascotas",
+    "item": "\nComida para perros Complete con Pollo",
+    "price": "21,95"
+  },
+  {
+    "category": "Perros",
+    "name": "Comida para perro",
+    "format": " pack 6x150 gr",
+    "specific_category": "Alimentaci\u00f3n",
+    "section": "Mascotas",
+    "item": "\nComida para perro",
+    "price": "1,99"
+  },
+  {
+    "category": "Perros",
+    "name": "Cepillo combinado seda y puas para perros",
+    "format": " 1 ud.",
+    "specific_category": "Cepillos",
+    "section": "Mascotas",
+    "item": "\nCepillo combinado seda y puas para perros",
+    "price": "4,50"
+  },
+  {
+    "category": "Perros",
+    "name": "Cepillo Combo oval",
+    "format": " 1 ud",
+    "specific_category": "Cepillos",
+    "section": "Mascotas",
+    "item": "\nCepillo Combo oval",
+    "price": "5,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Cepillo ancho alisador",
+    "format": " 1 ud",
+    "specific_category": "Cepillos",
+    "section": "Mascotas",
+    "item": "\nCepillo ancho alisador",
+    "price": "4,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Cepillo peque\u00f1o perro",
+    "format": " 1 ud",
+    "specific_category": "Cepillos",
+    "section": "Mascotas",
+    "item": "\nCepillo peque\u00f1o perro",
+    "price": "3,50"
+  },
+  {
+    "category": "Perros",
+    "name": "Cepillo masaje 13,2X9X3",
+    "format": " 1 ud",
+    "specific_category": "Cepillos",
+    "section": "Mascotas",
+    "item": "\nCepillo masaje 13,2X9X3",
+    "price": "4,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Champu PH Neutro para perro Todo Tipo de Pelo",
+    "format": " 250 ml.",
+    "specific_category": "Champ\u00fas",
+    "section": "Mascotas",
+    "item": "\nChampu PH Neutro para perro Todo Tipo de Pelo",
+    "price": "4,85"
+  },
+  {
+    "category": "Perros",
+    "name": "Champ\u00fa repelente para perros",
+    "format": " 350 ml",
+    "specific_category": "Champ\u00fas",
+    "section": "Mascotas",
+    "item": "\nChamp\u00fa repelente para perros",
+    "price": "4,05"
+  },
+  {
+    "category": "Perros",
+    "name": "Champ\u00fa para Perro 2 en 1 ",
+    "format": " 250 ml",
+    "specific_category": "Champ\u00fas",
+    "section": "Mascotas",
+    "item": "\nChamp\u00fa para Perro 2 en 1 ",
+    "price": "3,49"
+  },
+  {
+    "category": "Perros",
+    "name": "Champ\u00fa 2 en 1 para perros",
+    "format": " 750 ml",
+    "specific_category": "Champ\u00fas",
+    "section": "Mascotas",
+    "item": "\nChamp\u00fa 2 en 1 para perros",
+    "price": "5,42"
+  },
+  {
+    "category": "Perros",
+    "name": "Champ\u00fa para Perro Uso Frecuente ",
+    "format": " 1 l.",
+    "specific_category": "Champ\u00fas",
+    "section": "Mascotas",
+    "item": "\nChamp\u00fa para Perro Uso Frecuente ",
+    "price": "6,25"
+  },
+  {
+    "category": "Perros",
+    "name": "Champ\u00fa repelente de insectos para perros",
+    "format": " 750 ml",
+    "specific_category": "Champ\u00fas",
+    "section": "Mascotas",
+    "item": "\nChamp\u00fa repelente de insectos para perros",
+    "price": "7,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Champ\u00fa para Perro Uso Frecuente",
+    "format": " 250 l",
+    "specific_category": "Champ\u00fas",
+    "section": "Mascotas",
+    "item": "\nChamp\u00fa para Perro Uso Frecuente",
+    "price": "3,49"
+  },
+  {
+    "category": "Perros",
+    "name": "Champu PH Neutro para perro Pelo Grueso",
+    "format": " 250 ml.",
+    "specific_category": "Champ\u00fas",
+    "section": "Mascotas",
+    "item": "\nChampu PH Neutro para perro Pelo Grueso",
+    "price": "4,85"
+  },
+  {
+    "category": "Perros",
+    "name": "Champ\u00fa para Perro Antica\u00edda ",
+    "format": " 250 l",
+    "specific_category": "Champ\u00fas",
+    "section": "Mascotas",
+    "item": "\nChamp\u00fa para Perro Antica\u00edda ",
+    "price": "3,49"
+  },
+  {
+    "category": "Perros",
+    "name": "Champ\u00fa para animales",
+    "format": " 1 ud",
+    "specific_category": "Champ\u00fas",
+    "section": "Mascotas",
+    "item": "\nChamp\u00fa para animales",
+    "price": "7,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Arnes seguridad coche para perros talla S",
+    "format": " 1 Ud.",
+    "specific_category": "Collares y Correas",
+    "section": "Mascotas",
+    "item": "\nArnes seguridad coche para perros talla S",
+    "price": "9,95"
+  },
+  {
+    "category": "Perros",
+    "name": "Correa nylon bandera espa\u00f1a 1m/12mm T M-L",
+    "format": " 1 Ud.",
+    "specific_category": "Collares y Correas",
+    "section": "Mascotas",
+    "item": "\nCorrea nylon bandera espa\u00f1a 1m/12mm T M-L",
+    "price": "12,50"
+  },
+  {
+    "category": "Perros",
+    "name": "Collar semi estrangulador 3 filas 55 cm/2,5 mm T M",
+    "format": " 1 Ud.",
+    "specific_category": "Collares y Correas",
+    "section": "Mascotas",
+    "item": "\nCollar semi estrangulador 3 filas 55 cm/2,5 mm T M",
+    "price": "7,70"
+  },
+  {
+    "category": "Perros",
+    "name": "Correa de cadena met\u00e1lica estampada 1,00m/3mm T M/L",
+    "format": " 1 Ud.",
+    "specific_category": "Collares y Correas",
+    "section": "Mascotas",
+    "item": "\nCorrea de cadena met\u00e1lica estampada 1,00m/3mm T M/L",
+    "price": "8,79"
+  },
+  {
+    "category": "Perros",
+    "name": "Correa bandera talla XL",
+    "format": " 1 Ud.",
+    "specific_category": "Collares y Correas",
+    "section": "Mascotas",
+    "item": "\nCorrea bandera talla XL",
+    "price": "12,50"
+  },
+  {
+    "category": "Perros",
+    "name": "Collar estrangulador metal 60CM/3MM Talla L",
+    "format": " 1 Ud.",
+    "specific_category": "Collares y Correas",
+    "section": "Mascotas",
+    "item": "\nCollar estrangulador metal 60CM/3MM Talla L",
+    "price": "2,95"
+  },
+  {
+    "category": "Perros",
+    "name": "Collar estrangulador metal 65cm/4mm T XL",
+    "format": " 1 Ud.",
+    "specific_category": "Collares y Correas",
+    "section": "Mascotas",
+    "item": "\nCollar estrangulador metal 65cm/4mm T XL",
+    "price": "3,69"
+  },
+  {
+    "category": "Perros",
+    "name": "Correa de nylon camuflaje 35-55cm /20mm T S",
+    "format": " 1 Ud.",
+    "specific_category": "Collares y Correas",
+    "section": "Mascotas",
+    "item": "\nCorrea de nylon camuflaje 35-55cm /20mm T S",
+    "price": "4,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Comedero antideslizante",
+    "format": " 1 Ud",
+    "specific_category": "Comederos",
+    "section": "Mascotas",
+    "item": "\nComedero antideslizante",
+    "price": "1,80"
+  },
+  {
+    "category": "Perros",
+    "name": "Comedero Doble para Perros Inoxidable 0.45L",
+    "format": " 1 ud",
+    "specific_category": "Comederos",
+    "section": "Mascotas",
+    "item": "\nComedero Doble para Perros Inoxidable 0.45L",
+    "price": "9,50"
+  },
+  {
+    "category": "Perros",
+    "name": "Botella Bebedero Mascotas",
+    "format": " 1 ud",
+    "specific_category": "Comederos",
+    "section": "Mascotas",
+    "item": "\nBotella Bebedero Mascotas",
+    "price": "3,95"
+  },
+  {
+    "category": "Perros",
+    "name": "Comedero anti -splash 20 cm",
+    "format": " 1 ud",
+    "specific_category": "Comederos",
+    "section": "Mascotas",
+    "item": "\nComedero anti -splash 20 cm",
+    "price": "3,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Comedor gato peque\u00f1o 250 ml",
+    "format": " 1 ud",
+    "specific_category": "Comederos",
+    "section": "Mascotas",
+    "item": "\nComedor gato peque\u00f1o 250 ml",
+    "price": "1,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Comedero Gato/Perro peque\u00f1o",
+    "format": " 1 ud",
+    "specific_category": "Comederos",
+    "section": "Mascotas",
+    "item": "\nComedero Gato/Perro peque\u00f1o",
+    "price": "2,20"
+  },
+  {
+    "category": "Perros",
+    "name": "Comedero antiderrapante",
+    "format": " 1 ud",
+    "specific_category": "Comederos",
+    "section": "Mascotas",
+    "item": "\nComedero antiderrapante",
+    "price": "3,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Comedero anti-splash 25 cm",
+    "format": " 1 ud",
+    "specific_category": "Comederos",
+    "section": "Mascotas",
+    "item": "\nComedero anti-splash 25 cm",
+    "price": "4,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Bolsas recambios para perros",
+    "format": " 80 Ud.",
+    "specific_category": "Confort",
+    "section": "Mascotas",
+    "item": "\nBolsas recambios para perros",
+    "price": "2,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Bolsas enrolladas para perros",
+    "format": " 20 uds.",
+    "specific_category": "Confort",
+    "section": "Mascotas",
+    "item": "\nBolsas enrolladas para perros",
+    "price": "0,95"
+  },
+  {
+    "category": "Perros",
+    "name": "Toallitas guante higi\u00e9nicas con Aloe Vera",
+    "format": " 4 ud",
+    "specific_category": "Confort",
+    "section": "Mascotas",
+    "item": "\nToallitas guante higi\u00e9nicas con Aloe Vera",
+    "price": "1,95"
+  },
+  {
+    "category": "Perros",
+    "name": "Toallitas guante higi\u00e9nicas con Camomila",
+    "format": " 4 ud",
+    "specific_category": "Confort",
+    "section": "Mascotas",
+    "item": "\nToallitas guante higi\u00e9nicas con Camomila",
+    "price": "1,95"
+  },
+  {
+    "category": "Perros",
+    "name": "Alfombra higi\u00e9nica",
+    "format": " 15 ud.",
+    "specific_category": "Confort",
+    "section": "Mascotas",
+    "item": "\nAlfombra higi\u00e9nica",
+    "price": "9,29"
+  },
+  {
+    "category": "Perros",
+    "name": "Alfombra para cachorros",
+    "format": " 1 Ud",
+    "specific_category": "Confort",
+    "section": "Mascotas",
+    "item": "\nAlfombra para cachorros",
+    "price": "4,25"
+  },
+  {
+    "category": "Perros",
+    "name": "Sanilove Neutralizador Malos Olores Ropa y Tejidos  ",
+    "format": " 250 ml",
+    "specific_category": "Confort",
+    "section": "Mascotas",
+    "item": "\nSanilove Neutralizador Malos Olores Ropa y Tejidos  ",
+    "price": "5,95"
+  },
+  {
+    "category": "Perros",
+    "name": "Cortau\u00f1as Profesional para Perro",
+    "format": " 1 ud.",
+    "specific_category": "Confort",
+    "section": "Mascotas",
+    "item": "\nCortau\u00f1as Profesional para Perro",
+    "price": "5,95"
+  },
+  {
+    "category": "Perros",
+    "name": "Almohadillas Cachorros ",
+    "format": " 1 ud",
+    "specific_category": "Confort",
+    "section": "Mascotas",
+    "item": "\nAlmohadillas Cachorros ",
+    "price": "9,80"
+  },
+  {
+    "category": "Perros",
+    "name": "Collar insectifugo para perro marr\u00f3n",
+    "format": " 1 Ud.",
+    "specific_category": "Higiene",
+    "section": "Mascotas",
+    "item": "\nCollar insectifugo para perro marr\u00f3n",
+    "price": "4,15"
+  },
+  {
+    "category": "Perros",
+    "name": "Pipetas repelentes de insectos 2x1 ml para perros",
+    "format": " 2 ud",
+    "specific_category": "Higiene",
+    "section": "Mascotas",
+    "item": "\nPipetas repelentes de insectos 2x1 ml para perros",
+    "price": "8,70"
+  },
+  {
+    "category": "Perros",
+    "name": "Collar insecticida para perros blanco",
+    "format": " 1 Ud.",
+    "specific_category": "Higiene",
+    "section": "Mascotas",
+    "item": "\nCollar insecticida para perros blanco",
+    "price": "4,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Collar insectifugo para perro negro",
+    "format": " 1 Ud.",
+    "specific_category": "Higiene",
+    "section": "Mascotas",
+    "item": "\nCollar insectifugo para perro negro",
+    "price": "4,15"
+  },
+  {
+    "category": "Perros",
+    "name": "Pistola suspensi\u00f3n insect\u00edfuga para perros",
+    "format": " 500 ml",
+    "specific_category": "Higiene",
+    "section": "Mascotas",
+    "item": "\nPistola suspensi\u00f3n insect\u00edfuga para perros",
+    "price": "8,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Pipetas insect\u00edfugas 2x2 ml perro grande",
+    "format": " 2 Ud.",
+    "specific_category": "Higiene",
+    "section": "Mascotas",
+    "item": "\nPipetas insect\u00edfugas 2x2 ml perro grande",
+    "price": "8,95"
+  },
+  {
+    "category": "Perros",
+    "name": "Spray insect\u00edfugo para perros",
+    "format": " 175 ml",
+    "specific_category": "Higiene",
+    "section": "Mascotas",
+    "item": "\nSpray insect\u00edfugo para perros",
+    "price": "4,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Collar repelente de insectos para cachorros",
+    "format": " 1 Ud.",
+    "specific_category": "Higiene",
+    "section": "Mascotas",
+    "item": "\nCollar repelente de insectos para cachorros",
+    "price": "5,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Juguetes Surtidos Mini Animales para Perros",
+    "format": " 1 ud.",
+    "specific_category": "Juguetes",
+    "section": "Mascotas",
+    "item": "\nJuguetes Surtidos Mini Animales para Perros",
+    "price": "2,32"
+  },
+  {
+    "category": "Perros",
+    "name": "Pelota con cuerda colores 7 cm",
+    "format": " 1 ud",
+    "specific_category": "Juguetes",
+    "section": "Mascotas",
+    "item": "\nPelota con cuerda colores 7 cm",
+    "price": "4,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Juguete goma blando 18 cm para perro",
+    "format": " 1 Ud",
+    "specific_category": "Juguetes",
+    "section": "Mascotas",
+    "item": "\nJuguete goma blando 18 cm para perro",
+    "price": "6,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Juguete neumatico 9,7CM ",
+    "format": " 1 ud",
+    "specific_category": "Juguetes",
+    "section": "Mascotas",
+    "item": "\nJuguete neumatico 9,7CM ",
+    "price": "2,55"
+  },
+  {
+    "category": "Perros",
+    "name": "Pelota con goma y cuerda",
+    "format": " 1 ud",
+    "specific_category": "Juguetes",
+    "section": "Mascotas",
+    "item": "\nPelota con goma y cuerda",
+    "price": "3,50"
+  },
+  {
+    "category": "Perros",
+    "name": "Surtido juguetes animales",
+    "format": " 1 ud",
+    "specific_category": "Juguetes",
+    "section": "Mascotas",
+    "item": "\nSurtido juguetes animales",
+    "price": "2,30"
+  },
+  {
+    "category": "Perros",
+    "name": "Frisbee perro colores",
+    "format": " 1 ud",
+    "specific_category": "Juguetes",
+    "section": "Mascotas",
+    "item": "\nFrisbee perro colores",
+    "price": "3,50"
+  },
+  {
+    "category": "Perros",
+    "name": "Agarrador goma 23,5X10X3,2CM CRF",
+    "format": " 1 ud",
+    "specific_category": "Juguetes",
+    "section": "Mascotas",
+    "item": "\nAgarrador goma 23,5X10X3,2CM CRF",
+    "price": "3,50"
+  },
+  {
+    "category": "Perros",
+    "name": "Pelota Caucho 9CM",
+    "format": " 1 ud",
+    "specific_category": "Juguetes",
+    "section": "Mascotas",
+    "item": "\nPelota Caucho 9CM",
+    "price": "5,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Aro cuerda 17CM",
+    "format": " 1 ud",
+    "specific_category": "Juguetes",
+    "section": "Mascotas",
+    "item": "\nAro cuerda 17CM",
+    "price": "5,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Juguete aro cerdito para perro peque\u00f1o o cachorro",
+    "format": " 1 Ud.",
+    "specific_category": "Juguetes",
+    "section": "Mascotas",
+    "item": "\nJuguete aro cerdito para perro peque\u00f1o o cachorro",
+    "price": "7,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Jueguete para perro tortuga",
+    "format": " 1 Ud",
+    "specific_category": "Juguetes",
+    "section": "Mascotas",
+    "item": "\nJueguete para perro tortuga",
+    "price": "9,00"
+  },
+  {
+    "category": "Perros",
+    "name": "Snack para perro Funtastix",
+    "format": " 175 g.",
+    "specific_category": "Premios, Snacks y Huesos",
+    "section": "Mascotas",
+    "item": "\nSnack para perro Funtastix",
+    "price": "1,80"
+  },
+  {
+    "category": "Perros",
+    "name": "Snack dental para perro",
+    "format": " 210 gr.",
+    "specific_category": "Premios, Snacks y Huesos",
+    "section": "Mascotas",
+    "item": "\nSnack dental para perro",
+    "price": "1,10"
+  },
+  {
+    "category": "Perros",
+    "name": "Snack para perros Galletas Shapes",
+    "format": " 800 g.",
+    "specific_category": "Premios, Snacks y Huesos",
+    "section": "Mascotas",
+    "item": "\nSnack para perros Galletas Shapes",
+    "price": "2,90"
+  },
+  {
+    "category": "Perros",
+    "name": "Dentastick Perros Medianos",
+    "format": " 28 ud",
+    "specific_category": "Premios, Snacks y Huesos",
+    "section": "Mascotas",
+    "item": "\nDentastick Perros Medianos",
+    "price": "9,40"
+  },
+  {
+    "category": "Perros",
+    "name": "Snack para perro",
+    "format": " pack 5x10 gr.",
+    "specific_category": "Premios, Snacks y Huesos",
+    "section": "Mascotas",
+    "item": "\nSnack para perro",
+    "price": "0,75"
+  },
+  {
+    "category": "Perros",
+    "name": "DentaStix perro peque\u00f1o",
+    "format": " 28 ud",
+    "specific_category": "Premios, Snacks y Huesos",
+    "section": "Mascotas",
+    "item": "\nDentaStix perro peque\u00f1o",
+    "price": "7,80"
+  },
+  {
+    "category": "Perros",
+    "name": "Saco Galletas",
+    "format": " 500 gr.",
+    "specific_category": "Premios, Snacks y Huesos",
+    "section": "Mascotas",
+    "item": "\nSaco Galletas",
+    "price": "1,30"
+  },
+  {
+    "category": "Perros",
+    "name": "hueso dental masticable para perro",
+    "format": " 1 Ud.",
+    "specific_category": "Premios, Snacks y Huesos",
+    "section": "Mascotas",
+    "item": "\nhueso dental masticable para perro",
+    "price": "1,15"
+  },
+  {
+    "category": "Perros",
+    "name": "Snack para perro Bon Bacon",
+    "format": " 120 g.",
+    "specific_category": "Premios, Snacks y Huesos",
+    "section": "Mascotas",
+    "item": "\nSnack para perro Bon Bacon",
+    "price": "1,99"
+  },
+  {
+    "category": "Perros",
+    "name": "Snack Funny Twists tiras enrolladas de carne",
+    "format": " 7 ud",
+    "specific_category": "Premios, Snacks y Huesos",
+    "section": "Mascotas",
+    "item": "\nSnack Funny Twists tiras enrolladas de carne",
+    "price": "1,25"
+  },
+  {
+    "category": "Perros",
+    "name": "Smiley Sticks para la Higiene Oral",
+    "format": " 1 Ud.",
+    "specific_category": "Premios, Snacks y Huesos",
+    "section": "Mascotas",
+    "item": "\nSmiley Sticks para la Higiene Oral",
+    "price": "1,34"
+  },
+  {
+    "category": "Perros",
+    "name": "Dentastick Perros Grandes",
+    "format": " 28 uds",
+    "specific_category": "Premios, Snacks y Huesos",
+    "section": "Mascotas",
+    "item": "\nDentastick Perros Grandes",
+    "price": "11,80"
+  }
+]
