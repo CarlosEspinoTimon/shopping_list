@@ -81,6 +81,16 @@ def get_articles():
         })
     return jsonify(sorted(articles, key=lambda k: k['id']))
 
+@server.route('/shopping_list/api/categories', methods=['GET'])
+def get_categories():
+    db_categories = Category.query.all()
+    categories = []
+    for category in db_categories:
+        categories.append({
+            'id': category.id,
+            'name': category.name,
+        })
+    return jsonify(sorted(categories, key=lambda k: k['name']))
 
 @server.errorhandler(404)
 def not_found(error):

@@ -17,6 +17,7 @@ import { FooterComponent } from './components/footer/footer.component';
 import { HomeComponent } from './components/home/home.component';
 import { ProjectInfoComponent } from './components/project-info/project-info.component';
 import { UserComponent } from './components/user/user.component';
+import { ShoppingListDashboardComponent } from './components/shopping-list-dashboard/shopping-list-dashboard.component';
 
 @NgModule({
   declarations: [
@@ -29,6 +30,7 @@ import { UserComponent } from './components/user/user.component';
     HomeComponent,
     ProjectInfoComponent,
     UserComponent,
+    ShoppingListDashboardComponent,
   ],
   imports: [
     BrowserModule,

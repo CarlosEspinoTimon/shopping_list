@@ -4,6 +4,7 @@ import { Observable, of } from 'rxjs';
 import { catchError, map, tap } from 'rxjs/operators';
 
 import { Article } from '../models/article';
+import { Category } from '../models/category';
 import { MessageService } from './message.service';
 
 
@@ -13,8 +14,9 @@ import { MessageService } from './message.service';
 export class ArticlesService {
 
     articles = [];
+    categories = [];
 
-    private articlesUrl = 'http://localhost:5000/shopping_list/api/articles';
+    private articlesUrl = 'http://localhost:5000/shopping_list/api/';
 
     httpOptions = {
         headers: new HttpHeaders({'Content-Type': 'application/json'})
@@ -26,10 +28,18 @@ export class ArticlesService {
     ) { }
 
     getArticles(): Observable<Article[]> {
-        return this.http.get<Article[]>(this.articlesUrl)
+        return this.http.get<Article[]>(this.articlesUrl+'articles')
             .pipe(
                 tap(articles => this.log('fetched articles')),
                 catchError(this.handleError('getArticles', []))
+            );
+    }
+
+    getCategories(): Observable<Category[]> {
+        return this.http.get<Category[]>(this.articlesUrl+'categories')
+            .pipe(
+                tap(categories => this.log('fetched categories')),
+                catchError(this.handleError('getCategories', []))
             );
     }
 

@@ -18,6 +18,18 @@ You need to configure some variables from the terminal
 ## Start the server
 From the rest-server directory:
 `flask run`
+NO ESTÁ FUNCIONANDO, USAR 
+`python -m flask run`
 
 ## Requirements
 You need to have MySQL installed (or use the Docker that I share in the project) and configure the connection in the config.py file.
+
+
+## DB problems and initial load
+If you have problems, delete the migration folder and do the next:
+`flask db init`
+`flask db migrate -m "commit message"`
+`flask db upgrade`
+
+To load some inital data you can run
+`python load_articles.py`

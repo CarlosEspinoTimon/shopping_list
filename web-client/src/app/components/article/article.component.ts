@@ -12,16 +12,6 @@ import { ArticlesService } from '../../services/articles.service';
 })
 export class ArticleComponent implements OnInit {
 
-    // article: Article = {
-    //     id: 1,
-    //     name: 'Fresitaaas',
-    //     price: 5.5,
-    //     format: 'Bandeja',
-    //     category_id: 1,
-    //     sub_category_id: 2,
-    //     supermarket_id: 1
-    // }
-
     articles: Article[];
 
     constructor(private articlesService: ArticlesService) { }

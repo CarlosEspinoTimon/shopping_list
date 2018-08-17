@@ -1,1 +1,5 @@
 *.pyc
+.vscode/settings.json
+rest-server/venv/
+
+git checkout -- <archivo>...
