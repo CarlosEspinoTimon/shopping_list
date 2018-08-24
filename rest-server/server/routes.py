@@ -14,7 +14,7 @@ from server.helpers.create_helper import *
 @server.route('/')
 @server.route('/index')
 def index():
-    return "Hello, World!"
+    return "Flask server is running!"
 
 
 @server.route('/shopping_list/api/items', methods=['POST'])
@@ -91,6 +91,36 @@ def get_categories():
             'name': category.name,
         })
     return jsonify(sorted(categories, key=lambda k: k['name']))
+
+@server.route('/shopping_list/api/filtered_articles', methods=['POST'])
+def get_filtered_articles():
+    print "eyyy"
+    print request.json['search']
+    print "aja"
+    if not request.json:
+        abort(400)
+    db_articles = Article.query.filter_by(category_id=request.json['search']).all()
+    articles = []
+    for article in db_articles:
+        articles.append({
+            'id': article.id,
+            'name': article.name,
+            'price': article.price,
+            'format': article.format,
+            'category_id': article.category_id,
+            'sub_category_id': article.sub_category_id,
+            'supermarket_id': article.supermarket_id,
+        })
+    return jsonify(sorted(articles, key=lambda k: k['id']))
+
+# @server.route('/heroes/api/heroes', methods=['POST'])
+# def create_hero():
+#     if not request.json or not 'name' in request.json:
+#         abort(400)
+#     hero = Hero(name=request.json.get('name', ''))
+#     db.session.add(hero)
+#     db.session.commit()
+#     return jsonify({'id': hero.id, 'name': hero.name})
 
 @server.errorhandler(404)
 def not_found(error):

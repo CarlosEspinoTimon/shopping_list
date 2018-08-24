@@ -1,11 +1,13 @@
 import { Injectable } from '@angular/core';
-import { HttpClient, HttpHeaders } from '@angular/common/http';
+import { HttpClient, HttpHeaders, HttpParams } from '@angular/common/http';
 import { Observable, of } from 'rxjs';
 import { catchError, map, tap } from 'rxjs/operators';
 
 import { Article } from '../models/article';
 import { Category } from '../models/category';
 import { MessageService } from './message.service';
+import { URLSearchParams } from 'url';
+
 
 
 @Injectable({
@@ -17,6 +19,7 @@ export class ArticlesService {
     categories = [];
 
     private articlesUrl = 'http://localhost:5000/shopping_list/api/';
+    private articlesUrl2 = 'http://localhost:5000/shopping_list/api/1';
 
     httpOptions = {
         headers: new HttpHeaders({'Content-Type': 'application/json'})
@@ -40,6 +43,21 @@ export class ArticlesService {
             .pipe(
                 tap(categories => this.log('fetched categories')),
                 catchError(this.handleError('getCategories', []))
+            );
+    }
+
+
+    getFilteredArticles(search: string): Observable<Article[]>{
+        console.log("I am here")
+        console.log(search)
+        const url = this.articlesUrl + 'filtered_articles'
+        let options = this.httpOptions;
+        options['search'] = search;
+  
+        return this.http.post<Article[]>(url, options)
+            .pipe(
+                tap(articles => this.log('fetched filtered articles')),
+                catchError(this.handleError('getFilteredArticles', []))
             );
     }
 

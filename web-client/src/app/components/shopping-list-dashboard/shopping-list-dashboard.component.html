@@ -2,7 +2,7 @@
 
 <mat-form-field>
   <mat-select placeholder="Categories">
-    <mat-option *ngFor="let category of categories" [value]="category.id">
+    <mat-option *ngFor="let category of categories" (click)="getFilteredArticles(category.id)" [value]="category.id">
       {{category.name}}
     </mat-option>
   </mat-select>
@@ -21,6 +21,7 @@
   
 <mat-list>
   <h3 mat-subheader>List</h3>
+  <button (click)="getFilteredArticles()">Click me!</button>
   <mat-list-item>Item 1</mat-list-item>
   <mat-list-item>Item 2</mat-list-item>
   <mat-list-item>Item 3</mat-list-item>

@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Article } from '../../models/article';
 import { ArticlesService } from '../../services/articles.service';
 import { Category } from '../../models/category';
+import { Observable } from 'rxjs';
 
 @Component({
   selector: 'app-shopping-list-dashboard',
@@ -23,13 +24,21 @@ export class ShoppingListDashboardComponent implements OnInit {
   getArticles() {
     this.articlesService.getArticles().subscribe(data => {
         this.articles = data;
-    })
-  }
+    });
+  };
 
   getCategories() {
     this.articlesService.getCategories().subscribe(data => {
         this.categories = data;
-    })
-  }
+    });
+  };
+
+  getFilteredArticles(search: string) {
+    this.articlesService.getFilteredArticles(search)
+        .subscribe(data => {
+          this.articles = data;
+        });
+  };
+
 
 }
