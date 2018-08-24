@@ -48,8 +48,6 @@ export class ArticlesService {
 
 
     getFilteredArticles(search: string): Observable<Article[]>{
-        console.log("I am here")
-        console.log(search)
         const url = this.articlesUrl + 'filtered_articles'
         let options = this.httpOptions;
         options['search'] = search;

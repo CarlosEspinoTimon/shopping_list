@@ -3,6 +3,7 @@ import { Article } from '../../models/article';
 import { ArticlesService } from '../../services/articles.service';
 import { Category } from '../../models/category';
 import { Observable } from 'rxjs';
+import { ShoppingListService } from '../../services/shopping-list/shopping-list.service';
 
 @Component({
   selector: 'app-shopping-list-dashboard',
@@ -13,8 +14,12 @@ export class ShoppingListDashboardComponent implements OnInit {
 
   articles: Article[];
   categories: Category[];
+  shoppingList: Article[];
 
-  constructor(private articlesService: ArticlesService) { }
+  constructor(
+    private articlesService: ArticlesService,
+    private shoppingListService: ShoppingListService
+  ) { }
 
   ngOnInit() {
     this.getArticles();
@@ -39,6 +44,18 @@ export class ShoppingListDashboardComponent implements OnInit {
           this.articles = data;
         });
   };
+
+  getShoppingList() {
+      this.shoppingList = this.shoppingListService.getShoppingList();
+  }
+
+  addArticle(article: Article) {
+      this.shoppingList = this.shoppingListService.addArticle(article);
+  }
+
+  removeArticle(article: Article) {
+    this.shoppingList = this.shoppingListService.removeArticle(article);
+}
 
 
 }

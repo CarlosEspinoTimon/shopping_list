@@ -11,9 +11,8 @@
 <mat-list>
   <h3 mat-subheader>Stored Articles</h3>
   <mat-list-item *ngFor="let article of articles">
-      <mat-icon mat-list-icon>add_shopping_cart</mat-icon>
-      <mat-icon mat-list-icon>remove_shopping_cart</mat-icon>
-      <h4 mat-line>{{article.name}}</h4> <p mat-line> {{article.price}} €</p>
+      <mat-icon mat-list-icon (click)="addArticle(article)">add_shopping_cart</mat-icon>
+      <h4 mat-line  (click)="addArticle(article)">{{article.name}}</h4><p mat-line  (click)="addArticle(article)"> {{article.price}} €</p>
   </mat-list-item>
   <mat-divider></mat-divider>
 </mat-list>
@@ -21,15 +20,11 @@
   
 <mat-list>
   <h3 mat-subheader>List</h3>
-  <button (click)="getFilteredArticles()">Click me!</button>
-  <mat-list-item>Item 1</mat-list-item>
-  <mat-list-item>Item 2</mat-list-item>
-  <mat-list-item>Item 3</mat-list-item>
-    <!-- <mat-list-item *ngFor="let article of articles">
-      <mat-icon mat-list-icon>add_shopping_cart</mat-icon>
-      <mat-icon mat-list-icon>remove_shopping_cart</mat-icon>
+  <!-- <button (click)="getFilteredArticles()">Click me!</button> -->
+  <mat-list-item *ngFor="let article of shoppingList">
+      <mat-icon mat-list-icon (click)="removeArticle(article)">remove_shopping_cart</mat-icon>
       <h4 mat-line>{{article.name}}</h4> <p mat-line> {{article.price}} €</p>
-  </mat-list-item>  -->
+  </mat-list-item> 
   <mat-divider></mat-divider>
 </mat-list>
   
