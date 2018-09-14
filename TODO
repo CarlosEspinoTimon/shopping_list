@@ -1,2 +1,9 @@
 - Terminar web scrapper de carrefour para que los meta todos y coja las fotos
 - El detalle de los artículos (un modal??)
+- Spinner while cargando artículos
+- Si haces click en un artículo que ya está añadido, sumar una unidad más
+- Implementar el cursor (traer de 5 en 5)
+
+
+
+./cloud_sql_proxy -instances=shopping-list-215005:europe-west2:shopping-list-sql=tcp:3306

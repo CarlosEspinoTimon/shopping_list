@@ -1,0 +1,83 @@
+runtime: python27
+api_version: 1
+threadsafe: true
+entrypoint: gunicorn -b :$PORT server:server
+
+handlers:
+# - url: /static
+#   static_dir: static
+
+- url: /rest/.*
+  script: server.server
+
+- url: /(.+)
+  static_files: web-client/dist/web-client/\1
+  upload: web-client/dist/web-client/(.*)
+
+- url: /
+  static_files: web-client/dist/web-client/index.html
+  upload: web-client/dist/web-client/index.html
+
+# # Routing for bundles to serve directly
+# - url: /((?:runtime|main|polyfills|styles|vendor)\.[a-z0-9]+\.js)
+#   secure: always
+#   redirect_http_response_code: 301
+#   static_files: ../web-client/dist/\1
+#   upload: ../web-client/dist/(.*)
+
+# # Routing for bundle maps to serve directly
+# - url: /((?:runtime|main|polyfills|styles|vendor)\.[a-z0-9]+\.js\.map)
+#   secure: always
+#   redirect_http_response_code: 301
+#   static_files: ../web-client/dist/\1
+#   upload: ../web-client/dist/(.*)
+
+# # Routing for a prod styles.bundle.css to serve directly
+# - url: /(styles\.[a-z0-9]+\.css)
+#   secure: always
+#   redirect_http_response_code: 301
+#   static_files: ../web-client/dist/\1
+#   upload: ../web-client/dist/(.*)
+
+# # Routing for typedoc, assets, and favicon.ico to serve directly
+# - url: /((?:assets|docs)/.*|favicon\.ico)
+#   secure: always
+#   redirect_http_response_code: 301
+#   static_files: ../web-client/dist/\1
+#   upload: ../web-client/dist/(.*)
+
+# # Routing for service worker files serve directly
+# - url: /(manifest\.json|ngsw\.json|ngsw-worker\.js|safety-worker\.js|worker-basic\.min\.js|ngsw_worker\.es6\.js\.map)
+#   secure: always
+#   redirect_http_response_code: 301
+#   static_files: ../web-client/dist/\1
+#   upload: ../web-client/dist/(.*)
+
+# # Any other requests are routed to index.html for angular to handle so we don't need hash URLs
+# - url: /.*
+#   secure: always
+#   redirect_http_response_code: 301
+#   static_files: ../web-client/dist/index.html
+#   upload: ../web-client/dist/index.html
+#   http_headers:
+#     Strict-Transport-Security: max-age=31536000; includeSubDomains
+#     X-Frame-Options: DENY
+
+libraries:
+- name: ssl
+  version: latest
+  
+- name: MySQLdb
+  version: "latest"
+  
+skip_files:
+- web-client/e2e
+- web-client/node_modules
+- web-client/src
+
+
+env_variables:
+    CLOUDSQL_CONNECTION_NAME: shopping-list-215005:europe-west2:shopping-list-sql  
+    CLOUDSQL_USER: root
+    CLOUDSQL_PASSWORD: Asl_75
+    CLOUDSQL_DATABASE: test

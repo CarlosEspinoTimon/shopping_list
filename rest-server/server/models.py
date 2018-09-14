@@ -53,6 +53,8 @@ class Article(db.Model):
     name = db.Column(db.String(128), index=True, unique=True)
     price = db.Column(db.Float)
     format = db.Column(db.String(64))
+    image = db.Column(db.String(128))
+    url = db.Column(db.String(128))
     supermarket_id = db.Column(db.Integer, ForeignKey("supermarket.id"), nullable=False)
     category_id = db.Column(db.Integer, ForeignKey("category.id"), nullable=False)
     sub_category_id = db.Column(db.Integer, ForeignKey("sub_category.id"), nullable=False)

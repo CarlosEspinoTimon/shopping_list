@@ -31,3 +31,6 @@ If you have problems, delete the migration folder and do the next:
 
 To load some inital data you can run
 `python load_articles.py`
+
+# GOOGLE SQL
+To work locally you have to configure the Claoud SQL Proxy https://cloud.google.com/appengine/docs/flexible/python/using-cloud-sql

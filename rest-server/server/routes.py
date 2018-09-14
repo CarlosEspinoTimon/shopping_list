@@ -9,15 +9,15 @@ from flask import json
 from server.models import *
 from server.helpers.create_helper import *
 
+import time
 
-
-@server.route('/')
-@server.route('/index')
+@server.route('/rest/')
+@server.route('/rest/index')
 def index():
     return "Flask server is running!"
 
 
-@server.route('/shopping_list/api/items', methods=['POST'])
+@server.route('/rest/shopping_list/api/items', methods=['POST'])
 def create_items():
     dict_request = json.loads(request.json)
     if not request.json:
@@ -59,14 +59,14 @@ def create_items():
         if stored_article:
             print "need to check the price"
         else:
-            article = Article(name=item['name'], price=price, format=item['format'], supermarket_id=db_supermarket, category_id=db_category, sub_category_id=db_sub_category)
+            article = Article(name=item['name'], price=price, format=item['format'], url=item['url'], supermarket_id=db_supermarket, category_id=db_category, sub_category_id=db_sub_category, image=item['image'])
             db.session.add(article)
             db.session.commit()
     return 'Ok'
 
-@server.route('/shopping_list/api/articles', methods=['GET'])
+@server.route('/rest/shopping_list/api/articles', methods=['GET'])
 def get_articles():
-    # db_articles = Article.query.all()
+    # time.sleep(50)
     db_articles = Article.query.paginate(1, server.config['ARTICLES_PER_PAGE'], False).items
     articles = []
     for article in db_articles:
@@ -78,10 +78,12 @@ def get_articles():
             'category_id': article.category_id,
             'sub_category_id': article.sub_category_id,
             'supermarket_id': article.supermarket_id,
+            'image': article.image,
+            'url': article.url,
         })
     return jsonify(sorted(articles, key=lambda k: k['id']))
 
-@server.route('/shopping_list/api/categories', methods=['GET'])
+@server.route('/rest/shopping_list/api/categories', methods=['GET'])
 def get_categories():
     db_categories = Category.query.all()
     categories = []
@@ -92,7 +94,7 @@ def get_categories():
         })
     return jsonify(sorted(categories, key=lambda k: k['name']))
 
-@server.route('/shopping_list/api/filtered_articles', methods=['POST'])
+@server.route('/rest/shopping_list/api/filtered_articles', methods=['POST'])
 def get_filtered_articles():
     print "eyyy"
     print request.json['search']
@@ -110,6 +112,8 @@ def get_filtered_articles():
             'category_id': article.category_id,
             'sub_category_id': article.sub_category_id,
             'supermarket_id': article.supermarket_id,
+            'image': article.image,
+            'url': article.url,            
         })
     return jsonify(sorted(articles, key=lambda k: k['id']))
 
@@ -124,7 +128,7 @@ def get_filtered_articles():
 
 @server.errorhandler(404)
 def not_found(error):
-	return make_response(jsonify({'error': 'Not found'}), 404)
+	return make_response(jsonify({'error': 'Not found!'}), 404)
 
 
 @server.errorhandler(400)
