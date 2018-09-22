@@ -17,7 +17,7 @@ html_soup = BeautifulSoup(req.text, 'html.parser')
 
 
 
-# Obtaining sections links
+# Obtaining all the sections links
 sections_links = []
 sections = html_soup.find('div', {'id': 'our-sections'})
 for section in sections.find_all('div', {'class': 'item'}):
@@ -25,7 +25,7 @@ for section in sections.find_all('div', {'class': 'item'}):
     section_url = section.find('a', href=True)['href']
     sections_links.append({'name': section_name, 'url': section_url})
 
-# Obtaining all categories links
+# Obtaining all the categories links
 categories_links = []
 for section in sections_links:
     section_request = requests.get(url + section['url'])
@@ -46,7 +46,7 @@ for category in categories_links:
             specific_category_link = element.find('a', href=True)['href']
             specific_categories_links.append({'section': category['section'], 'category': category['name'], 'name': specific_category_name, 'url': specific_category_link})
 
-# Getting items links
+# Getting the links of all the items
 items_links = []
 for specific_category in specific_categories_links:
     specific_category_request = requests.get(url + specific_category['url'])
@@ -58,13 +58,14 @@ for specific_category in specific_categories_links:
 
 
 
-# Getting all articles
+# Getting the info from each article
 articles = []
 errors = []
 for article in items_links:
-    article_request = requests.get(url + article['url'])
-    article_soup = BeautifulSoup(article_request.text, 'html.parser')
     try:
+        article_request = requests.get(url + article['url'])
+        article_soup = BeautifulSoup(article_request.text, 'html.parser')
+    
         articles.append({
             'section': article['section'].encode('utf-8'),
             'category': article['category'].encode('utf-8'),
@@ -74,16 +75,17 @@ for article in items_links:
             'format': article_soup.find('p', {'class': 'name-formato'}).text.encode('utf-8'),
             'price': article_soup.find('span', {'class': 'js-price'}).text.encode('utf-8'),
             'image': article_soup.find('div', {'class': 'col-image'}).find('a', recursive=True)['href'],
-            'url': article['url'],
+            'url': article_request,
         })
     except Exception as e:
         errors.append({
             'error': e,
-            'article': article['url']
+            'article': article_request
         })
 
 print articles
 
+# Prepare the data to be send to the server
 data = {
     'company': 'Carrefour',
     'area': 'Canarias',
@@ -91,9 +93,11 @@ data = {
     'lat': '256456',
     'lon': '256456',
     'articles': articles,
+    'errors': errors,
 }
-
 headers = {'Content-type': 'application/json'}
+
+# Send the data
 r = requests.post('http://localhost:5000/shopping_list/api/items', json=json.dumps(data, ensure_ascii=False), headers=headers)
 
 print (r.status_code, r.reason)

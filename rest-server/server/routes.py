@@ -54,8 +54,7 @@ def create_items():
         else:
             db_sub_category = item_sub_category.id
         price = string_to_currency(item['price'])
-        # Check wheter the article is already stored to update it
-        stored_article = Article.query.filter_by(name=item['name'], format=item['format'], supermarket_id=db_supermarket, category_id=db_category, sub_category_id=db_sub_category).first()
+        stored_article = Article.query.filter_by(name=item['name'], format=item['format']).first()
         if stored_article:
             print "need to check the price"
         else:
@@ -66,8 +65,8 @@ def create_items():
 
 @server.route('/rest/shopping_list/api/articles', methods=['GET'])
 def get_articles():
-    # time.sleep(50)
-    db_articles = Article.query.paginate(1, server.config['ARTICLES_PER_PAGE'], False).items
+    # db_articles = Article.query.paginate(1, server.config['ARTICLES_PER_PAGE'], False).items
+    db_articles = Article.query.all()
     articles = []
     for article in db_articles:
         articles.append({
@@ -94,14 +93,28 @@ def get_categories():
         })
     return jsonify(sorted(categories, key=lambda k: k['name']))
 
-@server.route('/rest/shopping_list/api/filtered_articles', methods=['POST'])
-def get_filtered_articles():
-    print "eyyy"
-    print request.json['search']
-    print "aja"
+@server.route('/rest/shopping_list/api/subcategories', methods=['POST'])
+def get_subcategories():
     if not request.json:
         abort(400)
-    db_articles = Article.query.filter_by(category_id=request.json['search']).all()
+    db_subcategories = SubCategory.query.filter_by(category_id=request.json['search']).all()
+    sub_categories = []
+    for sub_category in db_subcategories:
+        sub_categories.append({
+            'id': sub_category.id,
+            'name': sub_category.name,         
+        })
+    return jsonify(sorted(sub_categories, key=lambda k: k['name']))
+    
+
+@server.route('/rest/shopping_list/api/filtered_articles', methods=['POST'])
+def get_filtered_articles():
+    if not request.json:
+        abort(400)
+    search = {}
+    for element in request.json['search']:
+        search[element] = request.json['search'].get(element)
+    db_articles = Article.query.filter_by(**search).all()
     articles = []
     for article in db_articles:
         articles.append({
@@ -117,14 +130,6 @@ def get_filtered_articles():
         })
     return jsonify(sorted(articles, key=lambda k: k['id']))
 
-# @server.route('/heroes/api/heroes', methods=['POST'])
-# def create_hero():
-#     if not request.json or not 'name' in request.json:
-#         abort(400)
-#     hero = Hero(name=request.json.get('name', ''))
-#     db.session.add(hero)
-#     db.session.commit()
-#     return jsonify({'id': hero.id, 'name': hero.name})
 
 @server.errorhandler(404)
 def not_found(error):

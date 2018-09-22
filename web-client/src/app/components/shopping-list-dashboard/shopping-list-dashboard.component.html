@@ -1,0 +1,57 @@
+<div class="row dashboard-containter">
+    <div class="col-md-2">
+        <form class="example-form">
+            <mat-form-field class="example-full-width">
+                <input type="text" placeholder="Write a product name" aria-label="Number" matInput [formControl]="myControl" [matAutocomplete]="auto">
+            </mat-form-field>
+        </form>
+        <mat-form-field>
+            <mat-select placeholder="Categories">
+                <mat-option *ngFor="let category of categories" (click)="addCategoryToFilter(category.id)" [value]="category.id">
+                    {{category.name}}
+                </mat-option>
+            </mat-select>
+        </mat-form-field>
+        <mat-form-field>
+            <mat-select placeholder="Subcategories">
+                <mat-option *ngFor="let subcategory of subcategories" (click)="addSubCategoryToFilter(subcategory.id)" [value]="subcategory.id">
+                    {{subcategory.name}}
+                </mat-option>
+            </mat-select>
+        </mat-form-field>  
+    </div>
+    <div class="col-md-6">
+        <div *ngIf="noArticles(); else elseTemplate" >
+            <mat-spinner></mat-spinner>
+        </div>
+        <ng-template #elseTemplate>
+        <mat-list>
+            <h3 mat-subheader>Stored Articles</h3>
+            <mat-list-item *ngFor="let article of filteredArticles | async">
+                <mat-icon mat-list-icon (click)="addArticle(article)">add_shopping_cart</mat-icon>
+                <h4 mat-line  (click)="addArticle(article)">{{article.name}}</h4><p mat-line  (click)="addArticle(article)"> {{article.price}} €</p>
+            </mat-list-item>
+            <mat-divider></mat-divider>
+        </mat-list>
+        </ng-template>
+    </div>
+    <div class="col-md-4">
+        <mat-list>
+        <h3 mat-subheader>Lista</h3>
+        <mat-list-item *ngFor="let article of shoppingList">
+            <mat-icon mat-list-icon (click)="removeArticle(article)">remove_shopping_cart</mat-icon>
+            <h4 mat-line>{{article.name}}</h4> <p mat-line> {{article.price}} €</p>
+        </mat-list-item> 
+        <mat-divider></mat-divider>
+        </mat-list>
+    </div> 
+</div>
+
+
+ 
+
+
+   
+
+  
+
