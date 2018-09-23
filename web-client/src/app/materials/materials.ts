@@ -9,6 +9,8 @@ import {MatCardModule} from '@angular/material/card';
 import {MatProgressSpinnerModule} from '@angular/material/progress-spinner';
 import {MatAutocompleteModule} from '@angular/material/autocomplete';
 import {MatInputModule} from '@angular/material';
+import {MatDialogModule} from '@angular/material/dialog';
+
 
 
 
@@ -24,6 +26,7 @@ import {MatInputModule} from '@angular/material';
         MatProgressSpinnerModule,
         MatAutocompleteModule,
         MatInputModule,
+        MatDialogModule,
     ],
     exports: [
         MatListModule,
@@ -36,6 +39,7 @@ import {MatInputModule} from '@angular/material';
         MatProgressSpinnerModule,
         MatAutocompleteModule,
         MatInputModule,
+        MatDialogModule,
     ]
 })
 

@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Inject } from '@angular/core';
+
 import { Article } from '../../models/article';
 import { ArticlesService } from '../../services/articles.service';
 import { Category}  from '../../models/category';
@@ -7,6 +8,10 @@ import { ShoppingListService } from '../../services/shopping-list/shopping-list.
 import { FormControl } from '@angular/forms';
 import { Observable } from 'rxjs';
 import { startWith, map } from 'rxjs/operators';
+
+import { MatDialog } from '@angular/material';
+import { ArticleComponent } from '../article/article.component';
+
 
 
 @Component({
@@ -26,8 +31,16 @@ export class ShoppingListDashboardComponent implements OnInit {
 
 	constructor(
 		private articlesService: ArticlesService,
-		private shoppingListService: ShoppingListService
-	) { }
+        private shoppingListService: ShoppingListService,
+        public dialog: MatDialog
+    ) { }
+
+    openDialog(article: Article): void {
+        const dialogRef = this.dialog.open(ArticleComponent, {
+            width: '650px',
+            data: article
+        });
+      }
 
 	ngOnInit() {
 		this.getArticles();
@@ -47,11 +60,7 @@ export class ShoppingListDashboardComponent implements OnInit {
 	getArticles() {
 		this.articlesService.getArticles().subscribe(data => {
             this.articles = data;
-            this.filteredArticles = this.myControl.valueChanges
-                .pipe(
-                    startWith(''),
-                    map(value => this._filter(value))
-            );
+            this.changeArticlesToShow();
 		});
 	};
 
@@ -65,7 +74,7 @@ export class ShoppingListDashboardComponent implements OnInit {
 		this.articlesService.getSubCategories(categoryId).subscribe(data => {
 			this.subcategories = data;
 			this.search['category_id'] = categoryId;
-			delete this.search['sub_category_id'];
+            delete this.search['sub_category_id'];
 			this.getFilteredArticles();
 		});
 	};
@@ -77,10 +86,19 @@ export class ShoppingListDashboardComponent implements OnInit {
 
 	getFilteredArticles() {
 		this.articlesService.getFilteredArticles(this.search)
-		.subscribe(data => {
-			this.articles = data;
-		});
-	};
+            .subscribe(data => {
+                this.articles = data;
+                this.changeArticlesToShow();
+            });
+    };
+    
+    changeArticlesToShow() {
+        this.filteredArticles = this.myControl.valueChanges
+                .pipe(
+                    startWith(''),
+                    map(value => this._filter(value))
+                );
+    }
 
 	getShoppingList() {
 		this.shoppingList = this.shoppingListService.getShoppingList();

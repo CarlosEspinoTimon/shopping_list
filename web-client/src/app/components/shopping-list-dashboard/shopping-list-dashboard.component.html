@@ -2,7 +2,7 @@
     <div class="col-md-2">
         <form class="example-form">
             <mat-form-field class="example-full-width">
-                <input type="text" placeholder="Write a product name" aria-label="Number" matInput [formControl]="myControl" [matAutocomplete]="auto">
+                <input type="text" placeholder="Write a product name" aria-label="Number" matInput [formControl]="myControl">
             </mat-form-field>
         </form>
         <mat-form-field>
@@ -29,7 +29,8 @@
             <h3 mat-subheader>Stored Articles</h3>
             <mat-list-item *ngFor="let article of filteredArticles | async">
                 <mat-icon mat-list-icon (click)="addArticle(article)">add_shopping_cart</mat-icon>
-                <h4 mat-line  (click)="addArticle(article)">{{article.name}}</h4><p mat-line  (click)="addArticle(article)"> {{article.price}} €</p>
+                <button mat-raised-button (click)="openDialog(article)">{{article.name}}  {{article.price}} €</button>
+                <!-- <h4 mat-line  (click)="addArticle(article)">{{article.name}}</h4><p mat-line  (click)="addArticle(article)"> {{article.price}} €</p> -->
             </mat-list-item>
             <mat-divider></mat-divider>
         </mat-list>

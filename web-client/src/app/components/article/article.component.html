@@ -1,9 +1,17 @@
-<mat-list>
-    <h3 mat-subheader>Stored Articless</h3>
-    <mat-list-item *ngFor="let article of articles">
-        <mat-icon mat-list-icon>add_shopping_cart</mat-icon>
-        <mat-icon mat-list-icon>remove_shopping_cart</mat-icon>
-        <h4 mat-line>{{article.name}}</h4> <p mat-line> {{article.price}} €</p>
-    </mat-list-item>
-    <mat-divider></mat-divider>
-</mat-list>
+<h2 mat-dialog-title>Article details:</h2>
+<mat-dialog-content>
+    <mat-card>
+        <mat-card-title>{{data.name}}</mat-card-title>
+        <mat-card-subtitle><b>Price: </b>{{data.price}} €</mat-card-subtitle>
+        <mat-card-subtitle><b>Format: </b>{{data.format}}</mat-card-subtitle>
+        <img class="row product-image" mat-card-image src={{data.image}}>
+        <a class="row" target="_blank" rel="noopener noreferrer" href="https://www.carrefour.es{{data.url}}">Visit the website</a>
+    </mat-card> 
+</mat-dialog-content>
+
+
+
+
+
+
+

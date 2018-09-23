@@ -65,7 +65,6 @@ def create_items():
 
 @server.route('/rest/shopping_list/api/articles', methods=['GET'])
 def get_articles():
-    # db_articles = Article.query.paginate(1, server.config['ARTICLES_PER_PAGE'], False).items
     db_articles = Article.query.all()
     articles = []
     for article in db_articles:

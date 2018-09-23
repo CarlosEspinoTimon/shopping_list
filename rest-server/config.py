@@ -7,10 +7,10 @@ class Config(object):
 
     # These environment variables are configured in app.yaml.
     MYSQL_HOST = os.environ.get('MYSQL_HOST')
-    MYSQL_USER = os.environ.get('MYSQL_USER', 'root')
+    MYSQL_USER = os.environ.get('MYSQL_USER')
     MYSQL_PASSWORD = os.environ.get('MYSQL_PASSWORD')
-    MYSQL_PASSWORD_DEVELOP = os.environ.get('MYSQL_PASSWORD_DEVELOP', 'root')
-    MYSQL_DATABASE = os.environ.get('MYSQL_DATABASE', 'test')
+    MYSQL_PASSWORD_DEVELOP = os.environ.get('MYSQL_PASSWORD_DEVELOP')
+    MYSQL_DATABASE = os.environ.get('MYSQL_DATABASE')
 
 
     # When deployed to App Engine, the `SERVER_SOFTWARE` environment variable

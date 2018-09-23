@@ -6,7 +6,6 @@ import { NgModule } from '@angular/core';
 import { HttpClientModule } from '@angular/common/http';
 
 import { AppComponent } from './app.component';
-import { ArticleDetailComponent } from './components/article-detail/article-detail.component';
 import { ArticleComponent } from './components/article/article.component';
 
 import { MaterialModule } from './materials/materials';
@@ -22,7 +21,6 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 @NgModule({
     declarations: [
         AppComponent,
-        ArticleDetailComponent,
         ArticleComponent,
         HeaderComponent,
         FooterComponent,
@@ -42,7 +40,10 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
         NgbModule.forRoot()
     ],
     exports: [
-        MaterialModule
+        MaterialModule,
+    ],
+    entryComponents: [
+        ArticleComponent,
     ],
     providers: [],
     bootstrap: [AppComponent]

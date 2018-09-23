@@ -1,3 +1,10 @@
 *.pyc
 .vscode/settings.json
 tryouts.py
+rest-server/real_app.yaml
+rest-server/web-client/
+scrapers/article*
+carrefour*
+TODO
+categorias.txt
+rest-server/load_articles.py

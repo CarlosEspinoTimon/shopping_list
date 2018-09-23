@@ -86,6 +86,7 @@ for article in items_links:
 print articles
 
 # Prepare the data to be send to the server
+# In this case I am forcing this data with all the extra info.
 data = {
     'company': 'Carrefour',
     'area': 'Canarias',
@@ -98,11 +99,5 @@ data = {
 headers = {'Content-type': 'application/json'}
 
 # Send the data
-r = requests.post('http://localhost:5000/shopping_list/api/items', json=json.dumps(data, ensure_ascii=False), headers=headers)
+r = requests.post('http://localhost:5000/rest/shopping_list/api/items', json=json.dumps(data, ensure_ascii=False), headers=headers)
 
-print (r.status_code, r.reason)
-
-if errors:
-    for error in errors:
-        print "ERROR:"
-        print error
