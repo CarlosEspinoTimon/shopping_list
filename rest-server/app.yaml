@@ -22,11 +22,6 @@ libraries:
 - name: MySQLdb
   version: "latest"
   
-skip_files:
-- web-client/e2e
-- web-client/node_modules
-- web-client/src
-
 env_variables:
     MYSQL_HOST: YOUR_HOST_IP
     MYSQL_USER: YOUR_USER
