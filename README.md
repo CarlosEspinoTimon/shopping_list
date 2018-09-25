@@ -15,5 +15,3 @@ A flask server that offers a REST API.
 ### Web client
 A web client written in Angular 6.
 
-## Actual status
-Right now the scrapers take all the products and store but does not store them.
