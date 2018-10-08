@@ -29,6 +29,8 @@ export class ShoppingListDashboardComponent implements OnInit {
     myControl = new FormControl();
     filteredArticles: Observable<Article[]>;
 
+
+
 	constructor(
 		private articlesService: ArticlesService,
         private shoppingListService: ShoppingListService,
@@ -37,7 +39,7 @@ export class ShoppingListDashboardComponent implements OnInit {
 
     openDialog(article: Article): void {
         const dialogRef = this.dialog.open(ArticleComponent, {
-            width: '650px',
+            width: '850px',
             data: article
         });
       }

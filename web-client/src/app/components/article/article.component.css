@@ -3,6 +3,13 @@
 }
 
 .product-image {
+    margin-top: 2px !important;
     max-width: 250px;
     max-height: 250px;
+}
+
+.modal-content  {
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    border-radius: 0px !important; 
 }

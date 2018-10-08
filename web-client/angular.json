@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "../rest-server/web-client/dist/web-client",
+            "outputPath": "../rest-server/dist/web-client",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -29,7 +29,8 @@
               "src/styles.css",
               {
                 "input": "./node_modules/bootstrap/dist/css/bootstrap.css"
-              }
+              },
+              "src/web-client-theme.scss"
             ],
             "scripts": []
           },

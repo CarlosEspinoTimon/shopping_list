@@ -1,4 +1,4 @@
-import { BrowserModule } from '@angular/platform-browser';
+import { BrowserModule, Title } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
@@ -37,7 +37,7 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
         HttpClientModule,
         MaterialModule,
         AppRoutingModule,
-        NgbModule.forRoot()
+        NgbModule.forRoot(),
     ],
     exports: [
         MaterialModule,
@@ -45,7 +45,9 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     entryComponents: [
         ArticleComponent,
     ],
-    providers: [],
+    providers: [
+        Title
+    ],
     bootstrap: [AppComponent]
 })
 export class AppModule { }

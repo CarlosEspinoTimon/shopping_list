@@ -1,7 +1,7 @@
 # SHOPPING LIST PROJECT
 This is a personal project that I am going to use to grow as a professional.
 
-It consist in an web application that will help the user to save money doing their grocery list.
+It consists in an web application that will help the user to save money doing their grocery list.
 
 ## Architecture of the project
 Mainly, this project consist in 3 parts:

@@ -20,30 +20,36 @@
             </mat-select>
         </mat-form-field>  
     </div>
-    <div class="col-md-6">
+    <div class="col-md-4">
         <div *ngIf="noArticles(); else elseTemplate" >
             <mat-spinner></mat-spinner>
         </div>
         <ng-template #elseTemplate>
         <mat-list>
             <h3 mat-subheader>Stored Articles</h3>
+            <div *ngIf="filteredArticles">
+                <mat-divider></mat-divider>
+            </div>
             <mat-list-item *ngFor="let article of filteredArticles | async">
                 <mat-icon mat-list-icon (click)="addArticle(article)">add_shopping_cart</mat-icon>
-                <button mat-raised-button (click)="openDialog(article)">{{article.name}}  {{article.price}} €</button>
-                <!-- <h4 mat-line  (click)="addArticle(article)">{{article.name}}</h4><p mat-line  (click)="addArticle(article)"> {{article.price}} €</p> -->
+                <button mat-button (click)="openDialog(article)">{{article.name}}  {{article.price}} €</button>
             </mat-list-item>
             <mat-divider></mat-divider>
         </mat-list>
         </ng-template>
     </div>
-    <div class="col-md-4">
+    <div class="col-md-6">
         <mat-list>
-        <h3 mat-subheader>Lista</h3>
-        <mat-list-item *ngFor="let article of shoppingList">
-            <mat-icon mat-list-icon (click)="removeArticle(article)">remove_shopping_cart</mat-icon>
-            <h4 mat-line>{{article.name}}</h4> <p mat-line> {{article.price}} €</p>
-        </mat-list-item> 
-        <mat-divider></mat-divider>
+            <h3 mat-subheader>List</h3>
+            
+            <div *ngIf="shoppingList">
+                <mat-divider></mat-divider>
+                <mat-list-item *ngFor="let article of shoppingList">
+                    <mat-icon mat-list-icon (click)="removeArticle(article)">remove_shopping_cart</mat-icon>
+                    <h4 mat-line>{{article.name}}</h4> <p mat-line> {{article.price}} €</p>
+                </mat-list-item> 
+            </div>
+            <mat-divider></mat-divider>
         </mat-list>
     </div> 
 </div>

@@ -2,7 +2,7 @@
 .vscode/settings.json
 tryouts.py
 rest-server/real_app.yaml
-rest-server/web-client/
+rest-server/dist/
 scrapers/article*
 carrefour*
 TODO
