@@ -3,7 +3,7 @@
         <div class="row">
             <form class="example-form col-sm-6">
                 <mat-form-field class="example-full-width">
-                    <input type="text" placeholder="Write a product name" aria-label="Number" matInput [formControl]="myControl">
+                    <input type="text" placeholder="Write a product name" aria-label="Number" matInput (keyup)="applyFilter($event.target.value)" [formControl]="myControl">
                 </mat-form-field>
             </form>
             <mat-form-field class="col-sm-3">
@@ -26,11 +26,10 @@
         <div *ngIf="noArticles(); else elseTemplate" >
             <mat-spinner></mat-spinner>
         </div>
-        <ng-template #elseTemplate>   
         <mat-list>
             <h3 mat-subheader>Stored Articles</h3>
             <div class="table-container">
-                <table mat-table [dataSource]="filteredArticles" >
+                <table mat-table [dataSource]="allArticles" >
                     <ng-container matColumnDef="item">
                         <th class="first-row-stored" mat-header-cell *matHeaderCellDef> Article </th>
                         <td mat-cell *matCellDef="let article"> 
@@ -59,14 +58,13 @@
                         </td>
                         <td mat-footer-cell *matFooterCellDef></td>
                     </ng-container>
-                    <tr mat-header-row *matHeaderRowDef="displayedArticlesColumns; sticky: true"></tr>
-                    <tr mat-row *matRowDef="let row; columns: displayedArticlesColumns;"></tr>
-                    <tr mat-footer-row *matFooterRowDef="displayedArticlesColumns"></tr>
+                    <tr mat-header-row *matHeaderRowDef="storedArticlesColumns; sticky: true"></tr>
+                    <tr mat-row *matRowDef="let row; columns: storedArticlesColumns;"></tr>
+                    <tr mat-footer-row *matFooterRowDef="storedArticlesColumns"></tr>
                 </table>
-                
+                <mat-paginator [pageSizeOptions]="[10, 20, 50]" showFirstLastButtons></mat-paginator>
             </div>
         </mat-list>
-        </ng-template>
     </div>
     <div class="col-sm">
         <mat-list>
@@ -96,20 +94,18 @@
                         <td mat-footer-cell *matFooterCellDef> {{getTotalCost() | currency: '€'}} </td>
                     </ng-container>
                     <ng-container matColumnDef="remove">
-                            <th class="fifth-row-stored" mat-header-cell *matHeaderCellDef> Remove from List </th>
-                            <td class="fifth-row-stored" mat-cell *matCellDef="let article">
-                                <button mat-button color="primary" (click)="removeArticle(article[0])">
-                                    <mat-icon mat-list-icon>remove_shopping_cart</mat-icon>
-                                </button>
-                            </td>
-                            <td mat-footer-cell *matFooterCellDef></td>
-                        </ng-container>
-                    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
-                    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
-                    <tr mat-footer-row *matFooterRowDef="displayedColumns"></tr>
+                        <th class="fifth-row-stored" mat-header-cell *matHeaderCellDef> Remove from List </th>
+                        <td class="fifth-row-stored" mat-cell *matCellDef="let article">
+                            <button mat-button color="primary" (click)="removeArticle(article[0])">
+                                <mat-icon mat-list-icon>remove_shopping_cart</mat-icon>
+                            </button>
+                        </td>
+                        <td mat-footer-cell *matFooterCellDef></td>
+                    </ng-container>
+                    <tr mat-header-row *matHeaderRowDef="listColumns"></tr>
+                    <tr mat-row *matRowDef="let row; columns: listColumns;"></tr>
+                    <tr mat-footer-row *matFooterRowDef="listColumns"></tr>
                 </table>
-                <mat-paginator [pageSizeOptions]="[5, 10, 20]" showFirstLastButtons></mat-paginator>
-
             </div>
             <mat-divider></mat-divider>
         </mat-list>
