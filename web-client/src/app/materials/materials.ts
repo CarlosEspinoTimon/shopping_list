@@ -11,6 +11,8 @@ import {MatAutocompleteModule} from '@angular/material/autocomplete';
 import {MatInputModule} from '@angular/material';
 import {MatDialogModule} from '@angular/material/dialog';
 import {MatTableModule} from '@angular/material/table';
+import {MatPaginatorModule} from '@angular/material/paginator';
+
 
 
 
@@ -30,6 +32,7 @@ import {MatTableModule} from '@angular/material/table';
         MatInputModule,
         MatDialogModule,
         MatTableModule,
+        MatPaginatorModule,
     ],
     exports: [
         MatListModule,
@@ -44,6 +47,7 @@ import {MatTableModule} from '@angular/material/table';
         MatInputModule,
         MatDialogModule,
         MatTableModule,
+        MatPaginatorModule
     ]
 })
 
