@@ -3,7 +3,7 @@
         <div class="row">
             <form class="example-form col-sm-6">
                 <mat-form-field class="example-full-width">
-                    <input type="text" placeholder="Write a product name" aria-label="Number" matInput (keyup)="applyFilter($event.target.value)" [formControl]="myControl">
+                    <input type="text" placeholder="Write a product name" aria-label="Number" matInput (keyup)="applyFilter($event.target.value)">
                 </mat-form-field>
             </form>
             <mat-form-field class="col-sm-3">
@@ -23,11 +23,11 @@
         </div>
     </div>
     <div class="col-sm">
-        <div *ngIf="noArticles(); else elseTemplate" >
+        <!-- <div *ngIf="noArticles()" >
             <mat-spinner></mat-spinner>
-        </div>
+        </div> -->
         <mat-list>
-            <h3 mat-subheader>Stored Articles</h3>
+            <h3 mat-subheader>Articles to buy:</h3>
             <div class="table-container">
                 <table mat-table [dataSource]="allArticles" >
                     <ng-container matColumnDef="item">
@@ -45,7 +45,7 @@
                     <ng-container matColumnDef="units">
                         <th class="third-row-stored" mat-header-cell *matHeaderCellDef> Units </th>
                         <td class="third-row-stored" mat-cell *matCellDef="let article">
-                            <input type="number" matInput [(ngModel)]="totalOfUnits[article.id]" placeholder="1" value="1">
+                            <input type="number" min="1" matInput [(ngModel)]="totalOfUnits[article.id]" placeholder="1" value="1">
                         </td>
                         <td mat-footer-cell *matFooterCellDef></td>
                     </ng-container>
@@ -68,7 +68,7 @@
     </div>
     <div class="col-sm">
         <mat-list>
-            <h3 mat-subheader>List</h3>
+            <h3 mat-subheader>My List:</h3>
             <div class="table-container">
                 <table mat-table [dataSource]="cartArticles">
                     <ng-container matColumnDef="item">
@@ -84,7 +84,7 @@
                     <ng-container matColumnDef="units">
                         <th class="third-row-stored" mat-header-cell *matHeaderCellDef> Units </th>
                         <td class="third-row-stored" mat-cell *matCellDef="let article">
-                            <input type="number" matInput [(ngModel)]="unitsToRemove[article[0].id]" max={{article[1]}} placeholder={{article[1]}} value={{article[1]}}>
+                            <input type="number"  min="1" matInput [(ngModel)]="unitsToRemove[article[0].id]" max={{article[1]}} placeholder={{article[1]}} value={{article[1]}}>
                         </td>
                         <td mat-footer-cell *matFooterCellDef></td>
                     </ng-container>

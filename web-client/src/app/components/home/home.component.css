@@ -7,3 +7,18 @@
     text-align: center;
     margin: 5%;
 }
+
+@media (max-width: 767px) {
+    .title {
+        font-size: 10vw;
+        line-height: 1.1;
+        padding: 2%;
+    }
+}
+
+.responsive {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin: 2%
+}

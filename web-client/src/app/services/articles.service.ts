@@ -31,6 +31,9 @@ export class ArticlesService {
     ) { }
 
 
+    /**
+     * Gets all articles from the server.
+     */
     getArticles(): Observable<Article[]> {
         return this.http.get<Article[]>(this.articlesUrl+'articles')
             .pipe(
@@ -39,6 +42,9 @@ export class ArticlesService {
             );
     }
 
+    /**
+     * Gets all Categories from the server.
+     */
     getCategories(): Observable<Category[]> {
         return this.http.get<Category[]>(this.articlesUrl+'categories')
             .pipe(
@@ -47,6 +53,10 @@ export class ArticlesService {
             );
     }
 
+    /**
+     * Gets all SubCategories from the server.
+     * @param categoryId - id of the parent Category
+     */
     getSubCategories(categoriId: string): Observable<Category[]> {
         const url = this.articlesUrl + 'subcategories'
         let options = this.httpOptions;
@@ -59,7 +69,10 @@ export class ArticlesService {
             );
     }
 
-
+    /**
+     * Gets all articles that meet the filter.
+     * @param search - id of the Category and Subcategory
+     */
     getFilteredArticles(search: {}): Observable<Article[]>{
         const url = this.articlesUrl + 'filtered_articles'
         let options = this.httpOptions;

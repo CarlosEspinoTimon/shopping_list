@@ -13,3 +13,9 @@
     -moz-border-radius: 0px !important;
     border-radius: 0px !important; 
 }
+
+@media (max-width: 767px) {
+    .title {
+        font-size: 10vw;
+    }
+}

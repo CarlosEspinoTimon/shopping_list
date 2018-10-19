@@ -25,15 +25,14 @@ export class ShoppingListDashboardComponent implements OnInit {
 	categories: Category[];
     subcategories: SubCategory[];
     shoppingList: [[Article, number]];
-    cartArticles = new MatTableDataSource(this.shoppingList);
-    allArticles = new MatTableDataSource(this.articles);
-    search: {} = {};
+    searchPassedToServer: {} = {};
     totalOfUnits: {[articleId: string]: number} = {};
     unitsToRemove: {[articleId: string]: number} = {};
     
-
+    allArticles = new MatTableDataSource(this.articles);
+    cartArticles = new MatTableDataSource(this.shoppingList);
+    // Columns for mat tables
     storedArticlesColumns: string[] = ['item', 'price', 'units', 'add'];
-
     listColumns: string[] = ['item', 'cost', 'units', 'total', 'remove'];
     
     @ViewChild(MatPaginator) paginator: MatPaginator;
@@ -45,6 +44,14 @@ export class ShoppingListDashboardComponent implements OnInit {
         public dialog: MatDialog
     ) { }
     
+    ngOnInit() {
+        this.getArticles();
+        this.allArticles.paginator = this.paginator;
+        this.getCategories();
+        this.getShoppingList();
+    }
+    
+    /** Modal that opens with article info. */
     openDialog(article: Article): void {
         this.dialog.open(ArticleComponent, {
             width: '850px',
@@ -52,18 +59,13 @@ export class ShoppingListDashboardComponent implements OnInit {
         });
     }
     
-    ngOnInit() {
-        this.getArticles();
-        this.allArticles.paginator = this.paginator;
-        this.getCategories();
-        this.getShoppingList();
-    }
-        
+
     /** Gets the total cost of all transactions. */
     getTotalCost() {
         return this.cartArticles.data.map(t => t[0].price * t[1]).reduce((acc, value) => acc + value, 0);
     }
 
+    /** Filter applied to elements of the mat table. */
     applyFilter(filterValue: string) {
         this.allArticles.filter = filterValue.trim().toLocaleLowerCase();
         
@@ -72,64 +74,76 @@ export class ShoppingListDashboardComponent implements OnInit {
         }
     }
 
-
+    /** Function that checks if there are articles already loaded */
 	noArticles(): boolean {
 		let emptyArticles: Article[];
 		return this.articles == emptyArticles;
 	}
 
+    /** Function that gets all the articles */
 	getArticles() {
 		this.articlesService.getArticles().subscribe(data => {
-            this.articles = data;
             this.allArticles.data = data;
 		});
 	};
 
+    /** Function that gets all the Categories */
 	getCategories() {
 		this.articlesService.getCategories().subscribe(data => {
 			this.categories = data;
 		});
 	};
 
+    /** Function that adds the choosen Category to the server filter and gets all
+     * the products for this Caterory and its Subcategories 
+     */
 	addCategoryToFilter(categoryId: string) {
 		this.articlesService.getSubCategories(categoryId).subscribe(data => {
 			this.subcategories = data;
-			this.search['category_id'] = categoryId;
-            delete this.search['sub_category_id'];
+            this.searchPassedToServer['category_id'] = categoryId;
+            // Remove old subcategory serch
+            delete this.searchPassedToServer['sub_category_id'];
 			this.getFilteredArticles();
 		});
 	};
 
+    /** Function that adds the choosen SubCategory to the server and getsa all the
+     * products from this SubCategory
+     */
 	addSubCategoryToFilter(subcategoryId: string) {
-		this.search['sub_category_id'] = subcategoryId;
+		this.searchPassedToServer['sub_category_id'] = subcategoryId;
 		this.getFilteredArticles();
 	};
 
+    /** Function that gets all the articles with the filters already choosen */
 	getFilteredArticles() {
-		this.articlesService.getFilteredArticles(this.search)
+		this.articlesService.getFilteredArticles(this.searchPassedToServer)
             .subscribe(data => {
-                this.articles = data;
                 this.allArticles.data = data;
             });
     };
     
  
-
+    /** Function that returns the shopping list */
 	getShoppingList() {
         this.shoppingList = this.shoppingListService.getShoppingList();
 	}
 
+    /** Functions that adds a new article */
 	addArticle(article: Article) {
         if (this.totalOfUnits[article.id] == null) {
             this.totalOfUnits[article.id] = 1;
         }
         this.cartArticles.data = this.shoppingListService.addArticle(article, this.totalOfUnits[article.id]);
-	}
-
-	removeArticle(article: Article) {
         if (this.unitsToRemove[article.id] == null) {
             this.unitsToRemove[article.id] = this.totalOfUnits[article.id];
+        } else {
+            this.unitsToRemove[article.id] = this.unitsToRemove[article.id] + this.totalOfUnits[article.id];
         }
+	}
+
+    /** Functions that removes an article */
+	removeArticle(article: Article) {
         this.cartArticles.data = this.shoppingListService.removeArticle(article, this.unitsToRemove[article.id]);
 	}
 
