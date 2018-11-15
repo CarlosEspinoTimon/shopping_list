@@ -20,6 +20,9 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import es from '@angular/common/locales/es';
 import { registerLocaleData } from '@angular/common';
 
+import { StorageServiceModule } from 'angular-webstorage-service';
+import { LoginComponent } from './components/login/login.component';
+
 registerLocaleData(es);
 
 @NgModule({
@@ -32,6 +35,7 @@ registerLocaleData(es);
         ProjectInfoComponent,
         UserComponent,
         ShoppingListDashboardComponent,
+        LoginComponent,
     ],
     imports: [
         BrowserModule,
@@ -42,6 +46,7 @@ registerLocaleData(es);
         MaterialModule,
         AppRoutingModule,
         NgbModule.forRoot(),
+        StorageServiceModule,
     ],
     exports: [
         MaterialModule,

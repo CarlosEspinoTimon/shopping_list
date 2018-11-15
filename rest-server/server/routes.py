@@ -11,36 +11,107 @@ from server.helpers.create_helper import *
 
 import time
 
+from validate_email import validate_email
+
+from flask_jwt_extended import (create_access_token, create_refresh_token, jwt_required, jwt_refresh_token_required, get_jwt_identity, get_raw_jwt)
+
 @server.route('/rest/')
 @server.route('/rest/index')
 def index():
     return "Flask server is running!"
 
+@server.route('/rest/tryouts')
+def tryouts():
+    u = User(username='Carlos', email='carlos@example.com')
+    print u
+    return 'Ok'
+
+@server.route('/rest/token_refresh', methods=['GET'])
+@jwt_refresh_token_required
+def token_refresh():
+    user = get_jwt_identity()
+    access_token = create_access_token(identity=user)
+    return jsonify({'access_token': access_token})
+
+@server.route('/rest/secret', methods=['GET'])
+@jwt_required
+def secret():
+    return jsonify({'message': 'SHHHHH is a secret'})
+
+@server.route('/rest/user_registration', methods=['POST'])
+def user_registration():
+    if not request.json:
+        abort(400)
+    data = json.loads(request.data)
+    # Validate input from user
+    if 'username' not in data: 
+        return jsonify({'message': 'username is required'})
+    if 'email' not in data:
+        return jsonify({'message': 'email is required'})   
+    if not validate_email(str(data['email'])):
+        return jsonify({'message': 'wrong email format'})
+    # Check if exists
+    if User.find_by_username(data['username']):
+        return jsonify({'message': 'User {} already exists'.format(data['username'])})   
+    # Create the user
+    new_user = User(
+        username=data['username'],
+        email=data['email']
+    )
+    new_user.set_password(data['password'])
+    try:
+        new_user.save_to_db()
+        access_token = create_access_token(identity=data['username'])
+        refresh_token = create_refresh_token(identity=data['username'])
+        return jsonify({'message': 'User {} was created'.format(data['username']), 'access_token': access_token, 'refresh_token': refresh_token})
+    except:
+        return jsonify({'message': 'Something went wrong'}, 500)
+    
+@server.route('/rest/shopping_list/api/user_login', methods=['POST'])
+def user_login():
+    print request.data
+    if not request.data:
+        abort(400)
+    data = json.loads(request.data)
+    if not 'username' in data: 
+        return jsonify({'message': 'username is required'})
+    if not 'password' in data:
+        return jsonify({'message': 'password is required'})
+    current_user = User.find_by_username(data['username'])
+    if not current_user:
+        return jsonify({'message': 'User {} doesn\'t exists'.format(data['username'])})
+    if current_user.check_password(data['password']):
+        access_token = create_access_token(identity=data['username'])
+        refresh_token = create_refresh_token(identity=data['username'])
+        return jsonify({'message': 'Correct login for User {}'.format(data['username']), 'access_token': access_token, 'refresh_token': refresh_token})
+    else:
+        return jsonify({'message': 'Wrong password'})
+
 
 @server.route('/rest/shopping_list/api/items', methods=['POST'])
 def create_items():
-    dict_request = json.loads(request.json)
+    data = json.loads(request.json)
     if not request.json:
         abort(400)
     # Check Company
-    db_company = Company.query.filter_by(name=dict_request['company']).first()
+    db_company = Company.query.filter_by(name=data['company']).first()
     if not db_company:
-        db_company = create_company(dict_request['company'])
+        db_company = create_company(data['company'])
     else:
         db_company = db_company.id
     # Check Area
-    db_area = Area.query.filter_by(name=dict_request['area']).first()
+    db_area = Area.query.filter_by(name=data['area']).first()
     if not db_area:
-        db_area = create_area(dict_request['area'])
+        db_area = create_area(data['area'])
     else:
         db_area = db_area.id
     # Check Supermarket
-    db_supermarket = Supermarket.query.filter_by(name=dict_request['supermarket']).first()
+    db_supermarket = Supermarket.query.filter_by(name=data['supermarket']).first()
     if not db_supermarket:
-        db_supermarket = create_supermarket(dict_request['supermarket'], db_company, db_area, dict_request['lat'], dict_request['lon'])
+        db_supermarket = create_supermarket(data['supermarket'], db_company, db_area, data['lat'], data['lon'])
     else:
         db_supermarket = db_supermarket.id
-    for item in dict_request.get('articles'):
+    for item in data.get('articles'):
         item_category = Category.query.filter_by(name=item['category']).first()
         if not item_category:
             # create category

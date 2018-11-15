@@ -35,6 +35,15 @@
             "scripts": []
           },
           "configurations": {
+            "dev": {
+                "fileReplacements": [
+                {
+                    "replace": "src/environments/environment.ts",
+                    "with": "src/environments/environment.dev.ts"
+                }
+                ],
+                "serviceWorker": true
+            },
             "production": {
               "fileReplacements": [
                 {
@@ -60,6 +69,9 @@
             "browserTarget": "web-client:build"
           },
           "configurations": {
+              "dev": {
+                "browserTarget": "web-client:build:dev"
+              },
             "production": {
               "browserTarget": "web-client:build:production"
             }

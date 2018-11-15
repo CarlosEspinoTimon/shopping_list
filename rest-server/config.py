@@ -19,6 +19,9 @@ class Config(object):
         SQLALCHEMY_DATABASE_URI = ('mysql://{username}:{password}@{host}:3306/{database}').format(
                     username=MYSQL_USER, password=MYSQL_PASSWORD, database=MYSQL_DATABASE,
                     host=MYSQL_HOST)
+    elif (os.getenv('FLASK_APP', '') == 'server.py'):
+        SQLALCHEMY_DATABASE_URI = (
+            'mysql://test:test@127.0.0.1:3306/test' )
     else:
         SQLALCHEMY_DATABASE_URI = (
             'mysql://{user}:{password}@127.0.0.1:3306/{database}').format(
@@ -29,3 +32,5 @@ class Config(object):
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
     ARTICLES_PER_PAGE = 5
+    
+    JWT_SECRET_KEY = 'my_jwt-secret-string'

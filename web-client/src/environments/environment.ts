@@ -5,7 +5,6 @@
 export const environment = {
     production: false,
     serverUrl: "http://localhost:8080/rest/shopping_list/api/"
-    // serverUrl: "http://localhost:5000/rest/shopping_list/api/"
 };
 
 /*

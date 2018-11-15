@@ -32,5 +32,11 @@ If you have problems, delete the migration folder and do the next:
 To load some inital data you can run
 `python load_articles.py`
 
-# GOOGLE SQL
-To work locally you have to configure the Claoud SQL Proxy https://cloud.google.com/appengine/docs/flexible/python/using-cloud-sql
+# Development and Google App Engine
+While development you can use start the server as explained before and then start the client with (see the rest of the explanation in web-client README):
+`ng serve -c dev`
+
+If you want to try the app before uploading it to Google App Engine you can run:
+`dev_appserver.py app.yaml`
+
+Remember to configure app.yaml before running it.
